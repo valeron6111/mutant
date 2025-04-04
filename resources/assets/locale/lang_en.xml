@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string id="0" name="version">Version</string>
+	<string id="1" name="mutant">Mutant</string>
+	<string id="2">MUTANT</string>
+	<string id="3">Voices</string>
+	<string id="4">Voices</string>
+	<string id="5">Voice</string>
+	<string id="6" name="sounds">Sounds</string>
+	<string id="7">Animation...</string>
+	<string id="8">Strategy Guide</string>
+	<string id="9">Graphics</string>
+	<string id="10">Restoration</string>
+	<string id="11">Downloaded</string>
+	<string id="12">Left for today</string>
+	<string id="13">per day for friends</string>
+	<string id="14">Respawning in</string>
+	<string id="15" name="sec">sec(s).</string>
+	<string id="16" name="killed">Killed</string>
+	<string id="17">Accuracy</string>
+	<string id="18" name="ping">Ping</string>
+	<string id="19">Double damage</string>
+	<string id="20">Rate of fire</string>
+	<string id="21" name="walk_speed">Running speed</string>
+	<string id="22">Energy shield</string>
+	<string id="23">Saving...</string>
+	<string id="24" name="missions">Missions</string>
+	<string id="25" name="bonuse_missions">Bonus tasks</string>
+	<string id="26" name="total_rating">Total rating</string>
+	<string id="27">Rating</string>
+	<string id="28">Bonus task</string>
+	<string id="29">Completed</string>
+	<string id="30">Select a friend</string>
+	<string id="31" name="level">level</string>
+	<string id="32">vs. players</string>
+	<string id="33" name="character_history">Character history</string>
+	<string id="34">Extra character</string>
+	<string id="35">On</string>
+	<string id="36">Off</string>
+	<string id="37" name="implants">Implants</string>
+	<string id="38">Weapons upgrade</string>
+	<string id="41">Add your friend to the camp</string>
+	<string id="42">You've become a zombie!</string>
+	<string id="43">You survived!</string>
+	<string id="44">You were killed in the Arena!</string>
+	<string id="45">You survived the Arena!</string>
+	<string id="46">Survival rating</string>
+	<string id="47">Progress rating</string>
+	<string id="48">Training rating</string>
+	<string id="49">Duel rating</string>
+	<string id="50">Hunt rating</string>
+	<string id="51" name="level_stat">Level</string>
+	<string id="52">Player's rating</string>
+	<string id="53" name="game_time">Irradiation time</string>
+	<string id="54" name="mutants_killed">Mutants killed</string>
+	<string id="55">Players killed</string>
+	<string id="56" name="rewards">Awards</string>
+	<string id="57" name="rewards_buttons">Awards earned</string>
+	<string id="58">Arena's players</string>
+	<string id="59">Award progress</string>
+	<string id="60">Earn new awards!</string>
+	<string id="63">No high scores</string>
+	<string id="64">Survival</string>
+	<string id="65">Duel</string>
+	<string id="66">Hunt</string>
+	<string id="67">Survival mode</string>
+	<string id="68">haven't played yet</string>
+	<string id="69" name="missons_mode">Missions</string>
+	<string id="70">Arena mode</string>
+	<string id="71">Player's level</string>
+	<string id="72">Amount of games</string>
+	<string id="73" name="hours_short">hr</string>
+	<string id="74" name="minutes_short">min</string>
+	<string id="75">Downloaded implants</string>
+	<string id="76">Downloaded weapons upgrades</string>
+	<string id="77">Camp</string>
+	<string id="78">Rating for the kill</string>
+	<string id="79">to life points</string>
+	<string id="80">Regeneration of life points</string>
+	<string id="81">Medical kit life points</string>
+	<string id="82">Boss' lives theft</string>
+	<string id="83">Resistance to the damage of bugs and carriers</string>
+	<string id="84">Resistance to the damage of double-legs and screamers</string>
+	<string id="85">Running speed</string>
+	<string id="86">Duration of time bonuses</string>
+	<string id="87">All bonuses will last longer</string>
+	<string id="88">Bonus blast radius</string>
+	<string id="89">Freeze! time</string>
+	<string id="90" name="attack_speed">Rate of fire</string>
+	<string id="91">Gun rate of fire</string>
+	<string id="92">Machine gun rate of fire</string>
+	<string id="93">Shotgun rate of fire</string>
+	<string id="94">Heavy gun rate of fire</string>
+	<string id="95">Super heavy gun rate of fire</string>
+	<string id="96">Weapons damage</string>
+	<string id="97">Gun damage</string>
+	<string id="98">Machine gun damage</string>
+	<string id="99">Shotgun damage</string>
+	<string id="100">Heavy gun damage</string>
+	<string id="101">Super heavy gun damage</string>
+	<string id="102">Bullets</string>
+	<string id="103">Initial machine gun bullets</string>
+	<string id="104">Initial Shotgun bullets</string>
+	<string id="105">Initial heavy gun bullets</string>
+	<string id="106">Initial super heavy gun bullets</string>
+	<string id="107">Bullets spread</string>
+	<string id="108">Gun shoots through</string>
+	<string id="109">Machine gun through shots</string>
+	<string id="110">Shotgun through shots</string>
+	<string id="111">Heavy gun through shots</string>
+	<string id="112" name="tab_character">Character</string>
+	<string id="113">Armory</string>
+	<string id="114">Award</string>
+	<string id="115">You gained the support of</string>
+	<string id="116">You started searching...</string>
+	<string id="117">equipment</string>
+	<string id="118">Start the search now!</string>
+	<string id="119">Come back tomorrow and get a bonus!</string>
+	<string id="120">Available games:</string>
+	<string id="121">in</string>
+	<string id="122">day of playing</string>
+	<string id="123">month</string>
+	<string id="124" name="survival">Survival</string>
+	<string id="125" name="mission">Missions</string>
+	<string id="126" name="deathmatch">PvP Duel</string>
+	<string id="127" name="cooperative">Hunt</string>
+	<string id="128">Back</string>
+	<string id="129" name="music">Music</string>
+	<string id="130" name="sound">Sounds</string>
+	<string id="131">Smoothing</string>
+	<string id="132" name="aim">Laser backsight</string>
+	<string id="133">seconds until the Arena starts</string>
+	<string id="134">seconds until the Arena is done</string>
+	<string id="135" name="exit">Exit the game</string>
+	<string id="136">Character ratings</string>
+	<string id="137">Survival high score</string>
+	<string id="138">Place on high score list</string>
+	<string id="139">no</string>
+	<string id="140">Attempts to survive</string>
+	<string id="141">Number of successful attempts</string>
+	<string id="142">Irradiation time</string>
+	<string id="143">Additions</string>
+	<string id="144">Player's rating / Level</string>
+	<string id="145">Duel mode</string>
+	<string id="146">Rating</string>
+	<string id="147">Successful games</string>
+	<string id="148">Hunt mode</string>
+	<string id="149">Train mode</string>
+	<string id="150">Male</string>
+	<string id="151">Female</string>
+	<string id="152">Unknown</string>
+	<string id="153">Connection check</string>
+	<string id="154">Connection with server</string>
+	<string id="155">The wave began!</string>
+	<string id="156">No connection.</string>
+	<string id="157">The player left!</string>
+	<string id="158">Authorization error!</string>
+	<string id="159">Arena not created!</string>
+	<string id="160">Four players in the arena!</string>
+	<string id="161">A battle is taking place in this arena!</string>
+	<string id="162">escaped from the arena!</string>
+	<string id="163">The player left!</string>
+	<string id="164">quit the arena</string>
+	<string id="165">Administration</string>
+	<string id="166">Online now</string>
+	<string id="167">In a line</string>
+	<string id="168">The player is banned!</string>
+	<string id="169">was banned by the anti-cheating system!</string>
+	<string id="170">The player is offline</string>
+	<string id="171">went offline</string>
+	<string id="172">restore within</string>
+	<string id="173">Connection established</string>
+	<string id="174">Connection lost</string>
+	<string id="175">Connection closed</string>
+	<string id="176">Connection error</string>
+	<string id="177" name="loading">Loading...</string>
+	<string id="178">Daily bonus</string>
+	<string id="179">Search days</string>
+	<string id="180" name="select_level">Select a mission</string>
+	<string id="181">Prehistory</string>
+	<string id="182">Arena</string>
+	<string id="183">Arena restrictions</string>
+	<string id="184">Friends ready to play</string>
+	<string id="185">or ID of another person</string>
+	<string id="186">Arena without any limits</string>
+	<string id="187">Good prices</string>
+	<string id="188">Purchase points</string>
+	<string id="189">Games</string>
+	<string id="190">Game</string>
+	<string id="191">Select a character</string>
+	<string id="192">Game additions</string>
+	<string id="193" name="install">Buy</string>
+	<string id="194">Description</string>
+	<string id="195">Price</string>
+	<string id="196" name="options">Options</string>
+	<string id="197">Music</string>
+	<string id="198">Sounds</string>
+	<string id="199">Music volume</string>
+	<string id="200">Graphics smoothing</string>
+	<string id="201">Laser backsight</string>
+	<string id="202">Restore data</string>
+	<string id="203">Lost purchases</string>
+	<string id="204">Upgrades</string>
+	<string id="205" name="upgrade_points">Yellow points</string>
+	<string id="206" name="your_upgrades">Your upgrades</string>
+	<string id="207">Upgrade's influence</string>
+	<string id="208" name="buy_implant_points">Upgrade's scores synthesis</string>
+	<string id="209">Equipment</string>
+	<string id="210" name="equipment_points">Equipment points</string>
+	<string id="211" name="buy_points">Purchase points</string>
+	<string id="212" name="select_your_weapon">Your equipment</string>
+	<string id="213">Used equipment</string>
+	<string id="214">Purchase's scores synthesis</string>
+	<string id="215">Friends</string>
+	<string id="216">Camp</string>
+	<string id="217">Friends using the application</string>
+	<string id="218">Your job</string>
+	<string id="219">Friends in your camp</string>
+	<string id="220">Change the current job?</string>
+	<string id="221">Changing the current job will cost</string>
+	<string id="222" name="game_statistic">Game statistics</string>
+	<string id="223">High Scores</string>
+	<string id="224" name="statistic">Statistics</string>
+	<string id="225">Chat:</string>
+	<string id="226">Options</string>
+	<string id="227">Sex:</string>
+	<string id="228">Date of birth:</string>
+	<string id="229">Help</string>
+	<string id="230" name="awards">Achievements</string>
+	<string id="231">Allow</string>
+	<string id="232">Buy</string>
+	<string id="233" name="cancel">Cancel</string>
+	<string id="234" name="close">Close</string>
+	<string id="235">Get the bonus</string>
+	<string id="236" name="main_menu">Main menu</string>
+	<string id="237" name="play">Play</string>
+	<string id="238" name="select">Select</string>
+	<string id="239">Add</string>
+	<string id="240">Random battle</string>
+	<string id="241">Play alone</string>
+	<string id="242">Play with a friend</string>
+	<string id="243">My statistics</string>
+	<string id="244">Selected player</string>
+	<string id="245">All players</string>
+	<string id="246">Search</string>
+	<string id="247">Trial game</string>
+	<string id="248" name="arsenal">Armory</string>
+	<string id="249">Produce</string>
+	<string id="250" name="weapons">Weapons</string>
+	<string id="251" name="bonuses">Bonuses</string>
+	<string id="252">Delete</string>
+	<string id="253" name="continue">Continue</string>
+	<string id="254" name="restart">Restart</string>
+	<string id="255">Escape from the arena</string>
+	<string id="256">Complete the arena</string>
+	<string id="257">Start the arena</string>
+	<string id="258">Invite</string>
+	<string id="259">Locked</string>
+	<string id="260">Friend's resistance to damage</string>
+	<string id="261">second(s) of your friend's help</string>
+	<string id="262">Sound volume</string>
+	<string id="263">Your ID:</string>
+	<string id="264">Unknown</string>
+	<string id="265" name="repair">Restore</string>
+	<string id="266" name="award_of_level">Level %n award!</string>
+	<string id="268">Completed</string>
+	<string id="269">Golden awards</string>
+	<string id="270" name="share_with_friends">Tell your friends</string>
+	<string id="271">The mission is already completed!</string>
+	<string id="272">My Golden awards</string>
+	<string id="273" name="level_up_share_message">I am on level %n! Save mankind from mutants!</string>
+	<string id="275">It's time to rescue the planet from mutants!</string>
+	<string id="276">Share your achievement with your friends?</string>
+	<string id="277">All upgrade points and additions you've purchased were recounted and restored. If you lose your upgrade points or additions, send a message to the technical support team.</string>
+	<string id="278">Slow productivity</string>
+	<string id="279">The game is running too slowly on your IP. You've automatically quit the arena.</string>
+	<string id="280">High ping</string>
+	<string id="281">You have a low server connection speed due to the speed Internet of your Internet connection or your distance from the server. You've automatically quit the arena.</string>
+	<string id="282">Select Arena mode to start playing! And remember to buy equipment, weapons and bonuses. You won't survive without them!</string>
+	<string id="283">If you want to play this character, click on Buy.</string>
+	<string id="284">Not enough space!</string>
+	<string id="285">You can install up to five implants. If you want more space, select one implant and click on Return to remove the implant and receive upgrade points back.</string>
+	<string id="286">Not enough space!</string>
+	<string id="287">You can install up to five upgrades. If you want more space, select one implant and click on Return to remove the implant and receive upgrade points back.</string>
+	<string id="288">You've already purchased this upgrade!</string>
+	<string id="289">You can't purchase that kind of armory upgrade again.</string>
+	<string id="290">You can't install more equipment than you have now. If you want to free up room, click on the installed equipment. This removes the equipment.</string>
+	<string id="291">You've already purchased this equipment!</string>
+	<string id="292">You can't purchase that kind of equipment upgrade again.</string>
+	<string id="293">Unable to return</string>
+	<string id="294">You can't return free bonuses.</string>
+	<string id="295">A friend of yours joined your camp!</string>
+	<string id="296">The number of people in your camp is on the rise and you receive +1,000 equipment points and +1 improvement point!</string>
+	<string id="297">There is no more available room in your camp. If you want to free up room, click on one of your added friends. The number of places in the camp depends on your level.</string>
+	<string id="298">Already joined!</string>
+	<string id="299">This player has already joined your camp!</string>
+	<string id="300">Low level</string>
+	<string id="301">You can add people with an experience level close to yours or one level higher than yours.</string>
+	<string id="302">Uh, that's you!</string>
+	<string id="304">You can't add yourself to your camp!</string>
+	<string id="305">Mission completed!</string>
+	<string id="306">Complete every mission and carry out every bonus task to increase your level as much as possible and acquire the most bonuses.</string>
+	<string id="307">Player's level!</string>
+	<string id="308">Play in different modes, get a rating for each battle and your level will increase. You receive bonuses as a reward.</string>
+	<string id="309">+1 upgrade point</string>
+	<string id="310">Earn every upgrade to maximize the level of your character and weapons.</string>
+	<string id="311">You've earned the full golden award - 100 experience points! And you get +1 upgrade point.</string>
+	<string id="312">The anti-cheating system or the game's administrators have banned you from playing.  If this was due to an error, contact our technical support team.</string>
+	<string id="313">Server unavailable!</string>
+	<string id="314">Get to level 2!</string>
+	<string id="315">The Arena becomes available when you reach level 2.  Play the Survival and Mission modes first.</string>
+	<string id="316">Arena limits</string>
+	<string id="317">You can't play anymore.  You can wait 30 minutes until the next game or learn more about purchasing an arena.</string>
+	<string id="318">Don't leave the arena window.</string>
+	<string id="319">The Flash player blocks connections of non-active windows. Don't leave the game window and don't click outside the window while you're in a line!</string>
+	<string id="320">Searching for players! Don't leave the game window!</string>
+	<string id="321">You're in a line! Don't leave the game window!</string>
+	<string id="322">Log into the application again.</string>
+	<string id="323">Server at capacity. Please try again in 10 minutes.</string>
+	<string id="324">Server is restarting.</string>
+	<string id="325">Server connection lost!</string>
+	<string id="326">Server connection too slow or lost.</string>
+	<string id="327">This game requires access to your list of friends. Allow access?</string>
+	<string id="328">Install this on your page to start playing!</string>
+	<string id="329" name="install_character_query">Buy the selected character?</string>
+	<string id="330">If your purchase is lost, click on Restore.</string>
+	<string id="331">The anti-cheating system detected that you were trying to jailbreak the game. If you do this again, you will be banned from the server. You also will permanently lose all of your purchases and achievements.</string>
+	<string id="332">If this was due a game error, please contact the technical support team.</string>
+	<string id="333">The weapon is purchased before a battle. If your character has this kind of weapon, it will be replaced with a new one, but your bullets will remain the same.</string>
+	<string id="334">The bonuses are spent if you use them in battle. To do so, click their icon during the game.</string>
+	<string id="335">You won by deception.  The stats won't be added to your profile.</string>
+	<string id="350">The Nuclear Physicist got his name from his father, who developed nuclear weapons for the government.  He was a young boy when the infection appeared, and he and his father valiantly defended their house against hordes of mutants.  The Nuclear Physicist can still remember the terror of watching a mutant worm that had smashed its way through their cellar walls swallow his father whole.  Searching through his fathers things, he found notes about how to upgrade any weapon.  But his most important find was a heavy metal box containing his father's best invention - a Plasma Cannon.  The Nuclear Physicist swore to avenge his father, so he seeks out infected areas looking for the worm and incinerating thousands of mutants with his cannon.</string>
+	<string id="351">Nuclear Physicist</string>
+	<string id="352">+ 25% Weapons damage</string>
+	<string id="353">+ Weapon Plasma cannon (+15 bullets)</string>
+	<string id="354">Superpower Plasma ball</string>
+	<string id="355">Once a minute, the Nuclear Physicist can unleash a plasma ball. The ball hovers in front, freezing every enemy and inflicting damage of 1 life point. After 4 seconds, the ball blows up, inflicting damage of 1 life point on all enemies within the blast radius.</string>
+	<string id="356">The only thing that remained in the wake of the infection was a number of small military detachments.  The soldiers of these stalwart units forged fortresses out of the ruined cities and defended themselves against the mutants.  While on a scouting mission, one of the detachments encountered a swarm of bugs.  When the sergeant saw the mutants killing his friends, he went mad and began spraying the battlefield with gunfire.  The hail of bullets killed not only the bugs, but also his friends.  When a rescue craft arrived, he refused to leave his bazooka behind.  Since that day, he's been called Destroyer.  People say he appears at infected zones from time to time to kill mutants with his bazooka.</string>
+	<string id="357">Destroyer</string>
+	<string id="358">+ 50% Blast radius</string>
+	<string id="359">+ Weapon Bazooka (+15 bullets)</string>
+	<string id="360">-10% running speed</string>
+	<string id="361">Superpower Artillery strike</string>
+	<string id="362">Once a minute, the Destroyer can use guided missile launchers. All enemies on the screen and the Destroyer get damage of 6 life points.</string>
+	<string id="363">The gangs began to quickly spread in the ruined, disease-infested world. To protect their camps, the survivors hired people experienced in making trips to infected territory. The survivors called them "hirelings". The hirelings formed teams from experienced mountain men and volunteers with combat skills. Sometimes, small hireling teams ventured deep into infected territory to procure food, spare parts and medicines. The hirelings are used to operating in groups. Stragglers have almost no chance of surviving alone...</string>
+	<string id="364">Hireling</string>
+	<string id="365">+7% rating for killing mutants</string>
+	<string id="366">+ Weapon Machine gun (+360 bullets)</string>
+	<string id="367">Superpower Two weapons</string>
+	<string id="368">Once a minute, the Hireling can use his battle skills, shooting from two of the same weapon at the same time for 4 seconds.</string>
+	<string id="369">Survivors sometimes needed help military men or hirelings couldn't provide. Those in power could ask killers for help. A typical task for a killer would involve sneaking into a camp and neutralizing a victim. To fool a victim, she parades around like a street walker, and when she's attracted her victim, she ends his life.  After a kill, she seeks out shelter within the deepest infected areas.</string>
+	<string id="370">Killer</string>
+	<string id="371">+30% shooting speed</string>
+	<string id="372">-20 life points</string>
+	<string id="373">Superpower Victim's fear</string>
+	<string id="374">Once a minute, the Killer can cause blood-chilling horror among his victims. All enemies on the screen are frozen and receive damage of 1 life point.</string>
+	<string id="376">When the infection started, the Hunter refused to evacuate and instead stayed behind and protected his home. Through that experience, the Hunter learned how to survive in infected area by using food, bullets and his powers sparingly. The only things the Hunter trusts are his weapons.  Still, when the military asked him to protect the area around his house, he agreed he would as long as they provided him with food. In return, the officers promised to send a rescue helicopter to get him if things got out of hand.</string>
+	<string id="377">Hunter</string>
+	<string id="378">+25% time bonus duration</string>
+	<string id="379">+ Weapon Double-barrel shotgun (+72 bullets)</string>
+	<string id="380">Superpower Plasma traps</string>
+	<string id="381">Once a minute, the Hunter can use 3 plasma traps that are triggered either after 5 seconds or when the enemy approaches. The blast freezes the enemies and inflicts damage of 1 life point.</string>
+	<string id="382">The story of the Half-Mutant began with a betrayal.  When a rescue helicopter dropped in to take his team out of a battle zone, there wasn't enough room for him on the chopper, so his friends threw him out.  He used every last bullet in his arsenal to fight back the mutant hordes, but eventually had to run.  Before falling over from exhaustion, he removed his anti-radiation suit and tore off his gas mask.  "This is the end," he said.  Wounded and nearly depleted, he ran into an abandoned hangar, where he found a firegun.  Revived, he ran back outside and sprayed the mutants with fire, choking as the smoke from their burning flesh hit his throat.  "That's the smell of me surviving," he said, gritting his teeth.  When his weapon ran out of fuel, he tossed it aside and started tearing at the mutants with his teeth and nails.  He eventually overcame his enemies, and a nearby group of survivors saw him bite off the head of the last mutant.  They thought he was infected and had already trained their guns on him when he cried out, "Don't shoot!  I'm a survivor!"  Since that day, he's been trying to find out why he mutated and looking for the people who betrayed him.</string>
+	<string id="383">Half-mutant</string>
+	<string id="384">+20 life points</string>
+	<string id="385">+ 0.3 Life restoration (in seconds).</string>
+	<string id="386">+ Weapon Firegun (+300 bullets)</string>
+	<string id="387">Superpower Transformation</string>
+	<string id="388">Once every 60 seconds, the Half-mutant transforms into a monster for seven seconds. While in this state, he can move and attack very quickly.  The transformation also restores his life points and increases his survival or task rating.</string>
+	<string id="389">People say the Fanatic went mad even before he acquired his abilities. Before the infection, he was studying the effects of plasma on human genes in an effort to create a superman.  He was so obsessed with his experiments, he used himself as a subject in one.  Unfortunately, there was an accident, and an explosion of unstable plasma destroyed his lab. No one knows how he survived or where he got his Superpower to control electricity. Some people heard him say he's looking for an energy source in the infected areas as well as artifacts created by mutations. Regardless, people give him a lot of space because they think he's a freak.</string>
+	<string id="390">Fanatic</string>
+	<string id="391">+ 30% Running speed</string>
+	<string id="392">+30 bonuses application</string>
+	<string id="393">+ Weapon Tesla cannon (+15 bullets)</string>
+	<string id="394">Superpower Storm</string>
+	<string id="395">Once every 60 seconds, the Fanatic becomes an electric storm. For five seconds, he jumps around like lightning and damages nearby enemies.</string>
+	<string id="396">During the first few days of the infection, the military tried to stop it from spreading using means that were less than human, including dropping nuclear bombs on major population centers.  This killed a lot of mutants, but wiped out large numbers of perfectly healthy humans, too.  A nuclear explosion killed the beloved girlfriend of the Telepathist and doused him with radiation.  When he regained consciousness under the rubble of a demolished building, he discovered he was alone.  Enraged, he swore to kill everyone involved in the death of his girlfriend.  As time passed, he discovered the radiation had given him supernormal abilities, including pyrokinesis, psychokinesis and heightened senses. A thirst for revenge compels the Telepathist to turn his abilities against any and all survivors.</string>
+	<string id="397">Telepathist</string>
+	<string id="398">+15% shooting speed</string>
+	<string id="399">+15% run speed</string>
+	<string id="400">+ Weapon AK-47 Assault Rifle (+360 bullets)</string>
+	<string id="401">+ Attracting bonuses</string>
+	<string id="402">Superpower Pyrokinesis</string>
+	<string id="403">Once every 30 seconds the Telepathist can create a fireball. The fireball blast inflicts damage of 4 life points.</string>
+	<string id="404">In every camp of survivors, there was one trusted person to whom every looked for guidance. Until her mutation, the Witch was one such leader.  One day, she decided to clean out a particular lair to end the frequent attacks by the bugs living there.  Several people disagreed with her plan and refused to risk their lives to carry it out.  Undeterred, and with a smaller than anticipated force behind her, she attacked the lair.  She was injured during the fight, but no one would come to her rescue.  Worse, those who came with her left her in the lair and told everyone at camp she'd died.  When the Witch opened her eyes, she could barely breathe and was covered with a slimy substance.  She thought she would die there, but the bugs left her alone, and she was able to escape.  Mystified, it took her a few moments to realize her DNA has been mixed with the DNA of a mutant.  She's left with an unbearable hunger and a desire to sink her teeth into the flesh of her betrayers and rip it from their bones.  She sneaks into camps, killing everyone she encounters.</string>
+	<string id="405">Witch</string>
+	<string id="406">+10% run speed</string>
+	<string id="407">+ 0.8 Life restoration (per second)</string>
+	<string id="408">+ Weapon Crossbow (+72 bullets)</string>
+	<string id="409">Curing: Three life points per second</string>
+	<string id="410">-30% lives from the maximum</string>
+	<string id="411">Superpower Bug swarm</string>
+	<string id="412">Once every 30 seconds the Witch casts a bug swarm. You can blast the bugs to kill them. Each bug inflicts damage of 2 life points; 12 bugs in total.</string>
+	<string id="413">A secret government military detachment formed before the infection put up the best fight against the mutants. Its primary goal was protecting the government through special ops at the epicenter of the infection. As the infection spread across the world, the Cyborg was the only one in the detachment to survive. Tragically, he hopes to use his abilities to find and rescue others from his former detachment.</string>
+	<string id="414">Cyborg</string>
+	<string id="415">+ 100 Life points</string>
+	<string id="416">+ 10% Weapons damage</string>
+	<string id="417">+ Weapon Plasma rifle (+360 bullets)</string>
+	<string id="418">Superpower Gravitational shock</string>
+	<string id="419">Once every 15 seconds the Cyborg hits the ground with his metal arm, creating around him a gravitational wave that pushes all enemies away from the Cyborg and inflicting damage of 1 life point.</string>
+	<string id="420">Gun</string>
+	<string id="421">Machine gun</string>
+	<string id="422">Shotgun</string>
+	<string id="423">Bazooka</string>
+	<string id="424">Plasma cannon</string>
+	<string id="425">Firegun</string>
+	<string id="426">Tesla cannon</string>
+	<string id="427">AK-47 Assault Rifle</string>
+	<string id="428">Plasma rifle</string>
+	<string id="429">Crossbow</string>
+	<string id="430">Double barrel shotgun</string>
+	<string id="431">Brainstorm</string>
+	<string id="432">Sterodant</string>
+	<string id="433">Tentacler</string>
+	<string id="434">Womb</string>
+	<string id="435">Research</string>
+	<string id="436">The infection jumped quickly from city to city, taking over everyone with whom it came in contact.  As countless people succumbed to the horror, the survivors speculated about its origin.  Some said the infection was the result of a scientific experiment gone wrong.  Others said it was nature's response to the destructive behavior of human beings.  After the infection appeared, the survivors formed the first encampments and set about the task of determining the source of the infection in the hopes of bringing the plague to an end.</string>
+	<string id="437">First Threat</string>
+	<string id="438">The survivors in a southern camp decided to travel north to find the source of the infection.  They gathered together their best gunmen in an attempt to put together a team that would be able to survive in an infected zone.  Their path would take them through an abandoned farm that contained a number of wind turbines.</string>
+	<string id="439">Mutation</string>
+	<string id="440">Leaving the decimated farm still crawling with zombies, the heroes proceeded through the Wasteland, a desert region populated by mutants.  In time, the detachment came to an enormous junkyard.  A local resident reported seeing aggressive animal-like mutants with no skin among the mountainous piles of junk.  "Thick veins covered their muscles and pulsated with fury," the man told them.</string>
+	<string id="441">Call</string>
+	<string id="442">The battle lasted several hours.  Just as the group was starting to gain some ground, something huge rushed toward them through the piles of metal, tossing twisted cars here and there. Then they heard shrill howl.</string>
+	<string id="443">Bugs</string>
+	<string id="444">After the group had killed the Red Brainwinch, they saw an entrance to a strange lair.  They reasoned that the source of the infection might lie within it, so they went inside.  As they descended lower and lower into the pit, they noticed more and more mutant eggs on the walls.</string>
+	<string id="445">Chitin</string>
+	<string id="446">The insects attacked them again and again in an effort to kill them and protect their eggs. Among the hundreds of enemies they encountered, they saw one species with a super-strong protective shell.</string>
+	<string id="447">Dangerous crack</string>
+	<string id="448">As they made their way through the lair, the heroes found a deep crack in the wall. When they approached it, hundreds of red bugs - the most dangerous mutant insect - appeared.</string>
+	<string id="449">Wrath</string>
+	<string id="450">The heroes didn't find anything of interest in the lair, but did manage to pull themselves out of the jaws of the bugs.  Then they entered an abandoned factory.  Among the rusty barrels and fallen beams, something horrifying was about to make itself known...</string>
+	<string id="451">Horns and teeth</string>
+	<string id="452">While standing over the corpses of two creatures, the heroes decided to search the factory for clues to the source of the infection.  Why leave any stone unturned, they reasoned, including a major industrial complex?</string>
+	<string id="453">Impenetrable armor</string>
+	<string id="454">They found nothing of interest in the abandoned factory other than broken chemical equipment and dozens of double-legs, horned creatures filled with acid.  These bugs were especially tough to defeat because they spewed acid if they were enraged or about to die.</string>
+	<string id="455">Painful blast</string>
+	<string id="456">The expedition walked an entire day on a broken highway covered with abandoned cars to reach another city.  As night fell, they found themselves approaching the town.  Walking deep into its ruins, they spotted a huge pack of red double-legs.</string>
+	<string id="457">Suffocation</string>
+	<string id="458">The city was full of mutants. The group of heroes had to get to the other side of the city and find the survivors who had promised to show them a military laboratory, the place from which the infection might have come.</string>
+	<string id="459">The carrier</string>
+	<string id="460">Having survived the fight with the tentackled mutants, the heroes continued to make their way to the abandoned laboratory. The further they went into the infected city, the more insect-covered zombies they met. In a revolting example of mutant symbiosis, the zombies were tearing off the insects and throwing them at the survivors.</string>
+	<string id="461">Laboratory</string>
+	<string id="462">The survivors found the exit to the abandoned military laboratory and went down to the first underground level. They found upturned tables, barrels filled with chemicals and smashed blue incubators. Nobody knew what the scientists were growing there, as the volunteers hadn't found any documentation.</string>
+	<string id="463">Dead flesh</string>
+	<string id="464">Mutation - that's what the scientists in the laboratory were studying. They inadvertently created monsters while performing experiments on the genes of animals. This mutation was the beginning of the infection and the end of the human race.</string>
+	<string id="465">Hole</string>
+	<string id="466">In the laboratory, the survivors found a massive hole in the floor that led to the lair of the insects. Believing it to be the epicenter of the infection, the heroes descended into the stench-filled abyss.</string>
+	<string id="467">Escape</string>
+	<string id="468">The heroes killed the womb in the lair and then discovered they were trapped by the insects, which were growing in number!  Someone saw a pinpoint of light at the far end of a cave, and the heroes ran toward it as they fired their weapons over their shoulders.  On the surface, they found themselves at the foot of a mountain near a demolished city.  Although they were stunned, the sound of the advancing mutant horde prompted them to continue their escape.</string>
+	<string id="469">Frozen lake</string>
+	<string id="470">As soon as the survivors were safe, they decided to return to camp and tell everyone about the source of the infection.  In the burnt forest, they found a frozen lake. Fire had consumed everything around the lake, but the water was frozen because of the cold temperatures near the mountains.</string>
+	<string id="471">Ice horror</string>
+	<string id="472">The surface of the lake was solid enough to support the heroes.  Unfortunately, it also held up under the weight of the mutant hordes, who were hungry for human flesh.  The relentless beasts attacked again and again, giving the group no rest or hope of rescue.</string>
+	<string id="473">Burnt forest</string>
+	<string id="474">After a fight with the mutants called Screamers, the heroes found themselves in the forest again but on the other side of the lake. They saw a desert in the distance and decided to head in that direction, as the map suggested they would find another city.  Among the burnt trees, they saw what most of them thought were huge stones.  Some of the heroes thought they saw the stones shaking and believed they heard snarling.</string>
+	<string id="475">Nuclear Desert</string>
+	<string id="476">Scorched air burned the throats of the heroes as they approached the desert wasteland. This has once been a place of verdant fields and thriving villages, but the government had detonated nuclear bombs over the region in a desperate attempt to prevent the mutation from spreading.</string>
+	<string id="477">Oblivion</string>
+	<string id="478">The desert seemed endless. Many of the heroes died, while the others lost their will to survive.  In the distance, they saw the silhouette of a city destroyed by a nuclear bomb. The mutants seemed to be without number; no matter how many the survivors killed, even more appeared out of nowhere, stronger and more disgusting than the others.</string>
+	<string id="479">Ruined city</string>
+	<string id="480">Long shadows wrapped themselves around ravaged buildings like the claws of a monster.  As the heroes made their way through the rubble, they looked for food, weapons, ammunition, and survivors.  On every street, they saw fresh blood on the carcasses of ruined cars and piles of uprooted asphalt.  Something unthinkable was living in the city, but the only way out was to walk straight through.</string>
+	<string id="481">Sunset</string>
+	<string id="482">The heroes had barely escaped death in the city when they looked toward the horizon and saw countless mutants pouring across the wasteland.  Perhaps they had heard the gunfire, and were hungry for meat...</string>
+	<string id="483">No task</string>
+	<string id="484">100% accuracy</string>
+	<string id="485">Do not lose more than half of your life points</string>
+	<string id="486">Do not move</string>
+	<string id="487">Use the gun only</string>
+	<string id="488">Kill every boss within one minute</string>
+	<string id="489">Get an accuracy rating of 70% or more</string>
+	<string id="490">Get an accuracy rating of 85% or more</string>
+	<string id="491">Use only one medical kit</string>
+	<string id="492">Start shooting from the first minute and get an accuracy rating of 85% or more</string>
+	<string id="493">Collect 12 bonuses within seven seconds</string>
+	<string id="494">Collect every bonus</string>
+	<string id="495">Duel</string>
+	<string id="496">In this mode, 4 random players with similar levels are put in a closed arena. The winner scores the highest rating by fighting with other players. Rating points are awarded for damage and kills made in this mode. When preparing for battle, don't forget to purchase all required equipment in the game menu.</string>
+	<string id="497">Hunt</string>
+	<string id="498">In Hunt mode, you and one more player have to hold out as long as possible against hordes of mutants. If one of the players dies, the player is restored in 20 seconds. If both players die, the battle is over. The complexity and number of monsters in this mode depend on the total level of the players. When preparing for the hunt, don't forget to purchase all required equipment in the game menu.</string>
+	<string id="499">Training</string>
+	<string id="500">In Training mode, you can invite your friends to practice the network game or fight.</string>
+	<string id="501">Coliseum</string>
+	<string id="502">Cross</string>
+	<string id="503">Maze</string>
+	<string id="504">You wandered in the abandoned zone for several days and found it at last! A super strong metal walkman is badly needed in the infected world!</string>
+	<string id="505">In a rusty car, you found a working radiator made out of nano-particles.</string>
+	<string id="506">It took a lot of work, but you finally got the battery off the horn of the enraged double-leg.</string>
+	<string id="507">There's nothing more wonderful than finding a box of ammunition and food.</string>
+	<string id="508">Your friend found a hair dryer and an electric toothbrush in the heap of metal. The quality of your life improves.</string>
+	<string id="509">You found a huge armory and several fireworks in the cellar of a demolished house.</string>
+	<string id="510">Inside one worm, you found a weapon, a pan and several knifes. Did the worm swallow them?</string>
+	<string id="511">In a lair of insane mutant bugs, you and your friends found the most precious artifact of all - the last bottle of shampoo!</string>
+	<string id="512">In an abandoned area, you met a stranger and exchanged several comic books and magazines for food.</string>
+	<string id="513">In a demolished house, you found shady artifacts.  Perhaps somebody will be able to use them.</string>
+	<string id="514">In the fragments of a plane that crashed many years ago, you found an artificial limb!</string>
+	<string id="515">You found what might be the last working PlayStation in the world!</string>
+	<string id="516">During your last trip to the abandoned area, you found the perfect transport for your camp - a rusty bicycle.</string>
+	<string id="517">In the center of a crater left by a suicide bomber, you found a bag with equipment.</string>
+	<string id="518">Tip: Invite your friends to the camp to increase parameters and bonuses.</string>
+	<string id="519">Tip: Turn off graphics smoothing to increase efficiency.</string>
+	<string id="520">Tip: Play the game every day to receive a daily bonus. The more friends you invite, the more bonus you'll get.</string>
+	<string id="521">Tip: Play the game every day to receive a higher daily bonus.</string>
+	<string id="522">Tip: Your upgrades are based on the awards you earn. Try to earn awards in every mode.</string>
+	<string id="523">Tip: Arena is a team game mode. You need to buy weapons and bonuses to survive!</string>
+	<string id="524">Tip: In the group, you can ask questions and get tips and the latest upgrades.</string>
+	<string id="525">Tip: Visit additions that open up new game possibilities and characters.</string>
+	<string id="526">Tip: To play Arena mode without any restrictions, pay for one month of game time! It's more profitable!</string>
+	<string id="527">Tip: Read the Help page, accessible in the upper part of the screen, for more tips.</string>
+	<string id="528">Tip: To upgrade your character and weapon, visit the Upgrade menu.</string>
+	<string id="529">Tip: These characters have special skills. To activate the skill, use Superpower button.</string>
+	<string id="530">Tip: You can ask every friend for help once a day. Press Shift+F to see which of your friends are playing the game.</string>
+	<string id="531">Survival mode</string>
+	<string id="532" name="main_menu_survival_tooltip">Survive in the infected area to earn awards.  Complete special tasks to earn awards and bonuses.</string>
+	<string id="533">Mission mode</string>
+	<string id="534" name="main_menu_mission_tooltip">Play various missions to maximize your rating. Complete bonus tasks to get upgrade points.</string>
+	<string id="535">Arena mode</string>
+	<string id="536">Fight against other players or survive a mutant hunt with your friends.</string>
+	<string id="537">High Scores</string>
+	<string id="538">Look at all your achievements in the game and compare them with the results of other players.</string>
+	<string id="539" name="tab_upgrades">Upgrades</string>
+	<string id="540">Upgrade your character and weapon!</string>
+	<string id="541" name="tab_equipment">Equipment</string>
+	<string id="542">Purchase the best weapon and additional bonuses!</string>
+	<string id="543" name="tab_camp">Camp</string>
+	<string id="544">Establish a camp with your friends to better protect yourselves!</string>
+	<string id="545">Artifacts search</string>
+	<string id="546">Find artifacts and get bonuses! Search for at least five consecutive days to increase the value of the bonus. The bonus depends on the number of your friends playing the game.</string>
+	<string id="561" name="perk_00">Zombie</string>
+	<string id="562" name="perk_description_00">Die in an infected area and become one of the walking dead.</string>
+	<string id="563" name="perk_01">Zombie slayer</string>
+	<string id="564" name="perk_description_01">Kill at least 5,000 zombies</string>
+	<string id="565" name="perk_bonus_01">Bullets</string>
+	<string id="566" name="perk_02">Experienced</string>
+	<string id="567" name="perk_description_02">Survive after returning from infection mode.</string>
+	<string id="568" name="perk_bonus_02">to life points</string>
+	<string id="569" name="perk_03">Stalker</string>
+	<string id="570" name="perk_description_03">Don't miss any bonuses (at least 10). Survive and kill every boss (Survival).</string>
+	<string id="571" name="perk_bonus_03">Bonuses will stay active longer</string>
+	<string id="572" name="perk_04">Professional</string>
+	<string id="573" name="perk_description_04">Don't use any powerful weapons, abilities or equipment. Survive and kill every boss (Survival).</string>
+	<string id="574" name="perk_bonus_04">Bullets</string>
+	<string id="575" name="perk_05">Survivor</string>
+	<string id="576" name="perk_description_05">Don't use more than one medical kit.  Survive and kill every boss (Survival).</string>
+	<string id="577" name="perk_bonus_05">Regeneration of life points</string>
+	<string id="578" name="perk_06">Sniper</string>
+	<string id="579" name="perk_description_06">Survive and kill every boss with an accuracy rating of more than 95% (Survival).</string>
+	<string id="580" name="perk_bonus_06">Bullets spread</string>
+	<string id="581" name="perk_07">Hero</string>
+	<string id="582" name="perk_description_07">Kill every boss in less than one minute and survive. (Survival)</string>
+	<string id="583" name="perk_bonus_07">Damage by weapon</string>
+	<string id="584" name="perk_08">Inadequate</string>
+	<string id="585" name="perk_description_08">Survive without killing the first boss. (Survival)</string>
+	<string id="586" name="perk_bonus_08">Running speed</string>
+	<string id="587" name="perk_09">Steel</string>
+	<string id="588" name="perk_description_09">A thousand mutants will die trying to break your armor!</string>
+	<string id="589" name="perk_bonus_09">to life points</string>
+	<string id="590" name="perk_10">Strategist</string>
+	<string id="591" name="perk_description_10">Kill 1,000 mutants using blast and freezing bonuses.</string>
+	<string id="592" name="perk_bonus_10">Bonus radius</string>
+	<string id="593" name="perk_11">Universal Soldier</string>
+	<string id="594" name="perk_description_11">Survive for each of the two main characters in Survival mode.</string>
+	<string id="595" name="perk_bonus_11">to life points</string>
+	<string id="596" name="perk_12">Arachnophobe</string>
+	<string id="597" name="perk_description_12">Avoid at least five bugs. Survive and kill every boss (Survival).</string>
+	<string id="598" name="perk_bonus_12">to life points</string>
+	<string id="599" name="perk_13">Bad shooter</string>
+	<string id="600" name="perk_description_13">Your accuracy rating is less than 50%! Be careful, and don't kill any survivors (Survival).</string>
+	<string id="601" name="perk_14">Suicide</string>
+	<string id="602" name="perk_description_14">While trying to escape a horrible death, you shot yourself!</string>
+	<string id="603" name="perk_15">Hardcore player</string>
+	<string id="604" name="perk_description_15">Survive with one gun and no abilities or equipment. Kill at least first three bosses (Survival).</string>
+	<string id="605" name="perk_bonus_15">Gun damage</string>
+	<string id="606" name="perk_16">Lucky one</string>
+	<string id="607" name="perk_description_16">One thousand mutants die thanks to your intuition.  You even didn't see them!</string>
+	<string id="608" name="perk_bonus_16">to life points</string>
+	<string id="609" name="perk_17">Lucky stiff</string>
+	<string id="610" name="perk_description_17">Your health dipped below 10 points but you survived!</string>
+	<string id="611" name="perk_bonus_17">to life points</string>
+	<string id="612" name="perk_18">Monumental</string>
+	<string id="613" name="perk_description_18">Survive without moving!  Stand in one place and kill (Survival).</string>
+	<string id="614" name="perk_bonus_18">to life points</string>
+	<string id="615" name="perk_19">Insect killer</string>
+	<string id="616" name="perk_description_19">Let the bugs blow up against your armor! At least 5 bugs. Survive and kill all bosses. (Survival)</string>
+	<string id="617" name="perk_bonus_19">Damage by bugs and bearers</string>
+	<string id="618" name="perk_20">Beast</string>
+	<string id="619" name="perk_description_20">Kill 100,000 mutants. Even the Womb can't do that!</string>
+	<string id="620" name="perk_bonus_20">Rating for the kill</string>
+	<string id="621" name="perk_21">Trickster</string>
+	<string id="622" name="perk_description_21">Let 1000 mutants destroy each other! (Survival, Missions)</string>
+	<string id="623" name="perk_bonus_21">to life points</string>
+	<string id="624" name="perk_22">Shooter</string>
+	<string id="625" name="perk_description_22">Survive and kill every boss with an accuracy rating of more than 70% (Survival).</string>
+	<string id="626" name="perk_bonus_22">Damage by weapon</string>
+	<string id="627" name="perk_23">Strong killer</string>
+	<string id="628" name="perk_description_23">Survive and kill every boss without using bonuses or equipment.  You can use weapons and medical kits (Survival).</string>
+	<string id="629" name="perk_bonus_23">Bonuses will stay active longer</string>
+	<string id="630" name="perk_24">Blast radius killer</string>
+	<string id="631" name="perk_description_24">Kill any boss with the blast of another mutant (Survival).</string>
+	<string id="632" name="perk_bonus_24">Damage to double-legs</string>
+	<string id="633" name="perk_25">Superhero</string>
+	<string id="634" name="perk_description_25">Kill every boss in less than 20 seconds and survive. (Survival)</string>
+	<string id="635" name="perk_bonus_25">Boss' lives theft</string>
+	<string id="636" name="perk_26">Killer</string>
+	<string id="637" name="perk_description_26">Kill 50 mutants within 10 seconds (Survival).</string>
+	<string id="638" name="perk_bonus_26">Damage by weapon</string>
+	<string id="639" name="perk_27">Untouchable</string>
+	<string id="640" name="perk_description_27">No one injures you for more than 2 minutes. Survive and kill all bosses. (Survival)</string>
+	<string id="641" name="perk_bonus_27">Regeneration of life points</string>
+	<string id="642" name="perk_28">Patient</string>
+	<string id="643" name="perk_description_28">Collect 15 bonuses in seven seconds (Survival).</string>
+	<string id="644" name="perk_bonus_28">Bonuses will stay active longer</string>
+	<string id="645" name="perk_29">Zerk</string>
+	<string id="646" name="perk_description_29">Continue pulling the trigger after the first minute and survive with an accuracy rating of 75% (Survival).</string>
+	<string id="647" name="perk_bonus_29">Damage by weapon</string>
+	<string id="648" name="perk_30">Bloody mess</string>
+	<string id="649" name="perk_description_30">Splash the entire battle field with mutant entrails. (Survival)</string>
+	<string id="650" name="perk_bonus_30">to life points</string>
+	<string id="651" name="perk_31">Dodgy</string>
+	<string id="652" name="perk_description_31">Don't move the backsight after the first minute and survive (Survival).</string>
+	<string id="653" name="perk_bonus_31">to life points</string>
+	<string id="654" name="perk_32">Murderer</string>
+	<string id="655" name="perk_description_32">Survive not killing any mutants until after you kill the last boss (Survival)</string>
+	<string id="656" name="perk_bonus_32">Regeneration of life points</string>
+	<string id="657" name="perk_33">Monolith</string>
+	<string id="658" name="perk_description_33">Stay in one place and don't get injured for 1.5 minutes. (Survival)</string>
+	<string id="659" name="perk_bonus_33">Damage by weapon</string>
+	<string id="660" name="perk_34">Titan</string>
+	<string id="661" name="perk_description_34">Earn seven positive awards that can't be accumulated during one battle (Survival).</string>
+	<string id="662" name="perk_bonus_34">Bonuses will stay active longer</string>
+	<string id="663" name="perk_35">Gladiator</string>
+	<string id="664" name="perk_description_35">Kill 50 players in the arena. (Duel)</string>
+	<string id="665" name="perk_bonus_35">to life points</string>
+	<string id="666" name="perk_36">Champion</string>
+	<string id="667" name="perk_description_36">Survive battle in the arena. (Duel)</string>
+	<string id="668" name="perk_bonus_36">Damage by weapon</string>
+	<string id="669" name="perk_37">Expert</string>
+	<string id="670" name="perk_description_37">Play 3 times in Hunt mode with a friend of level 1–6. Hold out until wave 9. (Hunt)</string>
+	<string id="671" name="perk_bonus_37">Bullets</string>
+	<string id="672" name="perk_38">Swift</string>
+	<string id="673" name="perk_description_38">Collect at least three bonuses in the arena before the battle (Battle).</string>
+	<string id="674" name="perk_bonus_38">Running speed</string>
+	<string id="675" name="perk_39">Deadly</string>
+	<string id="676" name="perk_description_39">Kill two players within three seconds (Battle).</string>
+	<string id="677" name="perk_bonus_39">to life points</string>
+	<string id="678" name="perk_40">Reliable</string>
+	<string id="679" name="perk_description_40">Players need to shoot from different sides (left and right) of the arena and survive at least up to the eighth wave (Hunt).</string>
+	<string id="680" name="perk_bonus_40">Medical kit life points</string>
+	<string id="681" name="perk_41">Life partner</string>
+	<string id="682" name="perk_description_41">Beginning with the second wave, one player cannot move, the second player cannot shoot but both players survive until the 8th wave (Hunt).</string>
+	<string id="683" name="perk_bonus_41">Freeze! time</string>
+	<string id="684" name="perk_42">Hunter</string>
+	<string id="685" name="perk_description_42">Survive up to the 12th wave of attacks (Hunt).</string>
+	<string id="686" name="perk_bonus_42">to life points</string>
+	<string id="687" name="perk_43">Alive</string>
+	<string id="688" name="perk_description_43">Survive up to the 10th wave without losing any players (Hunt).</string>
+	<string id="689" name="perk_bonus_43">Medical kit life points</string>
+	<string id="690" name="perk_44">Highly Skilled</string>
+	<string id="691" name="perk_description_44">Take turns in shooting for not more than 10 seconds each. Survive up to at least the eighth wave (Hunting).</string>
+	<string id="692" name="perk_bonus_44">Freeze! time</string>
+	<string id="693" name="perk_45">Adrenaline addict</string>
+	<string id="694" name="perk_description_45">Get at least one time bonus after the first minute and survive (Survival).</string>
+	<string id="695" name="perk_bonus_45">Bonus active for</string>
+	<string id="696" name="perk_46">Immortal</string>
+	<string id="697" name="perk_description_46">After the first minute, don't let your health points go above 50. Survive and kill every boss (Survival).</string>
+	<string id="698" name="perk_bonus_46">Medical kit life points</string>
+	<string id="699" name="perk_47">Cranks</string>
+	<string id="700" name="perk_description_47">Survive eight waves while running together on the edge of the map beginning with the second wave (Hunt).</string>
+	<string id="701" name="perk_bonus_47">seconds to the helper</string>
+	<string id="702" name="perk_48">Risky behavior</string>
+	<string id="703" name="perk_description_48">Survive until the eighth wave while shooting only from the center of the map starting with the second wave (Hunt).</string>
+	<string id="704" name="perk_bonus_48">Damage from friends</string>
+	<string id="705" name="perk_49">Wolfhound</string>
+	<string id="706" name="perk_description_49">Kill a player who is 8 or more levels higher than you (or at level 50) (Duel)</string>
+	<string id="707" name="perk_bonus_49">Rating for the kill</string>
+	<string id="708" name="perk_50">Chained</string>
+	<string id="709" name="perk_description_50">Don't move and survive until you kill at least 2 players. (Duel)</string>
+	<string id="710" name="perk_bonus_50">to life points</string>
+	<string id="711">level</string>
+	<string id="712">Health</string>
+	<string id="713">Reaction</string>
+	<string id="714">Speed</string>
+	<string id="715">Intellect</string>
+	<string id="716" name="health_points">Life points</string>
+	<string id="717">Rate of fire</string>
+	<string id="718">Running speed</string>
+	<string id="719" name="active_bonus_time">Bonus active for</string>
+	<string id="720">Health</string>
+	<string id="721">Reaction</string>
+	<string id="722">Speed</string>
+	<string id="723">Intellect</string>
+	<string id="724">Gun - speed</string>
+	<string id="725">The gun's rate of fire</string>
+	<string id="726">Gun - damage</string>
+	<string id="727">The amount of damage the gun does</string>
+	<string id="728">Gun's armor-piercing ability</string>
+	<string id="729">+ What the gun shoots through</string>
+	<string id="730">Gun - speed</string>
+	<string id="731">The gun's rate of fire</string>
+	<string id="732">Gun - damage</string>
+	<string id="733">The amount of damage the gun does</string>
+	<string id="734">Machine gun - speed</string>
+	<string id="735" name="auto_speed">The machine gun's rate of fire</string>
+	<string id="736">Machine gun - damage</string>
+	<string id="737" name="auto_damage">Machine gun's power</string>
+	<string id="738">Machine gun's armor-piercing ability</string>
+	<string id="739">+ What the machine gun shoots through</string>
+	<string id="740">Machine gun - bullets</string>
+	<string id="741" name="auto_ammo">Bullets of machine gun</string>
+	<string id="742">Machine gun - speed</string>
+	<string id="743">The machine gun's rate of fire</string>
+	<string id="744">Machine gun - damage</string>
+	<string id="745">The amount of damage the machine gun does</string>
+	<string id="746">Shotgun - speed</string>
+	<string id="747" name="shotgun_speed">The shotgun's rate of fire</string>
+	<string id="748">Shotgun - damage</string>
+	<string id="749" name="shotgun_damage">Shotgun's power</string>
+	<string id="750">Shotgun's armor-piercing ability</string>
+	<string id="751">+ What the shotgun shoots through</string>
+	<string id="752">Shotgun - bullets</string>
+	<string id="753" name="shotgun_ammo">Bullets of the shotgun</string>
+	<string id="754">Shotgun - speed</string>
+	<string id="755">The shotgun's rate of fire</string>
+	<string id="756">Shotgun - damage</string>
+	<string id="757">Shotgun damage</string>
+	<string id="758">Heavy weapon - speed</string>
+	<string id="759" name="heavygun_speed">Rate of fire Heavy weapon</string>
+	<string id="760">Heavy weapon - damage</string>
+	<string id="761" name="heavygun_damage">Heavy weapon's power</string>
+	<string id="762">Heavy weapon - bullets</string>
+	<string id="763" name="heavygun_ammo">Bullets of the heavy weapon</string>
+	<string id="764">Heavy weapon - speed</string>
+	<string id="765">The heavy weapon's rate of fire</string>
+	<string id="766">Heavy weapon - damage</string>
+	<string id="767">The amount of damage the heavy weapon does</string>
+	<string id="768">Cannon - speed</string>
+	<string id="769" name="cannon_speed">The cannon's rate of fire</string>
+	<string id="770">Cannon - damage</string>
+	<string id="771" name="cannon_damage">Cannon's power</string>
+	<string id="772">Cannon - bullets</string>
+	<string id="773" name="cannon_ammo">Bullets the cannon</string>
+	<string id="774">Cannon - speed</string>
+	<string id="775">The cannon's rate of fire</string>
+	<string id="776">Cannon - damage</string>
+	<string id="777">The amount of damage the cannon does</string>
+	<string id="778">Gun</string>
+	<string id="779">Machine gun</string>
+	<string id="780">Shotgun</string>
+	<string id="781">Heavy weapon</string>
+	<string id="782">Cannon</string>
+	<string id="783">Energy wall</string>
+	<string id="784">Blocks bullets and enemies for 15 seconds</string>
+	<string id="785">Trap</string>
+	<string id="786">Catches enemies and removes the shield for 15 seconds</string>
+	<string id="787">Medical kit</string>
+	<string id="788">Restores 50 life points</string>
+	<string id="789">Double damage</string>
+	<string id="790">Lasts for 20 seconds</string>
+	<string id="791">Double attack speed</string>
+	<string id="792">Lasts for 20 seconds</string>
+	<string id="793">Energy shield</string>
+	<string id="794">Lasts for 20 seconds</string>
+	<string id="795">Double run speed</string>
+	<string id="796">Lasts for 20 seconds</string>
+	<string id="797">Freeze!</string>
+	<string id="798">Freezes nearby enemies</string>
+	<string id="799">Dynamite</string>
+	<string id="800">Does 10 life points of damage to nearby enemies</string>
+	<string id="801">Super Energy wall</string>
+	<string id="802">Blocks bullets and enemies for 30 seconds</string>
+	<string id="803">Super trap</string>
+	<string id="804">Catches enemies and removes the shield for 30 seconds</string>
+	<string id="805">Super medical kit</string>
+	<string id="806">Restores 100 life points</string>
+	<string id="807">Double damage</string>
+	<string id="808">Lasts for 40 seconds</string>
+	<string id="809">Double attack speed</string>
+	<string id="810">Lasts for 40 seconds</string>
+	<string id="811">Energy shield</string>
+	<string id="812">Lasts for 40 seconds</string>
+	<string id="813">Double run speed</string>
+	<string id="814">Lasts for 40 seconds</string>
+	<string id="815">Super Freeze!</string>
+	<string id="816">Inflicts 20 damage on all and freezes</string>
+	<string id="817">Super dynamite</string>
+	<string id="818">Does 20 life points of damage to nearby enemies</string>
+	<string id="819">Machine gun</string>
+	<string id="820">+360 bullets</string>
+	<string id="821">AK-47 Assault Rifle</string>
+	<string id="822">+20% damage +360 bullets</string>
+	<string id="823">Plasma rifle</string>
+	<string id="824">+20% speed +360 bullets</string>
+	<string id="825">Shotgun</string>
+	<string id="826">+72 bullets</string>
+	<string id="827">Crossbow</string>
+	<string id="828">+20% damage +72 bullets</string>
+	<string id="829">Double barrel shotgun</string>
+	<string id="830">+20% speed +72 bullets</string>
+	<string id="831">Bazooka</string>
+	<string id="832">+12 bullets</string>
+	<string id="833">Firegun</string>
+	<string id="834">+240 bullets</string>
+	<string id="835">Plasma cannon</string>
+	<string id="836">+12 bullets</string>
+	<string id="837">Tesla cannon</string>
+	<string id="838">+12 bullets</string>
+	<string id="839">Soldier</string>
+	<string id="840">% damage</string>
+	<string id="841">Doctor</string>
+	<string id="842">Life regeneration</string>
+	<string id="843">Scientist</string>
+	<string id="844">% time bonuses</string>
+	<string id="845">Missions</string>
+	<string id="846">Sound volume</string>
+	<string id="847">Back</string>
+	<string id="848">Use arrows on your keyboard or buttons A-W-S-D to reach the heap of junk on the left.</string>
+	<string id="849">Press and hold the left mouse button to shoot. Kill this zombie!</string>
+	<string id="850">Use the mouse scroll or Q and E buttons to change your weapon. Select a machine gun.</string>
+	<string id="851">Press and hold the left mouse button to shoot the machine gun. Kill this zombie!</string>
+	<string id="852">To collect bonuses that fall out your enemies, run to them. Grab this weapon bonus.</string>
+	<string id="853">Use the mouse scroll or Q and E buttons to change your weapon. Select new weapon.</string>
+	<string id="854">Press and hold the left mouse button to shoot the flame-thrower. Kill 5 zombies!</string>
+	<string id="855">Press F button to use the super ability and kill all zombies!</string>
+	<string id="856">The timer below will show for how much time you need to survive! Click ESC to pause the game if needed.</string>
+	<string id="857">Loading huge cannons</string>
+	<string id="858">Training heroes</string>
+	<string id="859">Secreting adrenaline</string>
+	<string id="860">Annihilating the civilization</string>
+	<string id="861">Feeding zombies</string>
+	<string id="862">Depicting terminators</string>
+	<string id="863">Clanging by awards</string>
+	<string id="864">Recording zombies' roar</string>
+	<string id="865">Implementing cool effects</string>
+	<string id="866">Transferring brains into the battle mode</string>
+	<string id="867" name="select_your_bonuses">Your bonuses</string>
+	<string id="868">Ask your friend for help when you're lack of life points!</string>
+	<string id="869" name="main_menu_cooperative_tooltip">Survive in the hunting mode cooperating with other players from the Arena.</string>
+	<string id="870" name="main_menu_deathmatch_tooltip">Fight other players, capture first place, earn all awards.</string>
+	<string id="871">Mouse-click to change.</string>
+	<string id="872" name="get">Get</string>
+	<string id="873" name="install_weapon_query">Open the equipment?</string>
+	<string id="874">Open</string>
+	<string id="875">When you unlock the equipment, it will become available forever.</string>
+	<string id="876">All bonuses you've purchased are shown in this panel. Click the Double speed bonus or use button 2 on the keyboard.</string>
+	<string id="877">Survive</string>
+	<string id="878" name="task">Task</string>
+	<string id="879">Hire friend</string>
+	<string id="880">Mutant hunter</string>
+	<string id="881">Kill 5000 mutants in Survival mode.</string>
+	<string id="882">Experienced hunter</string>
+	<string id="883">Survive in Survival mode 10 times while playing in a random battle.</string>
+	<string id="884">Stemming the tide</string>
+	<string id="885">Hold out for 120 minutes in Survival.</string>
+	<string id="886">Full set</string>
+	<string id="887">Pass Survival 5 times while playing with full equipment.</string>
+	<string id="888">Team player</string>
+	<string id="889">Survive in Survival mode 5 times while playing in the arena for friends.</string>
+	<string id="890">Supersoldier</string>
+	<string id="891">Hold out in 10 games of Duel mode for at least 30 seconds without dying.</string>
+	<string id="892">Collector</string>
+	<string id="893">Collect a total of 50 bonuses in the Duel mode.</string>
+	<string id="894">Like a fox</string>
+	<string id="895">Hold out for 1 minute in 5 battles in Duel mode without killing anyone.</string>
+	<string id="896">Fearless</string>
+	<string id="897">In each of the 3 battles, kill at least 2 players while using only 1 equipment bonus per battle. (Duel)</string>
+	<string id="898">Purchase points</string>
+	<string id="899" name="skip">Skip</string>
+	<string id="900">Update</string>
+	<string id="901">Mine cannon</string>
+	<string id="902">+30% damage +4 bullets</string>
+	<string id="903">Invisibility</string>
+	<string id="904">Enemies in a state of shock for 15 seconds</string>
+	<string id="905">Electrocannon</string>
+	<string id="906">+30% speed +20 bullets</string>
+	<string id="907">New character: Nuclear Physicist! The incredible power of the electrocannon and the coolest technologies will be in your hands.</string>
+	<string id="908">Hellish cold</string>
+	<string id="909">No one could have imagined that the infection would produce new hardships! Only some of heroes will be able to escape icebound death!</string>
+	<string id="910">No turning back</string>
+	<string id="911">If there is no remedy from infection, how can we destroy the endless hordes of mutants? Or are we going to become mutants ourselves?</string>
+	<string id="912">+ Weapon Electrocannon (+25 ammo)</string>
+	<string id="913">I've got it</string>
+	<string id="914">Each survivor camp had its own leader, who was trusted and obeyed by everyone. Before mutation, he was also the leader in one of the camps. As a result of frequent mutant attacks, he decided to mop up the bug hole. But not everyone agreed with this decision; not everyone wanted to risk their life. During the mop-up operation, the leader was wounded by the mutants. None of the survivors helped him. The betrayers left him in the hole and elected a new leader, while telling everyone that he had died... The Witcher opened his eyes in the dark, wet bug hole. It was difficult to breathe. His entire body was covered with slime. He thought that he would not be able to get out alive. Yet for some reason, the bugs in this hole did not touch him, letting him escape instead. After breaking free, he was horrified: the mutation had mixed his DNA with that of the bugs! Feeling a mutant's unbearable hunger and a desire to devour his betrayers, the Witcher is creeping towards the camp while destroying everyone in his way...</string>
+	<string id="915">Witcher</string>
+	<string id="916" name="max_rating">Max. rating</string>
+	<string id="917">Player's rating</string>
+	<string id="918">Weekly rating</string>
+	<string id="919">Levels 1–15</string>
+	<string id="920">Levels 16–30</string>
+	<string id="921">Levels 31–50</string>
+	<string id="922">Total rating</string>
+	<string id="923">Award for the best after</string>
+	<string id="924">Place in overall rating</string>
+	<string id="925">place!</string>
+	<string id="926">Congratulations, you are one of the top five players for the past week! Enjoy your +30 purchase points!</string>
+	<string id="927">d</string>
+	<string id="928">Congratulations, you are one of the top hundred players for the past week! Enjoy your +5 purchase points!</string>
+	<string id="1001" name="equipment_points_given">+ 200 equipment points</string>
+	<string id="1002" name="rating_points_given">+ 50 rating points</string>
+	<string id="1003" name="promo_offers">Reward</string>
+	<string id="1004" name="main_menu_promo_offers_tooltip">Invite a friend and win game money.</string>
+	<string id="1003" name="more_games">Keep playing</string>
+	<string id="1004" name="main_menu_more_games_tooltip">Play other exciting Alawar games.</string>
+	<string id="1101" name="spell">Superpower</string>
+	<string id="1102" name="friend_help">Hire friend!</string>
+	<string id="1103" name="detailed">More details</string>
+	<string id="1104" name="short">Summary</string>
+	<string id="1105">Experience</string>
+	<string id="1106">Next level</string>
+	<string id="1107">experience</string>
+	<string id="1108" name="coming_soon">Coming soon</string>
+	<string id="1200">Hi there, hero! Use the left joystick to reach the pile of trash.</string>
+	<string id="1201">Use the right joystick to shoot where you want. Shoot this zombie.</string>
+	<string id="1202">Weapon pane on the right. Switch to machine gun.</string>
+	<string id="1203">Well done! Kill this zombie with the machine gun.</string>
+	<string id="1204">Collect bonuses falling from the enemies.</string>
+	<string id="1205">Switch to firegun.</string>
+	<string id="1206">Great! Let's fry these zombies!</string>
+	<string id="1207">Bonus pane on the left. Use the double-speed bonus that you bought.</string>
+	<string id="1208">Super! To destroy all zombies, click the Superpower button.</string>
+	<string id="1209">The timer above indicates the time for which you need to hold out. Happy hunting!</string>
+	<string id="1210">Use the Help from friend button if you have only a few life points left.</string>
+	<string id="1300" name="flurry_btn">Free!</string>
+	<string id="1301">+ 1 purchase point</string>
+	<string id="1400" name="awards_tooltip">Look at your achievements in the game</string>
+	<string id="1401" name="share_unlock_weapon">I discovered a new weapon type:</string>
+	<string id="1402" name="share_unlock_bonus">I discovered a new bonus type:</string>
+	<string id="1403" name="share_unlock_mission">I gained access to a new mission:</string>
+	<string id="1404" name="share_unlock_character">I gained access to a new character:</string>
+	<string id="1405" name="share_perk_levelup">I received the next level for an award:</string>
+	<string id="1406" name="share_levelup">I reached the next level -</string>
+	<string id="1420" name="rate_app_text">Give us 5 stars and get 30 blue points as a gift!</string>
+	<string id="1421" name="rate_app_ok">I want a gift!</string>
+	<string id="1422" name="rate_app_cancel">I'll do without, thank you</string>
+	<string id="1410" name="equipment_help_label">Click the equipment and hold for two seconds to get the description</string>
+	<string id="1500" name="survival_rating">Survival (rating)</string>
+	<string id="1501" name="awards_help">Help</string>
+	<string id="1510" name="award_level_1">1st level award</string>
+	<string id="1511" name="award_level_1_bonus">1 yellow point + Bonus x1</string>
+	<string id="1512" name="award_level_2">5th level award</string>
+	<string id="1513" name="award_level_2_bonus">2 yellow points + Bonus x2</string>
+	<string id="1514" name="award_level_3">10th level award</string>
+	<string id="1515" name="award_level_3_bonus">3 yellow points + Bonus x3</string>
+	<string id="1516" name="award_level_4">20th level award</string>
+	<string id="1517" name="award_level_4_bonus">4 yellow points + Bonus x4</string>
+	<string id="1518" name="award_level_5">100th level award</string>
+	<string id="1519" name="award_level_5_bonus">5 yellow points + Bonus x5</string>
+  <string id="1550" name="openfeint_achievements">Achievements</string>
+  <string id="1551" name="openfeint_leaderboard">Leaderboards</string>
+
+  <string id="1560">Achievements allow unlocking powerful implants. The upper right corner of the screen will display achievements that you can receive in the game.</string>
+  <string id="1561">Various types of weapons will help you during the battle. Do not forget to purchase them prior to each game.</string>
+  <string id="1562">The bonuses will help you during the battle. Do not forget to purchase them prior to each game.</string>
+  <string id="1563">The implants will make your characters more powerful. You can purchase them or earn for achievements.</string>
+</data>

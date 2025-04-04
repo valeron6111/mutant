@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/get_reward_layout"
+    android:layout_width="@dimen/get_reward_width"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/gift_code"
+            android:layout_width="@dimen/gift_code_edit_width"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/get_gift_button"
+            android:layout_width="@dimen/get_reward_button_width"
+            android:layout_height="wrap_content"
+            android:text="@string/submit_gift_code"/>
+    </LinearLayout>
+</LinearLayout>

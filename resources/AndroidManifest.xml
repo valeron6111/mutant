@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="32"
+    android:versionName="0.1.32"
+    package="com.alawar.mutant">
+    <uses-sdk android:minSdkVersion="8"/>
+    <application
+        android:label="@string/app_name"
+        android:icon="@drawable/icon"
+        android:debuggable="true">
+        <activity
+            android:theme="@style/OFNestedWindow"
+            android:label="IntroFlow"
+            android:name="com.openfeint.internal.p004ui.IntroFlow"
+            android:configChanges="orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/OFNestedWindow"
+            android:label="Dashboard"
+            android:name="com.openfeint.api.p001ui.Dashboard"
+            android:configChanges="orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/OFNestedWindow"
+            android:label="Settings"
+            android:name="com.openfeint.internal.p004ui.Settings"
+            android:configChanges="orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/OFNestedWindow"
+            android:label="NativeBrowser"
+            android:name="com.openfeint.internal.p004ui.NativeBrowser"
+            android:configChanges="orientation|keyboardHidden"/>
+        <meta-data
+            android:name="SPONSORPAY_APP_ID"
+            android:value="4804"/>
+        <activity
+            android:theme="@style/OFNestedWindow"
+            android:label="OfferWall"
+            android:name="com.sponsorpay.sdk.android.publisher.OfferWallActivity"
+            android:configChanges="orientation|keyboardHidden"/>
+        <receiver
+            android:name="com.sponsorpay.sdk.android.advertiser.InstallReferrerReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.flurry.android.CatalogActivity">
+            <intent-filter>
+                <action android:name="com.alawar.mutant.CALL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:label="@string/app_name"
+            android:name="com.alawar.mutant.PreloaderActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.alawar.mutant.MESSAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:label="@string/app_name"
+            android:name="com.alawar.mutant.MutantActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:scheme="twitter"
+                    android:host="callback"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:label="@string/app_name"
+            android:name="com.alawar.subscriber.SubscriberActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.TEST"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.alawar.mutant.billing.BillingService"/>
+        <receiver android:name="com.alawar.mutant.billing.BillingReceiver">
+            <intent-filter>
+                <action android:name="com.android.vending.billing.IN_APP_NOTIFY"/>
+                <action android:name="com.android.vending.billing.RESPONSE_CODE"/>
+                <action android:name="com.android.vending.billing.PURCHASE_STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.arellomobile.android.push.PushWebview"/>
+        <activity android:name="com.arellomobile.android.push.MessageActivity"/>
+        <activity android:name="com.arellomobile.android.push.PushHandlerActivity"/>
+        <service android:name="com.arellomobile.android.push.C2DMReceiver"/>
+        <receiver
+            android:name="com.google.android.c2dm.C2DMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.alawar.mutant"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.alawar.mutant"/>
+            </intent-filter>
+        </receiver>
+    </application>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <supports-screens
+        android:smallScreens="false"
+        android:normalScreens="true"
+        android:largeScreens="true"/>
+    <permission
+        android:name="com.alawar.mutant.permission.C2D_MESSAGE"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="com.alawar.mutant.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+</manifest>

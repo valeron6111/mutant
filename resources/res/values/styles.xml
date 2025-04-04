@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OFLoading" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/of_transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="OFNestedWindow" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@color/of_transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="YellowButton" parent="">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">@drawable/yellow_button</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:height">50dp</item>
+        <item name="android:shadowColor">#000</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+    <style name="GreenButton" parent="">
+        <item name="android:background">@drawable/yellow_button</item>
+    </style>
+    <style name="FacebookButton" parent="">
+        <item name="android:background">@drawable/facebook_button</item>
+        <item name="android:layout_width">@dimen/social_button_size</item>
+        <item name="android:layout_height">@dimen/social_button_size</item>
+    </style>
+    <style name="TwitterButton" parent="">
+        <item name="android:background">@drawable/twitter_button</item>
+        <item name="android:layout_width">@dimen/social_button_size</item>
+        <item name="android:layout_height">@dimen/social_button_size</item>
+    </style>
+</resources>

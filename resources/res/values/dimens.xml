@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="get_reward_width">510dp</dimen>
+    <dimen name="get_reward_row_width">510dp</dimen>
+    <dimen name="get_reward_row_height">70dp</dimen>
+    <dimen name="reward_tab_row_height">38dp</dimen>
+    <dimen name="reward_tab_description_width">340dp</dimen>
+    <dimen name="get_reward_button_width">150dp</dimen>
+    <dimen name="get_reward_button_margin_right">5dp</dimen>
+    <dimen name="gift_code_edit_width">300dp</dimen>
+    <dimen name="promo_code_tab_row_height">35dp</dimen>
+    <dimen name="promo_code_get_code_text_width">300dp</dimen>
+    <dimen name="rewards_width">510dp</dimen>
+    <dimen name="rewards_height">280dp</dimen>
+    <dimen name="rewards_button_title_size">18dp</dimen>
+    <dimen name="rewards_button_description_size">16dp</dimen>
+    <dimen name="rewards_button_text_size">18dp</dimen>
+    <dimen name="share_title_size">24dp</dimen>
+    <dimen name="share_text_size">16dp</dimen>
+    <dimen name="share_button_width">150dp</dimen>
+    <dimen name="social_button_size">90dp</dimen>
+</resources>

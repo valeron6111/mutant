@@ -1,0 +1,2785 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: j30fXwMuyUNMD8CkhJNLiV/4i5U=
+Created-By: 1.6.0_21 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: LaL2eGGiDDOET2qF1S4+z1SHqas=
+
+Name: assets/webui/settings/index.json
+SHA1-Digest: kvGexGFd24FKpffjmWuF1kx2Ya0=
+
+Name: res/drawable/ofgamebarprofileframe.png
+SHA1-Digest: oRi9p/jgX3vCNghOCUiFhbywXe8=
+
+Name: assets/bullet/bullet_skin_16.plist
+SHA1-Digest: ufOS5/brHfaz+OAYnqccVrx9GIA=
+
+Name: res/drawable/facebook_icon.png
+SHA1-Digest: PDgDHoip/6HBjLGwRLz06l35sy4=
+
+Name: assets/ui/share/twitter.png
+SHA1-Digest: RpzqLTGngucov+56QSEnu3XrYrw=
+
+Name: assets/webui/javascripts/dashboard/models.js
+SHA1-Digest: 16+0yhg4N1+H5kFZPhtid9hS3/0=
+
+Name: res/drawable-hdpi/of_achievement_notification_bkg.png
+SHA1-Digest: cOKAyzpezWVudDjVgrOEKPw62Iw=
+
+Name: res/drawable/border.png
+SHA1-Digest: /5qfDj0LW4jwuypL1Txci6Ng5IQ=
+
+Name: assets/player/player_effect.png
+SHA1-Digest: mh7UjxGc2TtorFjMLQdOz8QoQZ0=
+
+Name: assets/land/ground_06_layer_01.png
+SHA1-Digest: EcwAfiCZP28wKj5bd8r9X00zwqE=
+
+Name: assets/bullet/bullet_skin_44.png
+SHA1-Digest: ciMPytZEcfLzqS3BMCUDed+cyXU=
+
+Name: res/drawable/of_native_loader_progress_07.png
+SHA1-Digest: wTQBfSAOBzOpfFhhO46YnGbVBys=
+
+Name: assets/bullet/bullet_skin_02.png
+SHA1-Digest: FZGIgJM5EkDkRZCegMQMY3Vxy8U=
+
+Name: assets/webui/images/loading.spinner.mdpi.png
+SHA1-Digest: HVzKoDo6Dm/6fsPm4ngaox+MP7w=
+
+Name: assets/land/ground_05_obj_04.png
+SHA1-Digest: WL8z6s83151zYaSIkKNrezOg/oM=
+
+Name: assets/ui/stats/title_grey_bar.png
+SHA1-Digest: C1PWZMpRVb6TggFTJ4V5RZ46tl8=
+
+Name: res/drawable-hdpi/ofregularfulllandscape.png
+SHA1-Digest: jJvTdcex0loNh3KhPbq1y1Nr+L8=
+
+Name: assets/ui/select_character/green_tab_active.png
+SHA1-Digest: qs2YK7U4AAC9fB0eYNN/RTVOIfM=
+
+Name: assets/webui/settings/privacy_settings.json
+SHA1-Digest: 4XCwzVedmYHCIsOH58++iunThhE=
+
+Name: assets/ui/hud/message_back_green.png
+SHA1-Digest: /en4zh89QttXk69oip4I9MV9z7Y=
+
+Name: res/drawable-hdpi/ofregularfullportrait.png
+SHA1-Digest: lVhMIq4Ew66s4o9LQ1LGA6rUXO8=
+
+Name: assets/webui/images/dashboard/more_options_expanded.png
+SHA1-Digest: b6qnHjMKtrMTvUROglrKdjk5aEI=
+
+Name: assets/webui/dashboard/leaderboards.json
+SHA1-Digest: CQp10KW3n6oXLMVA2rFZDYmFVV8=
+
+Name: res/drawable/oflandscapeadbordercell.png
+SHA1-Digest: kUBTyhwCQieUo5h3LeCtYunWwFs=
+
+Name: res/drawable-hdpi/ofgamebarprofileicon.png
+SHA1-Digest: VYdzjS6kqdSbqMuNh/8z+y0xD18=
+
+Name: assets/webui/images/badge.mdpi.png
+SHA1-Digest: Gu1TvJCga82yzpQv63yr8NWqpSg=
+
+Name: assets/webui/images/icon.user.male.large.mdpi.png
+SHA1-Digest: warR0bj5ysDILU4id2i3IUzikq8=
+
+Name: res/drawable/back_letter_all_landscape.png
+SHA1-Digest: p5l3IVt/vqMuATzUGOxgtn3euCY=
+
+Name: assets/webui/images/logo.mdpi.png
+SHA1-Digest: K3nTTgtdGG7lPjMb+eLbRJ4lxbU=
+
+Name: res/drawable/ofspinnergray12.png
+SHA1-Digest: ODmc/zAYY5Dqtz7oT5QnhO33/dQ=
+
+Name: assets/bullet/bullet_skin_44.plist
+SHA1-Digest: ofzsfHvl1F0e/uD0lUwBFNd2uQM=
+
+Name: assets/audio/sounds/monster2_dead2.mp3
+SHA1-Digest: kNkTBtJxa7dqwhcfsu65wjTkW6s=
+
+Name: assets/webui/images/button_orange.hdpi.png
+SHA1-Digest: A/vdDYnKq1ZftGczj24gNHZN0XM=
+
+Name: assets/webui/images/frame.small.hdpi.png
+SHA1-Digest: aZuhJzp2Q4u5XFG15jSaTMblvvU=
+
+Name: assets/land/ground_01_obj_03.png
+SHA1-Digest: 3VUEViwmqsdLHthkr2TSiSRYonA=
+
+Name: res/drawable/of_native_loader_progress_10.png
+SHA1-Digest: oV8mo+/3kCybPAK1VMHGFhhLK9E=
+
+Name: assets/webui/images/statusBubble_Landscape_Hit.hdpi.png
+SHA1-Digest: v8n0s994SvUdVrs4lwlqlq/Yn+g=
+
+Name: assets/webui/intro/login.json
+SHA1-Digest: KmPiiRhnNam5UfypjFOfVcEhBU0=
+
+Name: assets/audio/sounds/weapon_bfg.mp3
+SHA1-Digest: V/AvCb5+psscU815hQmPccV/T1U=
+
+Name: assets/webui/images/tab.bg.mdpi.png
+SHA1-Digest: 1gcGweqAdR0MjSEJqLMm9kyR1KM=
+
+Name: res/layout/of_achievement_notification.xml
+SHA1-Digest: OVCb/DGReDHGoT3bIqmb+km+ibs=
+
+Name: assets/ui/common/gray_frame.png
+SHA1-Digest: q/3T0/Jn3I2aLr093DVdXjtJv7g=
+
+Name: assets/weapon/weapon_4.png
+SHA1-Digest: xrJVQcIWUQA3kC401+E6NVsqzRE=
+
+Name: res/drawable-hdpi/ofgamebarparentalcontrolsicon.png
+SHA1-Digest: o3QMWO4MABmG4vSnxvHe+BatwWU=
+
+Name: assets/ui/yellow_button_up.png
+SHA1-Digest: eWNkswa6IqQQ9JG2XOjKP+3T9eM=
+
+Name: res/layout/of_two_line_notification.xml
+SHA1-Digest: eh2e5MZuS9Md5Fx2+M8ygaO0lhQ=
+
+Name: res/drawable/left_border.png
+SHA1-Digest: OdICC0a9Yjaa60M3oSp2xPH21Jg=
+
+Name: assets/ui/select_character/tab_active.png
+SHA1-Digest: oKa0AbkcqthwQOLbVG4QNQaSh8Y=
+
+Name: assets/ui/select_character/hero.png
+SHA1-Digest: 23Mj8oVjj3gBXpPiouYysuwHLl8=
+
+Name: assets/monster/zombi_4.png
+SHA1-Digest: vFM4tQ9O9eV2ar2aMLCRoaKonBs=
+
+Name: res/drawable/green_button_up.png
+SHA1-Digest: Amkty+JktIly9MkAfrLShy2mW14=
+
+Name: res/drawable-xhdpi/ofregularfullportrait.png
+SHA1-Digest: pJkA9gmfZd6b8MzK4zRId8gX1Pg=
+
+Name: assets/ui/common/gray_button_up.png
+SHA1-Digest: NkE0RvIWI/TuFaPmjeUOuM5c+Wc=
+
+Name: assets/fonts/arial_black25_back.fnt
+SHA1-Digest: ilhvmGpp9uZVk4ghs027rj5Aw2s=
+
+Name: assets/audio/sounds/player_dead.mp3
+SHA1-Digest: 2+h1KkkviWPG3gCkS4heEDBHKMs=
+
+Name: assets/levels/icon20.png
+SHA1-Digest: 3LpFGQ9wQFY4HTwp1v7e9nH9JmU=
+
+Name: assets/fonts/arial_black20.fnt
+SHA1-Digest: FaBln1DLrPGcgMNwKltz9OqJ36c=
+
+Name: res/layout/of_native_loader.xml
+SHA1-Digest: sZSrQeqopBOB1PZsDrJ3kVmS0GI=
+
+Name: assets/webui/stylesheets/dashboard/players.css
+SHA1-Digest: qzXe+v/+JxkatichVgQVVkAMQdY=
+
+Name: assets/webui/dashboard/profile.json
+SHA1-Digest: ymT/Hxyk36JaDvaLjr7in1/KAwg=
+
+Name: res/drawable-hdpi/ofgamebarprofileframe.png
+SHA1-Digest: VD2HzKLobH8ftdZOifl5Zb8M/gQ=
+
+Name: assets/ui/select_character/heroes/avatar_frame.png
+SHA1-Digest: 0KEeVoODh85py19fn0VyPOQan2o=
+
+Name: assets/audio/sounds/helicorter.mp3
+SHA1-Digest: g10CG4vk3oUz2GC3ZjaHtrIG5cM=
+
+Name: assets/monster/zombi_1.plist
+SHA1-Digest: JeaJtng1kASEXhA7ewYeCNCpnNE=
+
+Name: assets/ui/menu/button_back_selected2.png
+SHA1-Digest: S5ETB5/nuxvmkjY0EfB3OLQFMHU=
+
+Name: assets/weapon/big_ammo.plist
+SHA1-Digest: ypTz9WRsZBp6cMKfrBwZ1QQj10M=
+
+Name: assets/player/laser.png
+SHA1-Digest: 35xgaKpISCmXHka7VDC/f4Sz6vA=
+
+Name: assets/ui/select_character/heroes/avatar_frame_active.png
+SHA1-Digest: Yu++nI3IAgFfF9HYrGLIsmCv1RE=
+
+Name: assets/levels/icon01.png
+SHA1-Digest: v5AbuyxB5Pg+rbDIaVkkRNX5smw=
+
+Name: assets/bullet/bullet_skin_40.plist
+SHA1-Digest: fF+iKY8iRkBsUsWBRedMoeHbaoo=
+
+Name: assets/webui/images/icon_arrow_up.hdpi.png
+SHA1-Digest: /7pZNJGob06N7Ut5O3rWfuYQv2I=
+
+Name: assets/bullet/bullet_skin_10.plist
+SHA1-Digest: VOa/UZiXIzu7YziqQQ2UfgOYaZM=
+
+Name: assets/audio/sounds/boss3_death1.mp3
+SHA1-Digest: 1nMmiVAASqpX7KrhTJFktU8/bzM=
+
+Name: assets/webui/images/statusBubble_Portrait_Hit.hdpi.png
+SHA1-Digest: Xc1ea5Hwh4NObBEpJv9ZxDfihGk=
+
+Name: assets/icons/big_bonus.plist
+SHA1-Digest: RZosbBPc34B0cr1IXasEXb9WGNE=
+
+Name: assets/webui/dashboard/local_game.json
+SHA1-Digest: Pq5yQj5kxcrunV8xiLrKMSN7V/M=
+
+Name: assets/monster/zombi_2.plist
+SHA1-Digest: 6+DrqytrK9BVC4c6e1awdEJpl4k=
+
+Name: assets/ui/black_opaque_frame.png
+SHA1-Digest: Z7Mi/Tj/1m3tUbpEIQZGMoHWW3Q=
+
+Name: assets/bullet/bullet_skin_24.plist
+SHA1-Digest: hPdJ2EsQgTLQFulYhCdj+LmeuOY=
+
+Name: assets/icons/icons.plist
+SHA1-Digest: eaIV42DOoJ7SrB0kmGOqfY9t3/4=
+
+Name: assets/bullet/bullet_skin_51.png
+SHA1-Digest: zi4Mfj3cK0t0Odl4656V4icvNyI=
+
+Name: assets/ui/hud/cursor_movement.png
+SHA1-Digest: V7T2PL820hv8bioiTgWf/ujpUmw=
+
+Name: assets/webui/images/textField_Large.hdpi.png
+SHA1-Digest: OG5yVtt9RqTacu6Dofs54ncRQYg=
+
+Name: assets/webui/gamefeed/android/config.json
+SHA1-Digest: 9xzoGn/EWdRe8eu/nyeminV4H34=
+
+Name: assets/webui/images/icon.achievement.mdpi.png
+SHA1-Digest: M4a+UvZWZN5OTuGVb0BkxeuNft4=
+
+Name: assets/webui/images/dashboard/icon.achievement.small.hdpi.png
+SHA1-Digest: 2vsL7Ajn5sNaHNr5SEZzeDoPjQM=
+
+Name: assets/webui/images/logo_icon.hdpi.png
+SHA1-Digest: Jt0KkITPZ6wjzzyv4drQw7yDfQ0=
+
+Name: assets/land/ground_01.png
+SHA1-Digest: sIeH05GkLtawrsqqFUkhMcmtutk=
+
+Name: assets/ui/common/spacer.png
+SHA1-Digest: v/3m2nQNWJKzWEgDCXi/rzvCcBg=
+
+Name: assets/ui/green_button_down.png
+SHA1-Digest: cDPgyGJRS7814Ls/6j/jw4XJ2FI=
+
+Name: assets/ui/select_character/equipment/item_back.png
+SHA1-Digest: eQmOYHwBk3k88mxh9m7pIp8TP40=
+
+Name: res/drawable/ofspinnergray09.png
+SHA1-Digest: D3N8Pwj7hY38kBYzWs/YjcjNgYw=
+
+Name: res/layout/more_games.xml
+SHA1-Digest: TP+PfpldYIE5wjI520IWtW1iiPM=
+
+Name: assets/ui/stats/gray_frame.png
+SHA1-Digest: AqxRu50Lf6S83/wVa4hFrDtUDh8=
+
+Name: assets/audio/sounds/menu2.mp3
+SHA1-Digest: GG3ONLwVi/FjB8wKGLdaTTo2V8s=
+
+Name: assets/player/player_skin10.png
+SHA1-Digest: 8WcYiivRsMiKqpkXUKWBZzlkVs4=
+
+Name: res/drawable-xhdpi/close.png
+SHA1-Digest: HsnTZz4MVk/Xyi5uF3BNaLcKl7c=
+
+Name: assets/webui/images/tab.bg_hit.hdpi.png
+SHA1-Digest: J+DbHTVQIp4wiPZfI4G8OIHF1hY=
+
+Name: assets/ui/daily/location.plist
+SHA1-Digest: 8fKy0sKYKBcgvIL3ShuKv1rPLrM=
+
+Name: assets/webui/images/tab.bg.hdpi.png
+SHA1-Digest: FjENUF+/OrVr3vtwi8KEPXUH8ng=
+
+Name: assets/ui/stats/grey_progress_bar1.png
+SHA1-Digest: uukgGWrRRLFVC/NR8yFQVkmYisA=
+
+Name: assets/audio/sounds/monster2_dead.mp3
+SHA1-Digest: Bb34uMf36lfcvTG2onSnXyXnTFA=
+
+Name: assets/bullet/bullet_skin_05.plist
+SHA1-Digest: n6rDAPNKC/uTUhqM/LF3T5MuInA=
+
+Name: assets/bullet/bullet_skin_22.plist
+SHA1-Digest: /DDuKFaovm3MFyhyNGNWoa/bmYs=
+
+Name: assets/land/ground_09_01.png
+SHA1-Digest: y2N5csraE+yZCi0+LB1mbpnymSE=
+
+Name: assets/webui/images/top_body.png
+SHA1-Digest: cKJF1oMjht8SZe21xlycJZEmXHc=
+
+Name: res/drawable/ofgfihitportrait.png
+SHA1-Digest: ae/UtAyFf+HXwER/vGjUgnKY8wA=
+
+Name: assets/audio/sounds/boss4_death1.mp3
+SHA1-Digest: cEBcgw6xxOi0U/acBmiD1ovLhNY=
+
+Name: assets/webui/images/icon.user.male.mdpi.png
+SHA1-Digest: AmtsZgw3ymS1akxpXWubtyD32Lg=
+
+Name: res/drawable/green_button_down.png
+SHA1-Digest: 7zez1gZLNHKbnVGZ0u5bkJMOWuY=
+
+Name: assets/levels/icon10.png
+SHA1-Digest: VDzKE/ivg6FkxQfmPbledMQiU5c=
+
+Name: assets/bullet/bullet_skin_01.png
+SHA1-Digest: wgmqcN0/LLzM0AISlxpmJi3auTY=
+
+Name: res/drawable-xhdpi/ofgamebarservererroricon.png
+SHA1-Digest: +4e47m3i0B26GfDBRrpHNXc90gY=
+
+Name: assets/webui/images/dashboard/icon.achievement.small.mdpi.png
+SHA1-Digest: 2oi/X54RJ2GgvCfEhv4euXu6/NA=
+
+Name: assets/ui/common/bordered_transparent_frame.png
+SHA1-Digest: FrAOg1xXyyhm3aTwzvIQHDSrBe0=
+
+Name: assets/bullet/bullet_skin_20.png
+SHA1-Digest: DNXNPeRmSuRYSJexdCppdP2Ni34=
+
+Name: assets/weapon/weapon_1.png
+SHA1-Digest: zbSdP2bOJtYn8X0GSK2UH9fXAQU=
+
+Name: assets/bullet/bullet_skin_26.plist
+SHA1-Digest: tO+adaWOTu5nZF3MOdC8N26vS2k=
+
+Name: assets/webui/settings/secure.json
+SHA1-Digest: lXD1NKbbMaBFCUxQsw0PaGIk9R4=
+
+Name: assets/bullet/bullet_skin_30.png
+SHA1-Digest: qTSU39nM9AvuDxllQGQ1aFtc4cM=
+
+Name: res/drawable/of_icon_dashboard_settings.png
+SHA1-Digest: awdhMjUqninBQcHtiuZ/+bEezD4=
+
+Name: assets/audio/music/music_boss_start.mp3
+SHA1-Digest: 68/ZAFjnOxe6qhcgM2nT1MZhSSI=
+
+Name: assets/webui/images/icon.game.hdpi.png
+SHA1-Digest: FEIYXDYYUgr9o+loujfps8Mn3d8=
+
+Name: res/drawable-hdpi/ofgamefeedbackgroundbottomlandscape.png
+SHA1-Digest: hVnBzebNC00SxhddNFaTM7+zZQQ=
+
+Name: assets/audio/sounds/weapon_tesla1.mp3
+SHA1-Digest: CdK1fs9IObULOkCCpZ/tLZtlMHI=
+
+Name: assets/bullet/bullet_skin_62.plist
+SHA1-Digest: B8tySWFM27u6V+n5ApFmDqlu4Cw=
+
+Name: assets/ui/menu/button_back.png
+SHA1-Digest: xN2PS68CcXQGGaCm4tZB73KtQnc=
+
+Name: assets/land/ground_07_layer_03.png
+SHA1-Digest: ReO5jN45C1tqN9GpmxvJ9PSIkUY=
+
+Name: assets/weapon/big_ammo.png
+SHA1-Digest: 6zXT3pDFD6IIDBjhebtGHQ97gMw=
+
+Name: assets/weapon/weapon_8.plist
+SHA1-Digest: vx2jfmIdzklVkNJC4gSnoYwvi58=
+
+Name: assets/fonts/arial_black76.png
+SHA1-Digest: fJn1YdWLfF/oa815ranBLiUCfXw=
+
+Name: assets/land/ground_08.png
+SHA1-Digest: TyhATumg7nfBuUD781j6R+Ay6cs=
+
+Name: res/drawable/frame_layout_shape.xml
+SHA1-Digest: UTicKdHMG9XCDIfa4xDGd/oktJU=
+
+Name: assets/webui/dashboard/leaderboard.json
+SHA1-Digest: uTGrNimFlI+zISbPhhwhQvTOYik=
+
+Name: assets/monster/zombi_3.plist
+SHA1-Digest: w4dR0ayCJUcCenBA/loAoqup4oc=
+
+Name: assets/bullet/bullet_skin_70.png
+SHA1-Digest: cUk/uT2mEeoXssSl+8Ba5rJi1FE=
+
+Name: assets/bullet/bullet_skin_80.png
+SHA1-Digest: 3sKdOpd4D9NW8cSVgDBn7jwZ7i8=
+
+Name: res/layout/rewards.xml
+SHA1-Digest: jiLwppdJjNqdPjL+gGQyNukpkFM=
+
+Name: assets/ui/common/button_close.png
+SHA1-Digest: 5Bi+lymHvI5ZhWttdHb++5cZipE=
+
+Name: assets/audio/sounds/weapon_firerug.mp3
+SHA1-Digest: c5I63UDXCwpSpbWaLEzyx+s6diQ=
+
+Name: assets/audio/sounds/respawn1.mp3
+SHA1-Digest: p2GdRrCEkXYllEM+4BpMRR0uJOI=
+
+Name: assets/webui/images/icon.achievement.gamerscore_coin.hdpi.png
+SHA1-Digest: LfPz/jhTmk5obSfqsAq/4JH4oq0=
+
+Name: assets/webui/images/intro.games.mdpi.png
+SHA1-Digest: lMto/qNH2rt6SdKF4PwsgzFBAmU=
+
+Name: assets/webui/dashboard/friend_requests.json
+SHA1-Digest: y4TyNVKMyXMph0TrbR2i0zrMer4=
+
+Name: assets/webui/images/blue_button_hit.png
+SHA1-Digest: b+8f/2tbIMgrGVXSdnptRmiPAB0=
+
+Name: assets/audio/sounds/boss2_attack2.mp3
+SHA1-Digest: +0YBzh1BYp3sczi4c0t6aOJB4dU=
+
+Name: assets/webui/images/dashboard/more_options_collapsed.png
+SHA1-Digest: F3mHjzRSJ+WRu/Bh8+4u9fGQ2c4=
+
+Name: assets/webui/dashboard/games.json
+SHA1-Digest: eEgz7ZAJo2Mh5SjgKCavwW0lCP8=
+
+Name: assets/webui/settings/profile_secure.json
+SHA1-Digest: C6TTBnapp46QIZEYcCU4Hd5DiNI=
+
+Name: assets/audio/sounds/weapon_bazuka1.mp3
+SHA1-Digest: pBBF8uBxOX9PxELqucP9TR5yL4g=
+
+Name: assets/webui/images/button.gray_price.mdpi.png
+SHA1-Digest: +F3Ah5scBKJBiwrjWWkgshY/sQs=
+
+Name: assets/webui/images/statusBubble_Landscape.mdpi.png
+SHA1-Digest: oU/eJ4ZTm7PA2m4dyjpOp5QRErs=
+
+Name: assets/levels/icon07.png
+SHA1-Digest: s8jC5dlF4WRyeXpKFyu94xCvoes=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: V/0TuO8Uga7R27al6VA8Q4YylzY=
+
+Name: assets/fonts/arial_black25.png
+SHA1-Digest: Is29SMJJIyBfX5B/FhDsJZdiehM=
+
+Name: res/drawable/ofgamebarlargedisclosure.png
+SHA1-Digest: jlVOoUIPonrElnt0BVK2ax2mgig=
+
+Name: assets/webui/stylesheets/webui3.css
+SHA1-Digest: E9R+45qFO+l78KqWDIuhBtPXTkg=
+
+Name: assets/webui/images/header_bg.mdpi.png
+SHA1-Digest: bzJnI6wHv1ZtdNnShf2N3ZScqD0=
+
+Name: assets/npc/propeller.png
+SHA1-Digest: ngljFr4IEj/RMenf/7xrBiQo5sk=
+
+Name: assets/land/ground_03_layer_01.png
+SHA1-Digest: kLVX6cCjw63it9O4ju04ykKefW0=
+
+Name: assets/weapon/weapon_4.plist
+SHA1-Digest: a8lkJQAtTqUo2sFtSQxeqt2D+ZI=
+
+Name: res/layout/edit_payload.xml
+SHA1-Digest: N11mLpvPrfvs6h+GOE5cHXZ9GtQ=
+
+Name: res/drawable/button_close.png
+SHA1-Digest: ga7eWHfC/lYCna4prEV6shLJAmc=
+
+Name: assets/ui/hud/cursor_shooting.png
+SHA1-Digest: j+9FbIe6lpL18/e/puhksWdPc2I=
+
+Name: res/drawable-xhdpi/ofgamebarprofileframe.png
+SHA1-Digest: h/u8DqH5Ns0qbAwEBwEF08OYr2c=
+
+Name: res/drawable-xhdpi/ofgamebarsmalldisclosure.png
+SHA1-Digest: 7q8IThV4Rv8kx2fomL4NG1ZoPuc=
+
+Name: assets/land/ground_03_layer_03.png
+SHA1-Digest: TjavpwfI5gpZFgZTid9oIR2hdVU=
+
+Name: assets/monster/boss_1.plist
+SHA1-Digest: 8EW1eM5KubG5NlTVcjZMoCUGKuY=
+
+Name: assets/weapon/weapon_11.plist
+SHA1-Digest: 7Umsd+eyNnOy48e4q8GFnQ2VUqU=
+
+Name: assets/webui/images/trailer.mdpi.png
+SHA1-Digest: Cu+BbqY2B50a8vbE9YFzGnq6VG4=
+
+Name: assets/ui/stats/green_progress_bar1.png
+SHA1-Digest: wVv5wP+psBaAKAwXT1lrQTDbEJY=
+
+Name: assets/webui/javascripts/webui-api.js
+SHA1-Digest: WBkBQ0oyH7PozpvAc+75TTAan2w=
+
+Name: res/drawable/of_native_loader_progress_04.png
+SHA1-Digest: X4d7hsgTpS02Evfl3fFXzZNd/1s=
+
+Name: assets/player/player_skin6.plist
+SHA1-Digest: 2OAj7DKCbjNmZ+JoC5QmK+STrjg=
+
+Name: assets/ui/inventory/icon_arsenal_points.png
+SHA1-Digest: wFOKrqqhE15/iNDNSRX4oCmbSco=
+
+Name: assets/webui/images/statusBubble_Landscape_Hit.mdpi.png
+SHA1-Digest: Z6oH79hDfTsSzAqjgLuo2xcFPsQ=
+
+Name: assets/land/ground_05_obj_03.png
+SHA1-Digest: VGuPX7cjRQqnCPSlx3/HpTF6J4o=
+
+Name: assets/webui/images/logo.small.mdpi.png
+SHA1-Digest: PFfzOcpWc3LVjxrkUZ4Spcf3e5k=
+
+Name: res/layout/alawar_subscriber_layout.xml
+SHA1-Digest: oE0CwhwM8phfDyyB9h7QA8kVODo=
+
+Name: assets/webui/images/icon_plus_white.mdpi.png
+SHA1-Digest: ZKPqcrZ2qdTIlUV1SH70Rg2j4zM=
+
+Name: lib/armeabi/libmutant.so
+SHA1-Digest: BE3K40wmlwBTfjmaNa+H5Ml7kqs=
+
+Name: res/drawable-hdpi/ofgamebarstartopenfeint.png
+SHA1-Digest: YqFsKA2rJ6HIkiqjfvNEnB76ir0=
+
+Name: res/drawable/ofgamebarprofileicon.png
+SHA1-Digest: KisUmgWREE5bz5AuPWgg5rzL/4c=
+
+Name: assets/webui/images/space.dark.hdpi.png
+SHA1-Digest: nSkXnar8ikjwtZR1bcAbVOCbuew=
+
+Name: res/drawable/of_achievement_notification_bkg.png
+SHA1-Digest: oLsl6G9Qq7REEHichD7QaVBdHMQ=
+
+Name: assets/audio/sounds/boss1_attack1b.mp3
+SHA1-Digest: kNdMcU2os9t3llElP++vdNnxf24=
+
+Name: assets/ui/common/green_button_down.png
+SHA1-Digest: FEOAAf+uv5epA5EWbmchROoCyNg=
+
+Name: assets/fonts/arial_black25.fnt
+SHA1-Digest: 3PlBSqQT1WI+aTXGeQuJAcqZyTs=
+
+Name: assets/webui/images/icon_friends_small.mdpi.png
+SHA1-Digest: TA7Yiqv7NRCqvnFRV+w9SyugqRA=
+
+Name: assets/ui/common/popup_back.png
+SHA1-Digest: iIUE6ezwnAcimHcgAF3o+JSVpKo=
+
+Name: assets/webui/images/intro_bg.png
+SHA1-Digest: FyA8Mpc5eydBV2sBmlPpQYq4s1c=
+
+Name: res/drawable-xhdpi/ofgamebarcelldividerlandscape.png
+SHA1-Digest: EW2jktCDjyQiuW+7vJwD831NrTw=
+
+Name: assets/land/ground_10_obj_02_c.png
+SHA1-Digest: tsKSRipO6blE82zk8s4M7UkU0/Y=
+
+Name: assets/webui/images/tab.active_indicator.mdpi.png
+SHA1-Digest: Ml0k0qgOMfl44lccJQcIC9wYa40=
+
+Name: assets/webui/images/smallFrame.hdpi.png
+SHA1-Digest: RPmnLeEzhDhDFVFJxBa/H8EZCPw=
+
+Name: assets/webui/javascripts/webui-helper.js
+SHA1-Digest: so0N0lRSG0UmzKYuOWHQ0VK3EGM=
+
+Name: assets/webui/images/dashboard/icon.check.green.hdpi.png
+SHA1-Digest: GZsxqgl1n5PvplSzgHRdYmvMOrU=
+
+Name: assets/webui/images/icon.search.button.hdpi.png
+SHA1-Digest: JVOKVpK/kE8qWniFx2ZBx6bY84Y=
+
+Name: assets/webui/images/icon.friends.mdpi.png
+SHA1-Digest: JKUU2uTdY5oIWOKBVGV3JLuHWZc=
+
+Name: res/drawable-hdpi/ofgamebarcelldividerlandscape.png
+SHA1-Digest: l86H0EoDHuftwgoR2iBRil6hiZY=
+
+Name: assets/ui/stats/perk_green_bar.png
+SHA1-Digest: U91q1kXpCqvK3CeLNxc/9/kpd6k=
+
+Name: assets/ui/choose_level/back_panel.png
+SHA1-Digest: lmi5umthvgtjg6uLEQF1Ix+GgB4=
+
+Name: assets/webui/images/blue_line.png
+SHA1-Digest: Zj/zvVl9ByhS8msa8nvHR4NbyGo=
+
+Name: res/drawable/facebook_button.xml
+SHA1-Digest: kC8tSBBCkWV4uemkXZB+EB8Bg2Y=
+
+Name: assets/player/player_skin10.plist
+SHA1-Digest: VYGSygHxQZcbT4epfmoAdj+83qY=
+
+Name: res/drawable/twitter_button.xml
+SHA1-Digest: eD4Cl3S7m85IVOsoASwL0kig2Qc=
+
+Name: res/layout/progressbar.xml
+SHA1-Digest: 4/tHP/+0fPnVSrrcfWWdrglboXk=
+
+Name: res/menu/of_dashboard.xml
+SHA1-Digest: hw+jPiO/d605Cx5+GLG8YtSdBdw=
+
+Name: res/drawable/of_native_loader_progress_05.png
+SHA1-Digest: ZwiN+/QmM6nWU/lyamfRQ6bANYU=
+
+Name: assets/webui/javascripts/jquery.js
+SHA1-Digest: s5U8Ly1yMUgYdNzR9Fz8JEDDeGQ=
+
+Name: assets/ui/common/gray_button_down.png
+SHA1-Digest: /qd9+KUsBqbuWfrBf2HLU+dSz+w=
+
+Name: assets/webui/images/OF_Leaf.hdpi.png
+SHA1-Digest: x6E9aS/1SkH5UP5KUXL2AX3E5O0=
+
+Name: assets/icons/icons.png
+SHA1-Digest: NWoqMdXTfINptE5rA793osTtYFg=
+
+Name: assets/webui/images/settings/button_radio_off.mdpi.png
+SHA1-Digest: W0D1iSSmehOeMxQeaJxy/74YXgY=
+
+Name: assets/ui/menu/main/button_1.png
+SHA1-Digest: HUualPrsovTM4Bnt+pn73sY99is=
+
+Name: assets/land/ground_04_obj_04.png
+SHA1-Digest: sc/dQKvacbfg6tGXNx9vI/hGDVA=
+
+Name: assets/webui/images/statusBubble_Portrait_Hit.mdpi.png
+SHA1-Digest: qfI4v2i/ibs3ZWQ03ZnrH5rlrZU=
+
+Name: assets/ui/select_character/heroes/disabled_icon.png
+SHA1-Digest: f8Dz3e7SfXO/dSDxMGgxs5Krh7U=
+
+Name: assets/audio/sounds/boss1_attack1a.mp3
+SHA1-Digest: Sz2xhgWtQCGQ1l8j0obWGVQ4Swg=
+
+Name: assets/audio/sounds/weapon_plazmomet.mp3
+SHA1-Digest: iUCJ8jwu4CTrhr9BcPL9qFikUpU=
+
+Name: assets/audio/music/music_boss_end.mp3
+SHA1-Digest: diryE1YqYpl+d3kXi7pWDElXdhg=
+
+Name: assets/ui/stats/green_frame2.png
+SHA1-Digest: G+NCbsULcaUdv59MBi3IwUz9oK8=
+
+Name: assets/webui/images/settings/button_radio_off.hdpi.png
+SHA1-Digest: 9LPHsAZhFSQn+9SFy7yeu/n8rGU=
+
+Name: assets/webui/images/carrot.png
+SHA1-Digest: 3Y/INo6T0tDmQ0UwJS18P072E+8=
+
+Name: res/drawable/of_icon_highscore_notification.png
+SHA1-Digest: oMpEqBx/iomIyWbevcEkWnTawio=
+
+Name: assets/monster/boss_1.png
+SHA1-Digest: Cv4jeQgR8rKhdAYRKdMbo7lKTS4=
+
+Name: assets/webui/images/button_gray.mdpi.png
+SHA1-Digest: 80I490lFJQAg3/hyp6WuYgOqIlk=
+
+Name: assets/webui/images/icon_facebook_large.mdpi.png
+SHA1-Digest: IyE1Uk0Nf2u7H9l11oPbzvgpkGw=
+
+Name: assets/webui/images/bottom_body.png
+SHA1-Digest: /Of7z5JgJ5boRq4YGyt0mOHZQl4=
+
+Name: assets/ui/common/bordered_opaque_frame.png
+SHA1-Digest: Xlkw6tj2aaT62kwrC6pZegKO4IM=
+
+Name: assets/land/ground_03_layer_04.png
+SHA1-Digest: osqoXj6r5yT30azkW1Kt/3qoILs=
+
+Name: assets/bullet/bullet_skin_07.plist
+SHA1-Digest: Khww4mOB/6QQ53y35jUZcQSpgIw=
+
+Name: assets/audio/sounds/character_6_attack.mp3
+SHA1-Digest: xaFuz7ADNGZ4BEv3P4t66zmnaZU=
+
+Name: assets/ui/stats/perk_yellow_frame2.png
+SHA1-Digest: R+FOP9rj+imOLXmKtQQcd1YbLMo=
+
+Name: assets/bullet/bullet_skin_16.png
+SHA1-Digest: vPUD1+W/dhltfQZQ+tF8ozVt82E=
+
+Name: assets/ui/share/facebook.png
+SHA1-Digest: xuwsVRrHuE4Rr+vTcxIC63fK+GI=
+
+Name: assets/webui/images/button.green.hit.hdpi.png
+SHA1-Digest: 6nD51KgZ3sv2vG9Da48RTppvw6M=
+
+Name: assets/training/training_arrow.png
+SHA1-Digest: xS/7YZNbKeXRkKcItfciARhxmWs=
+
+Name: assets/bullet/bullet_skin_33.plist
+SHA1-Digest: f3XthBcHT2+G6vOAZhRBL1E1Udw=
+
+Name: assets/monster/zombi_1.png
+SHA1-Digest: dL3vWMHVdkofGs5vUwiSP43LVnY=
+
+Name: assets/training/training_message.png
+SHA1-Digest: C7JSrHkjHIvKG3ceOn/qGKF07og=
+
+Name: assets/audio/sounds/boss1_death1.mp3
+SHA1-Digest: 8F9F7LSIS2/MqcWrml7zANNrFfg=
+
+Name: assets/webui/images/loading.spinner.light.hdpi.png
+SHA1-Digest: kn0hdfJ9z0VeCFvHadR05buXsbo=
+
+Name: assets/fonts/arial_black22.fnt
+SHA1-Digest: LQhxmNc9W9SeJreqxwE2c8hN0T0=
+
+Name: res/drawable-ldpi/close.png
+SHA1-Digest: GpQ/uhL8F4MYkgoe8iWpIwXfuA4=
+
+Name: assets/audio/sounds/boss1_attack2.mp3
+SHA1-Digest: k4qIozmsvG/Sl+l/3R0+2laeFrQ=
+
+Name: assets/webui/images/dashboard/icon.disclosure.hdpi.png
+SHA1-Digest: SWIVnN5//YUMBpeukRrB7FpRjEY=
+
+Name: assets/bullet/bullet_skin_24.png
+SHA1-Digest: rnTF7/4PMDPQN6Gu/CjH80AIEWs=
+
+Name: assets/webui/javascripts/json2.js
+SHA1-Digest: LFAtBkaKfFdyvO6EoRf7tOQfr8o=
+
+Name: assets/bullet/bullet_skin_20.plist
+SHA1-Digest: 34EJ4NdC4MTnQDyFo8BNVrTp6ns=
+
+Name: assets/levels/icon05.png
+SHA1-Digest: WCdgh1AqnHyspynz3M6EsKyhbXs=
+
+Name: assets/webui/images/icon.game.mdpi.png
+SHA1-Digest: eGC+bCEIGDoiqoIQz0xHRU5rZRY=
+
+Name: assets/webui/images/of_logo.png
+SHA1-Digest: 39n4sHbSR1DzKgNW9uSPHOFjfps=
+
+Name: assets/webui/images/button_gray_hit.mdpi.png
+SHA1-Digest: i/2MFgTIv4TukNIQVtpaLKCJmGU=
+
+Name: assets/webui/stylesheets/dashboard/profile.css
+SHA1-Digest: 4Q1KUGFtDtBUVrpH3xJw1Mtv00I=
+
+Name: assets/audio/sounds/bonus_ice.mp3
+SHA1-Digest: MZhLY7OddJDumFrr/BZtP/acVNI=
+
+Name: assets/player/player_skin8.png
+SHA1-Digest: kbKUdMZbAb+81lNwoHpd3GXQuJk=
+
+Name: assets/levels/icon02.png
+SHA1-Digest: UpklUpQP31yLyMow2pr7d3wXivI=
+
+Name: assets/webui/images/dashboard/icon_profile_remove_friend.hdpi.pn
+ g
+SHA1-Digest: h9AdQk56RHMZb06wm2kBhR/xpzQ=
+
+Name: assets/webui/images/frame_small.png
+SHA1-Digest: kuIFZwZ4/VcUVvxxbUTPCltdGcY=
+
+Name: assets/payment.png
+SHA1-Digest: 99dJlJqfLQFzsCYgVEdKfRb7mPI=
+
+Name: assets/webui/images/dashboard/icon.disclosure.mdpi.png
+SHA1-Digest: 7lvlMYuJh8Z1SQI2OvWbcPAuHOU=
+
+Name: assets/webui/images/smallFrame.mdpi.png
+SHA1-Digest: 5cRsXkGMyD1MB3lEFz41UfVAZxc=
+
+Name: assets/webui/images/find_friends.png
+SHA1-Digest: /gGLsaDDrWcFyhQfTNBfdJ+XxmY=
+
+Name: res/drawable-hdpi/of_icon_dashboard_home.png
+SHA1-Digest: i54mF92gVuH2O4VzYFbtDgMSlrQ=
+
+Name: assets/ui/button_green_line.png
+SHA1-Digest: DGrnNLy70j64d0rywaMvgALwM9U=
+
+Name: assets/ui/stats/perk_blue_frame.png
+SHA1-Digest: adNH3yHtbZofO+RZiaUnXhEx/1Q=
+
+Name: assets/effects/effects.png
+SHA1-Digest: Y6fqAZFp0uPbmMUVLfsqRb/fDmM=
+
+Name: res/drawable/of_native_loader_progress_11.png
+SHA1-Digest: SGHmXn5+d7LsKm1Araoe5ocsKQQ=
+
+Name: assets/webui/stylesheets/game_channel.css
+SHA1-Digest: bZlE+XFp5SVtui9NvIUk1Q/P/yQ=
+
+Name: assets/webui/javascripts/template.js
+SHA1-Digest: Kd5lVZ6qfARUq1efDaJKpQXMq6Q=
+
+Name: assets/webui/javascripts/webui-analytics.js
+SHA1-Digest: ALmAgdPDtR8vBhNRbKAm/Y1hN+k=
+
+Name: res/drawable/ofspinnergray04.png
+SHA1-Digest: c6/8xfs8K5iNAznCCYdwUixeF4E=
+
+Name: assets/ui/common/implant_points.png
+SHA1-Digest: pl09aFVXtbUtWYvH/8JYv6QEu8I=
+
+Name: assets/webui/javascripts/webui-core.js
+SHA1-Digest: wn5LasS7lbzWQPX7Piqxav/v6b0=
+
+Name: assets/ui/hud/health_bar.png
+SHA1-Digest: WvtRzXE/GUG7r4H4NROrK6GK/Ps=
+
+Name: res/drawable-hdpi/of_achievement_icon_frame.png
+SHA1-Digest: P1sXQaVB3YNG8YXI9PpW9ZdbGMQ=
+
+Name: assets/ui/stats/green_frame.png
+SHA1-Digest: 9DKr3RALCgZedoPwqCAa8b2oN9I=
+
+Name: assets/webui/dashboard/game.json
+SHA1-Digest: OPXqZRfaWgZnZ+Jq9w4gKJHxmiE=
+
+Name: assets/ui/select_character/equipment/help_button_up.png
+SHA1-Digest: X9MjW/qPWzyNKxHKY9cVhrXh8yI=
+
+Name: assets/bullet/bullet_skin_51.plist
+SHA1-Digest: knvbausFPED3yYfKcwK0Oq1EUg8=
+
+Name: res/drawable/yellow_button_down.png
+SHA1-Digest: uCYF5SiNAwy71SYOBwRzc7GvKIk=
+
+Name: res/drawable-xhdpi/ofgamefeedviewbackgroundtoplandscape.png
+SHA1-Digest: ZLYsc8l9KhRTULldDDBz1RtaSHI=
+
+Name: res/drawable/ofgamefeedbadgeiconlandscape.png
+SHA1-Digest: o66PYdOySmWuR4oU5FZEhRQyiys=
+
+Name: res/drawable/of_native_loader_progress.xml
+SHA1-Digest: rgtNf+r7xFbMaVE46fa3PIHzeqo=
+
+Name: assets/ui/green_button_up.png
+SHA1-Digest: X2Ythb2D1nmRqJwvq0wea2/wPps=
+
+Name: assets/land/ground_04_obj_01.png
+SHA1-Digest: xyWAbNjIf6B2oqsWA7+tF1+nJdw=
+
+Name: assets/webui/javascripts/game_channel_features.js
+SHA1-Digest: L7mSRmrFs5mBRb2t9nK7+FbVo84=
+
+Name: assets/webui/images/tab.divider.hdpi.png
+SHA1-Digest: VetCxauJDUKlJcaHktAuKXdp+rw=
+
+Name: assets/ui/menu/option_button_down.png
+SHA1-Digest: 1KmQ/kN8ICkOfLhafSAJ3z50yQ8=
+
+Name: assets/ui/stats/perk_grey_frame2.png
+SHA1-Digest: CPkavLIh00sr0ubESvBoTe2X4sw=
+
+Name: assets/bullet/bullet_skin_04.png
+SHA1-Digest: 5G7Pde0njjSkgZ4BHLly/n4ByOk=
+
+Name: assets/webui/images/icon.achievement.locked.mdpi.png
+SHA1-Digest: phsyu+B4HXygbicm9XKjAI23mCM=
+
+Name: res/drawable/ofregularfulllandscape.png
+SHA1-Digest: rLl6GhqHYlQs1jydBhkktLjedEc=
+
+Name: assets/webui/images/intro.games.hdpi.png
+SHA1-Digest: /+DoYKlgt2CZdfJJNrPFd4GMWL4=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: YSuvASwvSMVgSVI9vP+fi0h4rpY=
+
+Name: assets/audio/sounds/boss4_start1.mp3
+SHA1-Digest: w+dVUlSSWMSbHz/PfzVEqdveM24=
+
+Name: assets/land/ground_10_obj_02_b.png
+SHA1-Digest: kxDoTJFnZEQVQy0RFeaLT7APEmc=
+
+Name: assets/audio/sounds/helicorter_gun.mp3
+SHA1-Digest: iuMBObxRAasuPTEcNDeyCp5HGJg=
+
+Name: assets/webui/javascripts/underscore.js
+SHA1-Digest: 9CUgAfmBv4+zBAMljhz8GQeH2fg=
+
+Name: assets/ui/menu/main/panel_2.png
+SHA1-Digest: gBbpFiGzHDddNe+w1crVSZLLMPg=
+
+Name: assets/webui/images/button_checked.mdpi.png
+SHA1-Digest: xdnyFFMnFlKqIDlbxlBEMobZ8w4=
+
+Name: assets/webui/javascripts/settings/profile_configuration.js
+SHA1-Digest: hurdSSoosQMxvQpuaHZZKmB83sA=
+
+Name: assets/player/player_down.png
+SHA1-Digest: F7jL8mXo+q+bzN1o89m0+5R0iYM=
+
+Name: assets/webui/javascripts/gswipe.js
+SHA1-Digest: NazRQBTlVh93NNCDMLjT0ijZPpA=
+
+Name: res/drawable/of_icon_dashboard_exit.png
+SHA1-Digest: hg31+QcSxb6uaUHTmIsQISBLEO8=
+
+Name: assets/bullet/bullet_skin_10.png
+SHA1-Digest: 5CTAMrTmjIJw4huWH+uNf4hdkmk=
+
+Name: res/layout/of_nested_window.xml
+SHA1-Digest: JobQFzaE9Tpa58h25yCDuuDQMgU=
+
+Name: assets/audio/sounds/boss4_attack1.mp3
+SHA1-Digest: y2mgO61RXTgLIulZd5wazb0M6RY=
+
+Name: assets/webui/images/button_check.mdpi.png
+SHA1-Digest: shrWjll9fDFkTmDjkPbMe3ygyqA=
+
+Name: assets/webui/images/mid_body.png
+SHA1-Digest: rFXQPa9jWf/6noQk8az0n2Wfvx8=
+
+Name: assets/bullet/bullet_skin_03.png
+SHA1-Digest: 5TW7NjxouA0uFVra+pXJNCrRib4=
+
+Name: assets/webui/gamefeed/android/test.mdpi.png
+SHA1-Digest: EUZDj0xbbStO7aMydUU2b72NUT0=
+
+Name: assets/webui/dashboard/me/friends.json
+SHA1-Digest: FBP5lDZA5Bh4lL5JmG6EzyOZ7M4=
+
+Name: assets/webui/images/button_orange_hit.hdpi.png
+SHA1-Digest: vsomlEcC7PMD9DesfsMJ6Agj8z0=
+
+Name: assets/fonts/arial_black28_back.png
+SHA1-Digest: dbUhEMzYCRe/QJbXa6TLgzMe49E=
+
+Name: assets/webui/gamefeed/ios/config_is_tweaked
+SHA1-Digest: Lr0qWBvc56LtUU31NiIt17Z9HV4=
+
+Name: assets/ui/select_character/upgrades/minus.png
+SHA1-Digest: lK7ToyEZtRfhFdnJ4sPPC+33uTA=
+
+Name: assets/webui/images/icon.user.female.mdpi.png
+SHA1-Digest: vTa7vsIusIX9OG1E6FXAnBQTJyM=
+
+Name: assets/webui/images/icon.leaf.gray.mdpi.png
+SHA1-Digest: 4z/dAv08PH9WH3UFWOk8aPVy/LY=
+
+Name: assets/weapon/weapon_6.png
+SHA1-Digest: leAuqEIwRXzm3qUS1X/odDGs9mM=
+
+Name: assets/ui/common/gray_button_disabled.png
+SHA1-Digest: uv5Z8iMZMhBrtsTdD1rQbW3dTzQ=
+
+Name: assets/webui/images/button_gray_hit.hdpi.png
+SHA1-Digest: wjyaCZLodIv/65oPDfsrtpaLrOo=
+
+Name: assets/weapon/weapon_1.plist
+SHA1-Digest: EXODyLpwBe6FuOa31xA4emVL8eM=
+
+Name: assets/webui/javascripts/dashboard/players.js
+SHA1-Digest: p9ybh2vbpGRHTDIQJApjzrXTx1Q=
+
+Name: res/drawable-xhdpi/ofgamefeedbackgroundbottomlandscape.png
+SHA1-Digest: RjmPob11F4uW44RV5g+41MWfcwg=
+
+Name: assets/ui/menu/button_back_selected.png
+SHA1-Digest: CqmE9VIqREOyPVsHcyTYMndW8F8=
+
+Name: assets/land/ground_05_obj_02.png
+SHA1-Digest: E7eVxLibO/KWztn6Qyuc8AxCq4I=
+
+Name: assets/webui/intro/multiple_accounts.json
+SHA1-Digest: 8Q5TY+g5h8TkeTXpYl773PMa8Bg=
+
+Name: assets/fonts/arial_black76.fnt
+SHA1-Digest: rMfdBAFxH0YS4liRtz8z2SctOtY=
+
+Name: assets/bullet/bullet_skin_50.png
+SHA1-Digest: +HEW5f81ztXDjL9Z+IGXyqsilLo=
+
+Name: assets/webui/images/icon.achievement.unlocked.hdpi.png
+SHA1-Digest: ViluqE//87Kwwf3JWWqaHOeiuUU=
+
+Name: assets/webui/images/icon_games_small.hdpi.png
+SHA1-Digest: 2GJBcA1v/6vpquyEOa7gazHsE+o=
+
+Name: assets/ui/stats/levelup_back.png
+SHA1-Digest: 6HiaxzAHE27hdg3lx9wDq8/pUXw=
+
+Name: assets/webui/images/icon.achievement.unlocked.mdpi.png
+SHA1-Digest: V0vd83lQmPVWQHuMgs6MBILKw+M=
+
+Name: assets/monster/boss_4.plist
+SHA1-Digest: OovDW+yCM0PPjqc9uohRHjVVtCc=
+
+Name: res/drawable/ofspinnergray06.png
+SHA1-Digest: sVtRAaRD7W6uFVCM2ZTyJwHI00Q=
+
+Name: assets/player/player_skin1.png
+SHA1-Digest: RmJQ4W2tjm0X1eCRPjT8oeiIrtw=
+
+Name: assets/bullet/bullet_skin_08.png
+SHA1-Digest: 5yjQpzFDOpQue0e1ZYa9eMgExow=
+
+Name: assets/webui/images/icon_facebook_sm.hdpi.png
+SHA1-Digest: AdPZortDG00HpJjJvEWWGjkxIA0=
+
+Name: assets/webui/images/icon_wall.hdpi.png
+SHA1-Digest: AGnD16YNghznoDGpjnh1sXXhifc=
+
+Name: assets/audio/sounds/boss4_end.mp3
+SHA1-Digest: Ukr7qdV/13TdyYbR9MwzBIUAx40=
+
+Name: assets/webui/images/OF_Leaf.mdpi.png
+SHA1-Digest: 0qAZTC4xwlkhwiAWip3MXDESb80=
+
+Name: assets/effects/effects.plist
+SHA1-Digest: IN16zKUuHiutg7eznzSyeKSCGtI=
+
+Name: assets/player/perk.png
+SHA1-Digest: Rb3/KzvK+1lg2a+5Dda1RNzh25A=
+
+Name: assets/land/ground_05.png
+SHA1-Digest: 4b0SCQ3qg/Z0gTvfZJG0y53kV+w=
+
+Name: assets/webui/images/space.dark.mdpi.png
+SHA1-Digest: gJ6Cr7vbyYmtkwEF/xUwEGdthVU=
+
+Name: assets/webui/intro/new_account.json
+SHA1-Digest: O/0yec0K9g3RvGIYUB63itUjlWs=
+
+Name: res/drawable/ofgamefeedbackgroundbottom.png
+SHA1-Digest: xSvNrpu2S1Pmdh+r2qNY4wpvg74=
+
+Name: assets/ui/hud/cursor_center.png
+SHA1-Digest: 9KvZfA6RTTMnUEcmW/a8/tZwssE=
+
+Name: assets/bullet/bullet_skin_62.png
+SHA1-Digest: z51l6UvycEU1pXc/u2ZumNDg2RQ=
+
+Name: assets/land/ground_02_obj_02.png
+SHA1-Digest: lpDRBEGJBPMsR7SPJjgTQPdoJBQ=
+
+Name: assets/audio/sounds/boss3_attack2.mp3
+SHA1-Digest: oImlYEXAm9eI61b8WAkL2+folEY=
+
+Name: assets/audio/music/music_intro.mp3
+SHA1-Digest: pAvPvcRAPpoE9km2JOGOgYPZCVw=
+
+Name: assets/bullet/bullet_skin_54.png
+SHA1-Digest: xldt3I0LfCdF30b4bSK33lCqlUE=
+
+Name: assets/webui/gamefeed/ios/config.json
+SHA1-Digest: MDngVeirLCRIBNfe0uhKWfzJ8k0=
+
+Name: res/drawable/top.png
+SHA1-Digest: OTORw/7lpXMgS3MgOmN3t0HQEzA=
+
+Name: res/drawable/ofgamebarparentalcontrolsicon.png
+SHA1-Digest: ajaCheYILPBKxmOdryOAgwpO6ng=
+
+Name: res/drawable-hdpi/ofgfihitportrait.png
+SHA1-Digest: ymGieOGr897rXf2SH/VZbpcIh3A=
+
+Name: assets/ui/select_character/tabs_back.png
+SHA1-Digest: VdwvwXPkZbf+SgiwPpAMAw01Y7E=
+
+Name: assets/ui/menu/menu_pause_back.png
+SHA1-Digest: 59daqZnFq+aH2xnkXY00aa4kQj8=
+
+Name: assets/levels/icon19.png
+SHA1-Digest: JqbmMe4HYtVF0VSvh9IGqGqvVAM=
+
+Name: assets/ui/stats/green_progress_bar3.png
+SHA1-Digest: ZBBThQDBjqJueM5WxNjmeWM9pik=
+
+Name: assets/land/ground_08_obj_01.png
+SHA1-Digest: wdTuNLSTC10qhn1XdedcGK/k6R0=
+
+Name: assets/bullet/bullet_skin_03.plist
+SHA1-Digest: x/V+tm/d7FjbJcqOuv5Q13GU850=
+
+Name: assets/webui/images/tab.active_indicator.hdpi.png
+SHA1-Digest: uGkBy+NZCPgLP0dZRnjlSgOL7Ug=
+
+Name: res/drawable-xhdpi/ofgamebarprofileframesmall.png
+SHA1-Digest: a9DPivPSzmdaxAtgaghY8gzTykI=
+
+Name: assets/bullet/bullet_skin_35.png
+SHA1-Digest: p8YbLqr6BcQYjfrW1/Y1+QK5T5Q=
+
+Name: lib/armeabi/libpugixml.so
+SHA1-Digest: oa7z8bN/sfPkzHFWNkgavgtw4ys=
+
+Name: assets/webui/images/icon_x.hdpi.png
+SHA1-Digest: 5oAhHipCXToVKaCH0bnmchlgEcQ=
+
+Name: assets/webui/stylesheets/dashboard/compare_achievements.css
+SHA1-Digest: cOT0lfpplPrdVMADB1Mt70LOAUc=
+
+Name: assets/webui/images/cell_table_hit.mdpi.png
+SHA1-Digest: tQPKPWro8g7b7tqkoQMBJLZdmiw=
+
+Name: assets/fonts/arial_black20.png
+SHA1-Digest: T7GYJKVdsot+sTLhyZnm7rQWBkA=
+
+Name: res/drawable/of_native_loader_progress_09.png
+SHA1-Digest: 7nsRh0dQ3Sho1JTC13zWIlBJmUs=
+
+Name: assets/webui/images/settings/button_radio_on.mdpi.png
+SHA1-Digest: oV0NXFpQ0v5H+zUG+67neECEA9A=
+
+Name: assets/ui/common/yellow_button_disabled.png
+SHA1-Digest: itoJK8D9o1IYjwC5dZs+3CW2c30=
+
+Name: assets/weapon/weapon_11.png
+SHA1-Digest: EOd3qZ5Jmp7AnIjaX8jD1UzKLkE=
+
+Name: assets/webui/images/button_check.hdpi.png
+SHA1-Digest: n+7Rbmy7KVFMpJCGaYQv1hO4SXE=
+
+Name: assets/webui/images/icon_white_disclosure.mdpi.png
+SHA1-Digest: 8V2PH89FiGcNyjF3E0f8FLJcWsE=
+
+Name: assets/ui/daily/bonus_find.png
+SHA1-Digest: vkA5XNqIE+e8J9d7yB9QtjZBI8g=
+
+Name: assets/bullet/bullet_skin_81.png
+SHA1-Digest: rwYMdkBRppmPbAlmnfFMZokHwUo=
+
+Name: assets/weapon/weapon_7.plist
+SHA1-Digest: kUJBJdGDlvayh+IX67UR4/W1RcU=
+
+Name: assets/webui/intro/tos.json
+SHA1-Digest: THIjC7WbQkIEvFLIQ8rPAcMf0Mk=
+
+Name: assets/ui/choose_level/level_arrow.png
+SHA1-Digest: bMNQC5kaBb5bc4i/n1zvC4hlxLY=
+
+Name: assets/ui/stats/progress_bar_current.png
+SHA1-Digest: +38b+cI5ZH/NH4lqGySgpkkyMvg=
+
+Name: assets/monster/mutant_scream.plist
+SHA1-Digest: r5zu3ttpIHvnRbvip7qul5U9xQY=
+
+Name: assets/weapon/weapon_5.plist
+SHA1-Digest: njUOLL9/oE/CIJqJJDToYvOICww=
+
+Name: assets/ui/hud/cursor_back.png
+SHA1-Digest: 3LaFzuOBxAqwcJjW9YgR6Y+86QI=
+
+Name: assets/player/player_skin1.plist
+SHA1-Digest: zSrhemjn/kxgu+J7S+o9I31YjuY=
+
+Name: assets/audio/sounds/boss2_attack1.mp3
+SHA1-Digest: JRO1W4Cx2ZzR7Z67FohiJavcRHY=
+
+Name: assets/bullet/bullet_skin_31.plist
+SHA1-Digest: MwUykmXgEBSrlz7gIFL1tDsp5eY=
+
+Name: assets/webui/images/blue_button.png
+SHA1-Digest: c2BnbATG29szVMjfDB0YzQIwjos=
+
+Name: assets/ui/hud/pause_button_down.png
+SHA1-Digest: vwAe+hEiptotsiRzEShoJ7l9pxY=
+
+Name: assets/webui/images/icon.user.male.hdpi.png
+SHA1-Digest: e1PHA4x3dNguxfdRiOLB48BIXFc=
+
+Name: assets/player/perk.plist
+SHA1-Digest: 3F1I/oZp0dv8O7+S+kvWb2VLvhY=
+
+Name: assets/bullet/bullet_skin_21.plist
+SHA1-Digest: vJ8vmtzRktH5dokUKqv2IOx3RbY=
+
+Name: res/layout/main.xml
+SHA1-Digest: 7VIzGjb9ViD086/vs2eBTQ19kz0=
+
+Name: res/drawable-xhdpi/ofgfihitportrait.png
+SHA1-Digest: 43U5cHyaq52OtaEXYc3ZI2DFxqU=
+
+Name: assets/monster/boss_3.plist
+SHA1-Digest: cjDfF0K2N9+bmY4+7oEs6mZBZ1M=
+
+Name: assets/land/ground_08_obj_02.png
+SHA1-Digest: IREgCNhXIDD8++b/luQvcQy5J7k=
+
+Name: assets/bullet/bullet_skin_15.plist
+SHA1-Digest: BoJv90pRIw3fQ2oU+Ev2YVV3Iqo=
+
+Name: assets/audio/sounds/weapon_ruge.mp3
+SHA1-Digest: lUAqXdA+I8KBn8IBNBu0a8Iw/fI=
+
+Name: res/drawable/ofgamebarleaderboardsicon.png
+SHA1-Digest: uPmBtPi/vGBB6u21Gtch47sf5Gs=
+
+Name: assets/levels/icon17.png
+SHA1-Digest: 2eJXM6urDYbCFk6xCbQh44btKE8=
+
+Name: assets/audio/sounds/monster1_dead.mp3
+SHA1-Digest: SZ2HoCApgYv+0ZUZ2vheb4sTFCA=
+
+Name: assets/webui/gamefeed/ios/config.json.tweaked
+SHA1-Digest: 1vH41m8gKecmFNSEUoFW2TPUXW8=
+
+Name: assets/webui/images/circles.mdpi.png
+SHA1-Digest: 4ZAa8yVXCXTgg/rXeWwEPsg9ZiI=
+
+Name: res/drawable/of_achievement_icon_frame.png
+SHA1-Digest: 2d8iKlzHQUPlDLe902WXPDWK/vI=
+
+Name: assets/audio/sounds/player_dead_splash.mp3
+SHA1-Digest: w/tRG63L7zkCc0kbQquSx0YbYwI=
+
+Name: assets/levels/icon15.png
+SHA1-Digest: 5ZRVE0nywwqjEVc6tJMYdCGEjLY=
+
+Name: assets/ui/common/checkbox_on.png
+SHA1-Digest: 5cUoj38/Vb4GRJS/huXZguKdNho=
+
+Name: assets/ui/yellow_button_down.png
+SHA1-Digest: ZnOm3F8iNRqFKlnMlwFTKCk1Ees=
+
+Name: assets/bullet/bullet_skin_31.png
+SHA1-Digest: Jo0y7X41/c6fx4evVSQ96GvRQ9I=
+
+Name: assets/bullet/bullet_skin_82.plist
+SHA1-Digest: z8OCUn1hOrLf/kebAv5zJlW0De8=
+
+Name: assets/player/art/char_3_body_2.png
+SHA1-Digest: 6iR9xQitRSqrZI1dCB3Ew+JCmDg=
+
+Name: assets/webui/images/button_checked.hdpi.png
+SHA1-Digest: rW+ODRO/jycXVF8YRjb7GC04YRw=
+
+Name: res/drawable/ofgamebaroffline.png
+SHA1-Digest: 3vpyLtWpbDqba2bVlOO/JXfGI2k=
+
+Name: assets/ui/hud/perk_frame.png
+SHA1-Digest: J8MRv4zAmdnkyA8TosimUqwJ8i4=
+
+Name: assets/levels/icon13.png
+SHA1-Digest: WAbIJ5ypVgEp+onX3oFkcYRA998=
+
+Name: assets/webui/images/button.gray.hdpi.png
+SHA1-Digest: vaGYAf6Mlp1iZ/klIxALI1mIoQU=
+
+Name: res/drawable/yellow_button.xml
+SHA1-Digest: q646A6SJlQDdnicSvexZuYzfFI8=
+
+Name: assets/ui/menu/icon_settings.png
+SHA1-Digest: wQGFEdqUQ/RGoCtoeaD37nVfikM=
+
+Name: assets/ui/stats/perk_grey_bar.png
+SHA1-Digest: KPooz+dD7eyEgNge6TUEfHQQVUY=
+
+Name: res/drawable-hdpi/ofgamebarachievementicon.png
+SHA1-Digest: 70s5J/JaRonvua69GFap2f2Ukxs=
+
+Name: assets/webui/images/carrot.gif
+SHA1-Digest: ZGI2g4G0N1bZZyrn69YpnoTDoJM=
+
+Name: assets/ui/stats/green_bar2.png
+SHA1-Digest: k8k7LXwhpsNK6nUTc564ldVmti8=
+
+Name: assets/locale/lang_en.xml
+SHA1-Digest: Azi1Z9JCh5ibTefjQofwUMzje/I=
+
+Name: assets/ui/hud/pause_button.png
+SHA1-Digest: 2HiK81r3NdyUFx+PhN5UfIKPEuU=
+
+Name: assets/webui/images/intro.achievements.mdpi.png
+SHA1-Digest: MQnNjQRRBDUzQvbUCIB0hngbIjQ=
+
+Name: assets/webui/images/icon.achievement.locked.hdpi.png
+SHA1-Digest: zg2smK+oBhXhQ3FNTeyOjtD1bv0=
+
+Name: assets/webui/dashboard/achievements.json
+SHA1-Digest: w53skHNpTxi7z8QeCySrl4HG0aE=
+
+Name: assets/ui/menu/main/button_2.png
+SHA1-Digest: 7FLkHrxVSLmmtVGnJd/4O6deWCA=
+
+Name: assets/webui/images/icon.leaderboard.mdpi.png
+SHA1-Digest: ZGBw2LE9MiUpD+b5/zlk30vfvgs=
+
+Name: assets/audio/sounds/boss3_start.mp3
+SHA1-Digest: 4V93nfG3utgDj9RooSia+xL8zZs=
+
+Name: assets/fonts/arial_black18.fnt
+SHA1-Digest: U+g9GbhXb74kz6h2HUFB0KTocC0=
+
+Name: assets/app.config.txt
+SHA1-Digest: 3gXmYPj6NPSjanm3BEJChtUR2J8=
+
+Name: assets/webui/images/icon.search.hdpi.png
+SHA1-Digest: hWYeEa3beScJ6gtNKUxNM+ZB1FI=
+
+Name: res/drawable/ofgamebarstartopenfeint.png
+SHA1-Digest: nyS3RdeNI+/YaWHIYvVGiXWehqo=
+
+Name: assets/audio/sounds/boss2_start.mp3
+SHA1-Digest: ui6q0UP2UUYHInbmF9cmhZn4E60=
+
+Name: assets/webui/intro/forgot_password.json
+SHA1-Digest: t5xBHDbcCsiGqSYC3kuRAgB1sM4=
+
+Name: assets/audio/sounds/monster3_dead.mp3
+SHA1-Digest: sA/IM/vCpNTW99pM4gU3w+V4p+w=
+
+Name: assets/land/ground_01_obj_01.png
+SHA1-Digest: TCRDLpUQE7eNhKg3dBkn6BgYXo8=
+
+Name: res/drawable-xhdpi/ofgamebarstartopenfeint.png
+SHA1-Digest: sIXOHo3qESa4BmjQDjC+mBH4d+g=
+
+Name: assets/bullet/bullet_skin_43.png
+SHA1-Digest: uRTSLjUfwGpjU/GAAaW0ABLXFUM=
+
+Name: assets/webui/javascripts/head.js
+SHA1-Digest: DopgcbQ2xWA8+elasev2xcBPf6Q=
+
+Name: assets/land/ground_06_layer_03.png
+SHA1-Digest: M8ec5AUNH1Qj2J7T+80BwFKB4bE=
+
+Name: assets/land/ground_09_02.png
+SHA1-Digest: lEywtg1bbBarr6GMa1/IljuFxjU=
+
+Name: assets/close.png
+SHA1-Digest: iQYqf8Qom5ojqaVtvXn4q3cxzUs=
+
+Name: assets/audio/sounds/plazmawall.mp3
+SHA1-Digest: v6whJ6NmNTfOvUHmMcKliJPwrQ4=
+
+Name: assets/audio/music/music_boss.mp3
+SHA1-Digest: c8mJH3B7254OTZKwx9BAthbuS8Q=
+
+Name: assets/webui/stylesheets/settings/profile_secure.css
+SHA1-Digest: ci4AoAP1uHrCNcvL6xOJ/HI6PRA=
+
+Name: assets/ui/stats/header_progress_bar.png
+SHA1-Digest: QLz6FZdAG2GCM0JmfnYF2rJ0cIk=
+
+Name: assets/bullet/bullet_skin_32.plist
+SHA1-Digest: r3NY+QivUU3X+smgfz4gNLGCmNg=
+
+Name: assets/levels/icon16.png
+SHA1-Digest: FSuPsnvTDuf3TAIq4OY+VMO4bB4=
+
+Name: assets/audio/music/music_game1.mp3
+SHA1-Digest: BBSMoY4W5wMDkBv2PxbkkHKMSrk=
+
+Name: assets/webui/javascripts/game_channel.js
+SHA1-Digest: 4kHTOmeW5mADa9AdxnYHaHWK+xY=
+
+Name: assets/ui/hud/panel_message_icon.plist
+SHA1-Digest: 2C9to7DIlSP49WQ8YRswqtZaYN8=
+
+Name: assets/webui/images/loading.spinner.light.mdpi.png
+SHA1-Digest: EAMPQOJPlhLl4MmvOFx2T6xqcjA=
+
+Name: assets/webui/images/white_left_gradient.png
+SHA1-Digest: vdu3T13RDwBZS7S4Lot71cE012o=
+
+Name: assets/land/ground_05_obj_01.png
+SHA1-Digest: dsSxQGocE461EIJcixnR/hRLcos=
+
+Name: assets/webui/images/intro.achievements.hdpi.png
+SHA1-Digest: kS5xIMYt1V7LQm3Ctf8vNSAQNYY=
+
+Name: assets/audio/music/music_game2.mp3
+SHA1-Digest: t9oldbgKW34RoWoMtaiLjSMMbOM=
+
+Name: assets/audio/sounds/plazmawall_hit2.mp3
+SHA1-Digest: e/2y1iqKUeInP5QkPpX7QM/dEuA=
+
+Name: assets/ui/stats/green_bar.png
+SHA1-Digest: FL6+GGwnhyi68qNANQ7DBOneOUU=
+
+Name: assets/monster/zombi_3.png
+SHA1-Digest: 5TLl28JRX7pDzjsYhVGQ0xRkGE0=
+
+Name: assets/webui/javascripts/webui-profiler.js
+SHA1-Digest: /OKRFT/hU6FJLkIhnDl7c2aI0lw=
+
+Name: assets/bullet/bullet_skin_11.png
+SHA1-Digest: hVds7M0i9Aij3kVTkuR+IATdeOU=
+
+Name: assets/audio/music/music_menu.mp3
+SHA1-Digest: RFZIJtQQQAc6bdqBYD4tXUaTh5A=
+
+Name: assets/webui/images/loader.gif
+SHA1-Digest: UYtZWXPKzs5SDNCedzePsjC5Sig=
+
+Name: assets/audio/sounds/character_6_spell.mp3
+SHA1-Digest: mMkMvpTTRHbgrwJ/c/wQ4UGkBQ0=
+
+Name: assets/webui/settings/password.json
+SHA1-Digest: oAE9GfRdxlkiJu5N7fZ/5Jlq8Yk=
+
+Name: assets/ui/hud/perk_frame.plist
+SHA1-Digest: pft5/SM6j/j7Q7RODVZoeT4HErU=
+
+Name: assets/levels/icon00.png
+SHA1-Digest: ztpp69Lh5zIt1hsUebWlkpF6PZk=
+
+Name: assets/webui/images/icon_arrow_down.hdpi.png
+SHA1-Digest: oZDar03Iyw3rMg6lf7ogwkkZNWM=
+
+Name: res/drawable/ofspinnergray10.png
+SHA1-Digest: 4xrDp2TfZdMGAhC15aUNci7Db3s=
+
+Name: assets/land/ground_04_obj_03.png
+SHA1-Digest: tAVEFL98cdkksbyI87RtLdtfN6A=
+
+Name: res/drawable-hdpi/ofadbadge.png
+SHA1-Digest: hv4QAvREKJV13y63AnRiShQ/Sj4=
+
+Name: res/drawable/ofgamebarcelldividerportrait.png
+SHA1-Digest: fohJXYOpbABPR0pRPOY4uIUPBRU=
+
+Name: assets/ui/common/yellow_button_up.png
+SHA1-Digest: yPZCLIP0nRT2SBGTwRQhBrhn4rw=
+
+Name: assets/webui/settings/parental_controls_enable.json
+SHA1-Digest: U9o15TC/9G+ZpQdqHdMXtxABU/0=
+
+Name: assets/webui/images/frame.profile.hdpi.png
+SHA1-Digest: pV1UkTzOCx4IZyvTp4yqkikI4LQ=
+
+Name: res/drawable/ofspinnergray02.png
+SHA1-Digest: a0K+1gcAeS090cvxNAFV2QzWjqI=
+
+Name: res/drawable/backgr.png
+SHA1-Digest: x8vGbUarDUqc3za1JRbqCj7IKzw=
+
+Name: assets/webui/images/icon.play.hdpi.png
+SHA1-Digest: V7Q3vqT0Y/aHjDwqDObUJmskFO8=
+
+Name: res/drawable/of_native_loader_progress_12.png
+SHA1-Digest: hDQYOyJ9oq25I37dm4iTJJ/bUGM=
+
+Name: assets/land/ground_02_obj_01.png
+SHA1-Digest: b04zYixa9J1NGZBJa+lS/r6tON8=
+
+Name: lib/armeabi/libcocos2d.so
+SHA1-Digest: akI48hJiQgpMXlEyRoKS9AqrB0c=
+
+Name: assets/webui/images/icon.leaf.white.hdpi.png
+SHA1-Digest: 56SCy407eEze0d5eedyI9nXqlko=
+
+Name: assets/webui/javascripts/webui-page.js
+SHA1-Digest: Rdt9FPHUAMGQxMYsDSuRz5elASY=
+
+Name: assets/icons/bonus_skin.plist
+SHA1-Digest: X4652FbRZ6I48iWAS57NfimSfS0=
+
+Name: assets/ui/select_character/hero.plist
+SHA1-Digest: UbIsLfyY+bJR1c7CAediVLGOXys=
+
+Name: assets/bullet/bullet_flash.png
+SHA1-Digest: aBOP7VnAEX+eJZzOxiAKlTeXmQg=
+
+Name: assets/webui/images/statusBubble_Portrait.hdpi.png
+SHA1-Digest: LZ8jtQzaBgogy+EvJiz+RJKkwoY=
+
+Name: assets/webui/images/green_bar.png
+SHA1-Digest: M+J+nmcp5gdVdvzW4tsjudIYH2A=
+
+Name: assets/background.png
+SHA1-Digest: t4ATYvcfCDKohkhf/24jLGXxnMQ=
+
+Name: assets/webui/javascripts/dashboard/user.js
+SHA1-Digest: dj9t3w2fTkt/jGQkjKohH6QIc3Q=
+
+Name: res/drawable-hdpi/ofgamebarlargedisclosure.png
+SHA1-Digest: xhuL2jzahmwisX0QrOmi/z2Pxrg=
+
+Name: res/drawable/of_notification_bkg.png
+SHA1-Digest: aAfEckaU4eFWb3rmoEMOChNhGzo=
+
+Name: assets/webui/images/icon_facebook_sm.mdpi.png
+SHA1-Digest: z45ykpQi7ooQi/ZZid7fxlqaApo=
+
+Name: res/drawable/ofspinnergray05.png
+SHA1-Digest: oPzmdPA2uf03JPjC1G3vW5m1guY=
+
+Name: assets/land/ground_04_obj_05.png
+SHA1-Digest: cOBsXsyZDxTKDzHMxWz4V0Bq5Dc=
+
+Name: assets/webui/images/button.green.hdpi.png
+SHA1-Digest: s0arzvlkUhQO2ThDLwPhqsluluo=
+
+Name: assets/ui/choose_level/level_selected.png
+SHA1-Digest: vPgzqc027WlHadc/dIraVqGcoZs=
+
+Name: assets/player/player_skin3.plist
+SHA1-Digest: H3G1WFtlflQxNMaIZFzp37moyM0=
+
+Name: assets/audio/sounds/boss2_death1.mp3
+SHA1-Digest: 1znxn/9o/cyZgvt0kza4MkTDUlw=
+
+Name: assets/webui/images/dashboard/icon.check.green.mdpi.png
+SHA1-Digest: E6ii0xKFIHBXaes6fUDODhKg+jQ=
+
+Name: assets/webui/images/icon.search.mdpi.png
+SHA1-Digest: 5ZZt+pYZmYBF8olCLRRU58IvIfk=
+
+Name: assets/ui/select_character/upgrades/upgrade_icon_frame.png
+SHA1-Digest: mkBHSbCSy14zPQP5NJDRY6NVfv4=
+
+Name: assets/webui/gamefeed/test.mdpi.png
+SHA1-Digest: Kj+BnPCdGNeNYoOgkosE0/6LYXM=
+
+Name: assets/webui/dashboard/user_search.json
+SHA1-Digest: V7K8JP6AcZW/gYKZDMWb0TfKaSQ=
+
+Name: assets/ui/stats/progress_bar_summary.png
+SHA1-Digest: CZoOGaxJ5AUjd53tkZJJXGdDAbw=
+
+Name: assets/weapon/weapon_icon.png
+SHA1-Digest: J1hgAgJYBiyU9/GTl2RM8OlqwvU=
+
+Name: assets/webui/images/badge.hdpi.png
+SHA1-Digest: PJy9HEzIG/ts2LnptTzzqYTII/A=
+
+Name: assets/player/art/char_3_body_3.png
+SHA1-Digest: 4adddLBFJDfzUzKa+0lt3TO3xG4=
+
+Name: assets/weapon/weapon_7.png
+SHA1-Digest: 0sBiUA63COo0uWxNHe3RxrC86iQ=
+
+Name: assets/webui/images/button_gray.hdpi.png
+SHA1-Digest: cMsgrIgD9QZNHog5OqIp8i9/SWU=
+
+Name: assets/webui/images/whiteDisclosure.mdpi.png
+SHA1-Digest: 6E2noyVBK5nu1gFbXPzqvJELDQQ=
+
+Name: res/drawable-hdpi/oflandscapeadbordercell.png
+SHA1-Digest: gDPgfCfVhmAMWpFm5BiMJtoPjZw=
+
+Name: assets/bullet/bullet_skin_14.plist
+SHA1-Digest: iz1pE3dwZCLCps26ESp/jjfhTPM=
+
+Name: res/layout-xlarge/of_native_loader.xml
+SHA1-Digest: e76+hh9kNgx05lR1iVAhiDroVrE=
+
+Name: assets/ui/hud/panel_message_icon.png
+SHA1-Digest: nG63JKjsrbIsZZe/wxn/QODJei8=
+
+Name: assets/webui/gamefeed/android/test.hdpi.png
+SHA1-Digest: LUAiS2anIxp6oNRnxN0JVgFnqys=
+
+Name: res/drawable-xhdpi/ofregularfulllandscape.png
+SHA1-Digest: ty2LngxnhfiiqlzKfA+g3EBohHg=
+
+Name: assets/player/player_skin2.plist
+SHA1-Digest: LJVA/0AxLJYGazaC99F5U075eCQ=
+
+Name: assets/land/ground_09_04.png
+SHA1-Digest: 50/a1MR8g8WyVX+tu0vDUla6RE4=
+
+Name: assets/ui/select_character/equipment/item_back_lock.png
+SHA1-Digest: seIYdSHvH/L0BxIhPet2yQnBHB8=
+
+Name: assets/webui/images/logo_icon.mdpi.png
+SHA1-Digest: DdubMlQ1RwP2Hu24Wkti8+85b4Q=
+
+Name: assets/audio/sounds/weapon_dvuxstvolka.mp3
+SHA1-Digest: CZaXdiGE6g0bsWG6Hae3eVr5Ef4=
+
+Name: assets/bullet/bullet_skin_43.plist
+SHA1-Digest: Kn8UxtGjG5N/2/i0kLoqJ3fHN3k=
+
+Name: assets/webui/images/space.light.mdpi.png
+SHA1-Digest: DX85SnJFXIY+uqE6HDj5oKa4wYs=
+
+Name: assets/webui/images/button.green.mdpi.png
+SHA1-Digest: xN/Wm244cJV8gdp50osmrjJjtbY=
+
+Name: assets/ui/select_character/upgrades/points_back.png
+SHA1-Digest: SKve8mCm1Gwbbj2w8txj1fPEeoA=
+
+Name: assets/app.icf
+SHA1-Digest: 4uk1B3mPX73qIMywFEfEWBmuY2I=
+
+Name: assets/ui/select_character/tab_passive.png
+SHA1-Digest: /bV8UUS/0/qf4KwupSTOTNfmZtc=
+
+Name: assets/webui/images/replay.mdpi.png
+SHA1-Digest: gG6pqqoaSaAo/EdTpV1umJqjm44=
+
+Name: assets/bullet/bullet_skin_21.png
+SHA1-Digest: a8Q5Zd2d41yuPr4n9J5005zVqm8=
+
+Name: assets/webui/images/intro.leaderboards.hdpi.png
+SHA1-Digest: tdEEX8AWi4sOvwlm4UXkW48PsDo=
+
+Name: res/drawable/ofregularfullportrait.png
+SHA1-Digest: gGUJjGO39tWBQZRkLXcJnmwf2Xg=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: oRLJkdOS/FW071Z70qRwE2vYe3U=
+
+Name: res/drawable/of_achievement_icon_locked.png
+SHA1-Digest: eufeEdwoFz01utFyPIcYjn85udQ=
+
+Name: assets/webui/stylesheets/webui.css
+SHA1-Digest: UntgibzaTOpGtnuG3TtAXS6iz+A=
+
+Name: assets/webui/images/cell.gray.mdpi.png
+SHA1-Digest: MczbRHy3IQb1V0IPnhemihMpJHk=
+
+Name: assets/bullet/bullet_skin_70.plist
+SHA1-Digest: LWPc89WontyngZeWVDUL/JpvB6E=
+
+Name: assets/webui/javascripts/webui.js
+SHA1-Digest: +n1suewbQzp8eU4RPN7VyHKeC2o=
+
+Name: res/drawable-hdpi/of_icon_dashboard_exit.png
+SHA1-Digest: yygUbj+zvsSS1OGugJfFJOP8tZE=
+
+Name: assets/audio/sounds/boss4_start2.mp3
+SHA1-Digest: OJEXrVGSOneLfGk2wZEjetrHpf8=
+
+Name: assets/webui/images/space.light.hdpi.png
+SHA1-Digest: 6MNfdHJ/2mYlSBLFXQ6lFmGrfA4=
+
+Name: res/drawable/yellow_button_up.png
+SHA1-Digest: 7qEIzxjGREZIjVW6KrosZBzOD7Q=
+
+Name: assets/ui/hud/weapon_panel_back.png
+SHA1-Digest: ljRSXQZFHcO74wad0VWliAaIieI=
+
+Name: assets/monster/zombi_2.png
+SHA1-Digest: rgY690paTtm4bRuf2u4EXPAPKnM=
+
+Name: assets/webui/javascripts/dashboard/statusupdate.js
+SHA1-Digest: 0aaL5UFnfpo4We+QiLTe6bpQSf0=
+
+Name: assets/levels/icon03.png
+SHA1-Digest: AqDYfufHHbsuUFBvKmv9RYEfi1k=
+
+Name: res/drawable/of_native_loader_progress_08.png
+SHA1-Digest: MU4b3JEnmMtRtaljZfXR8GuD41o=
+
+Name: assets/levels/icon04.png
+SHA1-Digest: Y20+w/bDqpAhUKiVRcDxc4eAcZo=
+
+Name: assets/webui/stylesheets/settings/privacy_settings.css
+SHA1-Digest: cWvH3Xq2KjfDL20q3j68yFjx3b0=
+
+Name: res/drawable/ofspinnergray11.png
+SHA1-Digest: DWRCHOUmgEJ7kmpkNpoOf0UMvmM=
+
+Name: assets/webui/javascripts/dashboard/dashboard.js
+SHA1-Digest: HV/crPCeju7nAN4T+tTG5I4ZxFE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: GvWPfhXwC1KTwVHxI1dmXX3dscw=
+
+Name: assets/land/ground_07_layer_02.png
+SHA1-Digest: cFxlDRuNJl+5W5pdmTgWWBPNkpI=
+
+Name: assets/weapon/weapon_2.plist
+SHA1-Digest: Av/znrq8FMBFWVh5khmEzewlubs=
+
+Name: assets/monster/mutant_scream.png
+SHA1-Digest: cWFRq/OTTL1938U80hPt+Vu/OwE=
+
+Name: assets/webui/images/white_right_gradient.png
+SHA1-Digest: fP8H6XOpVaqu0aUFxmeFyU8tqyc=
+
+Name: assets/ui/stats/perk_blue_frame2.png
+SHA1-Digest: EE+/UOPpGpNJUDN/ZWnH+1ukEyU=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: w3XnuXBmFTUdZmS5mvNEtFcAU8k=
+
+Name: res/drawable-hdpi/ofgamebarprofileframesmall.png
+SHA1-Digest: zcMaTNYCMmAgv/1ABbnRnMFUd4Y=
+
+Name: assets/locale/lang_ru.xml
+SHA1-Digest: k1lhYL4pnMgnzy8sbA2UZFfOE0Y=
+
+Name: assets/land/ground_09_03.png
+SHA1-Digest: 0mToPttI+vpkHcbDapYEWXtoxxY=
+
+Name: assets/land/ground_07_layer_04.png
+SHA1-Digest: YQtYdC2LRMpUoVcq2xVG1iW40ms=
+
+Name: assets/ui/common/green_button_up.png
+SHA1-Digest: 8mebE1dba2+OvmF+r6VmoSSwekc=
+
+Name: assets/ui/menu/option_button.png
+SHA1-Digest: tp5hGy/yrFqlevxTY1dDXHfRvvY=
+
+Name: res/drawable/twitter.png
+SHA1-Digest: CO00XXx3z6C9k+3adEiUV5zm13c=
+
+Name: res/drawable-hdpi/ofgamebardeveloperannouncement.png
+SHA1-Digest: xVdfFAWVbTIDPPe180Oj/jWK/Ng=
+
+Name: assets/weapon/weapon_9.png
+SHA1-Digest: 4Xr+SjhlP2iL88EKHLUjMNZJKMg=
+
+Name: res/drawable/ofportraitadbordercell.png
+SHA1-Digest: J3YzyHi3j0/OFy+irLW/rHLvjSE=
+
+Name: res/drawable-hdpi/ofgamefeedbadgeiconhit.png
+SHA1-Digest: L3YWMfrF/ykoa89Vk3KuaMAmCnY=
+
+Name: assets/audio/sounds/monster1_dead4.mp3
+SHA1-Digest: QgHmjxbaPaasEmLMrMQTCGRe2HE=
+
+Name: assets/monster/zombi_5.plist
+SHA1-Digest: sJga3VNIfZrvTpkMyRxwIgMLUMY=
+
+Name: res/layout/billing_not_supported.xml
+SHA1-Digest: pNRZERRWJSRt7aeLwsU5NDIk8jo=
+
+Name: assets/weapon/weapon_2.png
+SHA1-Digest: OpL1/BhLpuQDtcRPQATgTBLZ4Ks=
+
+Name: res/drawable/of_ll_logo.png
+SHA1-Digest: fRFJh1vXiQKdhmrufHpI9yAP5Vc=
+
+Name: assets/bullet/bullet_skin_35.plist
+SHA1-Digest: OFpA4Twl6aUcxBBb58vRHiGTBSk=
+
+Name: assets/webui/images/textarea_bg.png
+SHA1-Digest: 9qtqyL7iktFRvx1xyqR2h4c6q3A=
+
+Name: assets/webui/images/button.green.hit.mdpi.png
+SHA1-Digest: dZcy/LbGlWpRjdcSPav0uCdbbN8=
+
+Name: res/drawable/ofgamebarservererroricon.png
+SHA1-Digest: 7OGi5jqSor8YMdtw6OAjwUh1uR4=
+
+Name: assets/webui/images/dashboard/icon_profile_block_user.hdpi.png
+SHA1-Digest: zqk6EXhvonGkzAmkXkVQuankwWU=
+
+Name: assets/ui/select_character/upgrades/points_button.png
+SHA1-Digest: EokHp8v04XrUim29qDd14TQVKRo=
+
+Name: assets/webui/images/icon.user.male.large.hdpi.png
+SHA1-Digest: YnIdBAoh7siJj+OrqTp2ZDhirKI=
+
+Name: assets/ui/menu/main/menu_button.plist
+SHA1-Digest: 8n5Y18ItULmKaePyu6X6sh+Gsoo=
+
+Name: res/layout/mutant.xml
+SHA1-Digest: JV6U3NGNV7dn9fQTNgHTrxK1bKk=
+
+Name: assets/monster/boss_3_sucker.png
+SHA1-Digest: LtZppJYfw18hWxz8s6r95SVCEcE=
+
+Name: res/drawable-xhdpi/ofgamebarprofileicon.png
+SHA1-Digest: VvRtfoWrJkpIfzCMCyxg19UOGdU=
+
+Name: assets/icons/arsenal_icon.plist
+SHA1-Digest: gUSOnO7zSSx3js1QGuUdM1ye0ig=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +7daqitqubQevt4RMya6us2w3Kg=
+
+Name: assets/audio/sounds/boss4_attack2.mp3
+SHA1-Digest: LOi7kuMLXFg4czPwieVkHEqJb58=
+
+Name: assets/audio/sounds/weapon_avtomat.mp3
+SHA1-Digest: W63gkVP7coQhvjhx1IysoAw0lfs=
+
+Name: assets/webui/images/button_orange.mdpi.png
+SHA1-Digest: YkqzBBm7EgU8s09bHpBZVn91xe4=
+
+Name: assets/webui/images/icon.achievement.gamerscore_coin.mdpi.png
+SHA1-Digest: Xp0yrkbAkAkkctvB80q2P0wSif4=
+
+Name: assets/player/player_skin6.png
+SHA1-Digest: YMX0x1rGvZstmL9nZ4U+NY5fgps=
+
+Name: assets/webui/images/tab.divider.mdpi.png
+SHA1-Digest: 3hlkSQxUR1usZEqduTjizTt2yQI=
+
+Name: res/drawable/close.png
+SHA1-Digest: KT9xxVpYmAMvsVvle7QJxeCUI4Y=
+
+Name: assets/bullet/bullet_skin_26.png
+SHA1-Digest: +ztX6QjvgFUevcB8xQs5swWuHtc=
+
+Name: assets/bullet/bullet_skin_54.plist
+SHA1-Digest: hIAVonhQ6noWvetNzka21EkLj3s=
+
+Name: res/drawable-xhdpi/ofgfihitlandscape.png
+SHA1-Digest: L9uTatQmTpIUUn8ef8gm7KJHc7c=
+
+Name: assets/webui/images/statusBubble_Landscape.hdpi.png
+SHA1-Digest: 4zd5MlnRY/mxwiSgD6GN/YKVpsE=
+
+Name: res/drawable/of_icon_dashboard_home.png
+SHA1-Digest: ougUMiRNo7gsJrqKD29wx6MW/jQ=
+
+Name: classes.dex
+SHA1-Digest: IRobc2xfwkQlBGOHQny3yXtobd8=
+
+Name: assets/webui/images/icon_games_small.mdpi.png
+SHA1-Digest: ZWj+YipzYsGIg+eaPx348/nn1PM=
+
+Name: assets/ui/menu/help_bar.png
+SHA1-Digest: AYyS6SPmB1Uw/+veqOpZ4iIgjrk=
+
+Name: res/drawable-xhdpi/oflandscapeadbordercell.png
+SHA1-Digest: +fIDBlWRJH3OsGK9OBTtF28Q0X4=
+
+Name: assets/ui/common/checkbox_off.png
+SHA1-Digest: fVg9EFv1NQEM8PKD+tecgC8T0hE=
+
+Name: assets/ui/stats/grey_progress_bar2.png
+SHA1-Digest: nM1StKIAtOWehnj2PfqKIgwbtSw=
+
+Name: assets/icons/big_bonus.png
+SHA1-Digest: EPct9oirr94GuCXkLLKEFSHT9Og=
+
+Name: assets/bullet/bullet_skin_05.png
+SHA1-Digest: YYPPn1VyYyVETsPa7IIzRsfj+CE=
+
+Name: assets/weapon/weapon_8.png
+SHA1-Digest: v9YSlCzRUESllBHjPPNyZQVPUmo=
+
+Name: assets/webui/images/icon_addFriends.hdpi.png
+SHA1-Digest: H6mT3OUModpcM9/vpD5MwBUvOGI=
+
+Name: assets/webui/images/icon_arrow_up.mdpi.png
+SHA1-Digest: scDvfXL1fzPKAE32564BqQT57Gg=
+
+Name: assets/webui/dashboard/players.json
+SHA1-Digest: 4AwfExIqkwXjbWEPtPpGpIz/tz4=
+
+Name: res/drawable/ofspinnergray07.png
+SHA1-Digest: bSzJp0ZFCII5FNQ0tM4z0REptyA=
+
+Name: res/drawable-hdpi/of_notification_bkg.png
+SHA1-Digest: IpO1GmEBLiY77YFeCpuL2YfX+yA=
+
+Name: assets/audio/sounds/bonus_weapons.mp3
+SHA1-Digest: syf80+YzamrjxFY73O4jO1hWLNI=
+
+Name: assets/webui/images/icon_white_disclosure.hdpi.png
+SHA1-Digest: 790DVo6lv6p3Sv3Qr+1wO29g/lQ=
+
+Name: assets/bullet/bullet_skin_82.png
+SHA1-Digest: +Pfj/WqBllMBpsHx5swaaNMPqR4=
+
+Name: assets/webui/images/icon.leaderboard.hdpi.png
+SHA1-Digest: 3R9Y3EUYl3eIPSoBVJw49z9+peo=
+
+Name: res/drawable-xhdpi/ofgamebarcelldividerportrait.png
+SHA1-Digest: uX+9lOA9n2ZPp46DQmbz74tek+U=
+
+Name: res/drawable-hdpi/ofgamefeedbadgeicon.png
+SHA1-Digest: KK0xUPob8r7Pvt/+ZIMJ7eiUwrw=
+
+Name: assets/monster/boss_3.png
+SHA1-Digest: NUL5vWgbWzC50u3+AQ4ogVgnKe4=
+
+Name: assets/ui/select_character/upgrades/plus.png
+SHA1-Digest: gs3I8d8HRIikYZDEJGjx0P1EWjY=
+
+Name: assets/webui/images/icon.search.button.mdpi.png
+SHA1-Digest: Sl44nXD8ZHnGdY4fAjoozuS17OM=
+
+Name: res/drawable-hdpi/ofgfihitlandscape.png
+SHA1-Digest: pdv5zdaBA+hIuZJ0woLWfeY2dzI=
+
+Name: assets/webui/images/feint_spotlight.mdpi.png
+SHA1-Digest: vufz1awWgpKqFLLPc0PvEgzOPxA=
+
+Name: assets/ui/select_character/equipment/equip_button_unselected.png
+SHA1-Digest: Yiw157ZXOAQJpAC3GUIZdnqfJ98=
+
+Name: res/drawable-xhdpi/ofgamefeedbackgroundbottom.png
+SHA1-Digest: gYvz7UR1IH3u4rXQFAEyYy3x6Ik=
+
+Name: assets/webui/images/intro.leaderboards.mdpi.png
+SHA1-Digest: V4J73W9gxwgj+++EfbHDDoC1W1U=
+
+Name: assets/webui/images/att_of_logo.png
+SHA1-Digest: WCRl3cUtD4gyD5vJo6+nGl7pKwU=
+
+Name: assets/audio/sounds/player_dead2.mp3
+SHA1-Digest: amAzOnTbB/WkglAmg4X6SvJ4Qkc=
+
+Name: assets/audio/sounds/monster4_dead.mp3
+SHA1-Digest: i3zecEaWstMeW7HZ86GMvgO1JOI=
+
+Name: assets/ui/menu/option_button_selected.png
+SHA1-Digest: LGvL6wpI4bSu36Jved5m8IyE4tY=
+
+Name: lib/armeabi/libcocosdenshion.so
+SHA1-Digest: c+9lON430raSGHdJJ9ujmkOHYvc=
+
+Name: res/drawable-xhdpi/ofgamebarlargedisclosure.png
+SHA1-Digest: DvvJxFQDcpCL/yreN0CqVQEVJvo=
+
+Name: assets/webui/images/icon_addFriends.mdpi.png
+SHA1-Digest: d/5qUJvWy0Cm+BNoWmfNmxg+66Q=
+
+Name: assets/ui/common/green_button_disabled.png
+SHA1-Digest: GOm7ZqZ4K8/v/kJnzW9KLYHmyfA=
+
+Name: assets/ui/common/green_gradient.png
+SHA1-Digest: Hws6h9K7+rq4g49QdUNhOSmUFoY=
+
+Name: assets/webui/images/statusBubble_Portrait.mdpi.png
+SHA1-Digest: XeLGHfxTgT5m7IEexoj6ULIynU0=
+
+Name: assets/webui/facebook/friends.json
+SHA1-Digest: I90y4hmD2zAnZ30A6ZT9jNuua0Y=
+
+Name: assets/webui/images/icon.friend.hdpi.png
+SHA1-Digest: M3bYMzbWhqFlDbYygtkjQAQxaAI=
+
+Name: assets/webui/images/feint_spotlight.hdpi.png
+SHA1-Digest: OsL1HL8sNWFf9P4Z7nkCShAi+x4=
+
+Name: assets/webui/settings/forgot_password.json
+SHA1-Digest: 5tyAS0mkO3gwd5gvTKGqqx3MZ+0=
+
+Name: assets/decal/decal.plist
+SHA1-Digest: jt3mOrqKBXLyUcIdnKR1LeqAZm0=
+
+Name: res/drawable/ofgfihitlandscape.png
+SHA1-Digest: sk+etLarT3aNHRs5J+gjotG3SSk=
+
+Name: assets/ui/menu/icon_help.png
+SHA1-Digest: Ki/W+1aHYd+P9mmXDPewfAvvaKs=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: t9CBbGuJS9+5b6Tf6IFzYdI2LI0=
+
+Name: res/drawable/ofspinnergray03.png
+SHA1-Digest: 1ZfQZzv7exiSIlmmsssfJIp9BiU=
+
+Name: assets/maps/objects.plist
+SHA1-Digest: nEnjI3Ud7Li7vrro64sZlQR5MrA=
+
+Name: assets/webui/images/blue_bg_gradient.png
+SHA1-Digest: cQGoYYvfsleW3fnHKSANHgi37GA=
+
+Name: assets/ui/hud/message_back_yellow.png
+SHA1-Digest: LLaWKUSDfuivAWHcEDrZ171FyIg=
+
+Name: assets/webui/javascripts/dashboard/profile.js
+SHA1-Digest: wcBdU5IeRMJ/TPbtf0nhEv+Svp8=
+
+Name: res/drawable-hdpi/ofgamefeedviewbackgroundtoplandscape.png
+SHA1-Digest: bQmEYFl/Ut02Hb6K+eAnnImqevg=
+
+Name: assets/webui/images/icon.achievement.hdpi.png
+SHA1-Digest: dsoH1X4iKU0qTD06hgfJR2z39UA=
+
+Name: assets/levels/icon14.png
+SHA1-Digest: x/V3N64Npg0W3RpeO+LRkyFytxI=
+
+Name: assets/webui/images/icon_check.mdpi.png
+SHA1-Digest: iywqLdJNOxfy5OU+rJTPJv7VGW0=
+
+Name: assets/webui/images/space.grid.hdpi.png
+SHA1-Digest: jxtkfQaXsaawsITn3FMO6dEotr4=
+
+Name: assets/webui/images/textField_Large.mdpi.png
+SHA1-Digest: LWsrYSYrcspIliqnWrgpbvvycw8=
+
+Name: assets/webui/javascripts/game_channel_models.js
+SHA1-Digest: HVcHMo7GgXv5M2/0HNByFlbZkKI=
+
+Name: assets/ui/stats/bottom_grey_bar.png
+SHA1-Digest: ONz3jEHGmjJ85o6huhpX/gh1czs=
+
+Name: assets/land/ground_06_layer_04.png
+SHA1-Digest: TVKks7mIJdBUJXVrF7gPQ2ALU3Y=
+
+Name: assets/bullet/bullet_skin_34.png
+SHA1-Digest: 3mDhL5qf4jXAY4snTWaco5XCImo=
+
+Name: res/drawable/of_native_loader_progress_02.png
+SHA1-Digest: D9CSRMVRcvNVPQstS0F8RGkqmW8=
+
+Name: assets/monster/zombi_5.png
+SHA1-Digest: Fy0gZbJoDtfa9nisx4ixuZFGQls=
+
+Name: assets/fonts/arial_black28.png
+SHA1-Digest: P6zP00syWtwEv5Q4yvBDN7ORM18=
+
+Name: assets/monster/boss_2.png
+SHA1-Digest: liKv95igSOP3JkED1AdPMiNZkTk=
+
+Name: res/layout/share.xml
+SHA1-Digest: 7bL8bLZtOJ+cren5lrJtfWv3Ixs=
+
+Name: assets/ui/menu/main/menu_button.png
+SHA1-Digest: ZPRkpmPrNaksSSWt6o0oOkXvYXk=
+
+Name: assets/webui/images/space.grid.mdpi.png
+SHA1-Digest: rLWhtYxTHoV1g1/vbcIFuKwVNzA=
+
+Name: assets/ui/common/button_open.png
+SHA1-Digest: eDVLrTlktWUa0wO2JdIDwA9H1vQ=
+
+Name: res/layout/of_simple_notification.xml
+SHA1-Digest: qjIiOWYR3YMn0JDa30HNq5wTQm4=
+
+Name: assets/bullet/bullet_skin_11.plist
+SHA1-Digest: Qs5iCEgjolHaImwEcXlWXDwiO+A=
+
+Name: assets/bullet/bullet_skin_04.plist
+SHA1-Digest: sY8AknlhGO7lVAHsGnS0EoYO+Mo=
+
+Name: assets/webui/stylesheets/dashboard/statusupdate.css
+SHA1-Digest: oRsd9/ouJZ8fBV1xVRcAGYjo3mU=
+
+Name: assets/ui/menu/option_music.png
+SHA1-Digest: 6OS5iYsSgcRWCFLU9GE1uLbhsz0=
+
+Name: assets/fonts/arial_black16.fnt
+SHA1-Digest: mC1YUXxuXm2ZgCtE3o3BrAsm8M8=
+
+Name: assets/weapon/weapon_10.plist
+SHA1-Digest: nFCVOxDnDalGkh7MX6Iv2bovCcM=
+
+Name: assets/audio/sounds/plazmawall_hit1.mp3
+SHA1-Digest: hl0NDd75zEn+MvPTUz0kwAFQ9lg=
+
+Name: assets/webui/images/tab.bg_hit.mdpi.png
+SHA1-Digest: GfAsg5NB+D4ri1LDEKpScpQPGxc=
+
+Name: res/drawable/logo_alawar.png
+SHA1-Digest: 9dT1l6DEHUaiv3VqqKy7p6mAfcQ=
+
+Name: assets/ui/select_character/green_tab_passive.png
+SHA1-Digest: iwcbhf6VQVX7hZ5fdLuH7SHFHHo=
+
+Name: assets/webui/images/header_bg.hdpi.png
+SHA1-Digest: dyML/xpJTVdZDpCrM/XO5C//gQo=
+
+Name: res/drawable/of_native_loader_progress_01.png
+SHA1-Digest: 8oyinwv3I5B1IQBSnFjkid99xhA=
+
+Name: assets/bullet/bullet_skin_07.png
+SHA1-Digest: cHa7jddEaRxkJmUYHHlSp3Ip6XU=
+
+Name: assets/icons/bonus_skin.png
+SHA1-Digest: IV1IRhQAzc0kWsL5pFZVOm6RbOk=
+
+Name: assets/bullet/bullet_skin_01.plist
+SHA1-Digest: +MHHNOQbbfZ5xbhI3GEPVLMDhCg=
+
+Name: assets/ui/common/load_progress.png
+SHA1-Digest: AU0Ui8bod0CG0S06u8TDo4hyNZs=
+
+Name: res/drawable-hdpi/ofgamebaroffline.png
+SHA1-Digest: v1LALdJZIqgRlUdnlSB5EOasdxI=
+
+Name: assets/weapon/weapon_3.png
+SHA1-Digest: v2B6u3Nyd9QNzlxFNXRmvbDQxrc=
+
+Name: assets/ui/select_character/desc_back.png
+SHA1-Digest: Bpoym226VyhsQ8TWjV9OyrgVmwI=
+
+Name: assets/ui/select_character/heroes/cost_back.png
+SHA1-Digest: JoAen2re15AzmqtDRYm2EOyHXLY=
+
+Name: res/layout/splash_screen.xml
+SHA1-Digest: 5kbMEJjMJ6SRLXCmThJdqkm93us=
+
+Name: assets/audio/sounds/weapon_bazuka2.mp3
+SHA1-Digest: sxWA+KRIzX2nm/Frwfq4BMamfLk=
+
+Name: assets/webui/javascripts/webui-touch.js
+SHA1-Digest: T1WNNYEsblKRNbXb9zcEB0HOLUA=
+
+Name: assets/webui/images/dashboard/icon_profile_remove_friend.mdpi.pn
+ g
+SHA1-Digest: uqGw3jTXWsEodE+Xw6r5H/uzYuI=
+
+Name: assets/ui/stats/perk_green_frame.png
+SHA1-Digest: ThLSMFoc08qfDveArhmyiqA9CzY=
+
+Name: res/drawable/of_native_loader_frame.9.png
+SHA1-Digest: 2OTSFXC5mGKpKeIObZYuLayVu8E=
+
+Name: res/layout/item_row.xml
+SHA1-Digest: 438LQtHJXkiikUiOlFoiD8Grxco=
+
+Name: assets/audio/sounds/bonus_bonus.mp3
+SHA1-Digest: sG3QWduBu12NOKe0R0fQIBCrnec=
+
+Name: assets/ui/hud/panel_inventory.png
+SHA1-Digest: E23hgbu+gyFzez6z5y2tl5JcmCY=
+
+Name: assets/npc/propeller_blade.png
+SHA1-Digest: +B0LJHpYb3iaYbkIMpbffpps4Ws=
+
+Name: assets/ui/stats/perk_yellow_frame.png
+SHA1-Digest: +mbqvESuVkNcRkNN4gRNGhRuoZI=
+
+Name: assets/webui/images/circles.hdpi.png
+SHA1-Digest: owQWevnE+U/ShbJc0Jjb91sqjgw=
+
+Name: res/drawable/of_achievement_icon_unlocked.png
+SHA1-Digest: 8rq748+PduFNJunrSLshHg0/KNI=
+
+Name: assets/ui/daily/location.png
+SHA1-Digest: S586h9oII6gC734FUSwqzKZKn8k=
+
+Name: assets/ui/stats/perk_grey_frame.png
+SHA1-Digest: GiStaEGSy2fOprjZ1LLTKnRby38=
+
+Name: assets/ui/menu/main/panel_3.png
+SHA1-Digest: ge3Nl1283CpyFDvViaPMW8XqwWQ=
+
+Name: assets/audio/sounds/perk_get.mp3
+SHA1-Digest: 2RVxtJ4sKrdrfHPt0Bvzh3YEeqw=
+
+Name: res/drawable-hdpi/ofgamefeedviewbackgroundtopportrait.png
+SHA1-Digest: ft/y3UFd+RzjAOd1CLdISf/ff3o=
+
+Name: assets/land/ground_07_layer_01.png
+SHA1-Digest: pDWELffpVA0WcPTJ2GdHlhdgaRs=
+
+Name: res/drawable-hdpi/ofgamefeedbadgeiconlandscape.png
+SHA1-Digest: guTZGMKwe6VikgwJ5nPqDvHshlg=
+
+Name: assets/webui/stylesheets/dashboard/user.css
+SHA1-Digest: rlAbS3lfVz/tJQ8zJZKPKJibVuo=
+
+Name: assets/webui/dashboard/friends.json
+SHA1-Digest: doiC5jpGPfnNS+CAej3ihyKYlTw=
+
+Name: assets/weapon/weapon_10.png
+SHA1-Digest: QFMrvHIWQuOM8CWRX6bYbM1QuBI=
+
+Name: assets/ui/menu/button_back2.png
+SHA1-Digest: 6WkJ5EaAhoP/doxa50NBGRqmtzg=
+
+Name: assets/webui/images/price_box.png
+SHA1-Digest: 2KK1Xtib26kxoU0DkPTSF0TrMCQ=
+
+Name: assets/webui/images/dashboard/icon_profile_block_user.mdpi.png
+SHA1-Digest: Iwlx9/sU8XFaZ0f8Nh+bG0OrLfY=
+
+Name: assets/webui/images/button.gray_price.hdpi.png
+SHA1-Digest: F0V9IgmAvGj1hvSXQHyJjXl7MKQ=
+
+Name: assets/webui/dashboard/compare_achievements.json
+SHA1-Digest: rtpolCbIkZyowRzl5B5qmd43b7U=
+
+Name: assets/land/ground_10_obj_02_a.png
+SHA1-Digest: KOyd6IdFxqyhE9v5FMTJlxzUjkw=
+
+Name: assets/webui/images/frame.small.mdpi.png
+SHA1-Digest: gSlat2q4KKJ0U2a/qv4oiORQxIA=
+
+Name: assets/fonts/arial_black16.png
+SHA1-Digest: rd0m52Xbr8JEHCLnERMn+DgwmXU=
+
+Name: assets/player/player_skin3.png
+SHA1-Digest: GYSHGs6K0ZiSs//t2IH0rXTwzuA=
+
+Name: assets/webui/images/whiteDisclosure.hdpi.png
+SHA1-Digest: R8lgci9j8jnQ/oqRJbmUwvyUHgw=
+
+Name: assets/webui/images/button.gray.hit.mdpi.png
+SHA1-Digest: uTGcuue4mM7r8vi0rBxIIEl0MVI=
+
+Name: assets/webui/images/button.gray.hit.hdpi.png
+SHA1-Digest: Fa/dfmgI5OuZSjy4K/Yr4/d/BRw=
+
+Name: assets/bullet/bullet_skin_40.png
+SHA1-Digest: dUpqO4HV3U+VBntE/CXjJx9gPzo=
+
+Name: assets/ui/select_character/equipment/equip_button_selected.png
+SHA1-Digest: aK2Jn9eKDeQsuaQDG8gAmrlMuWE=
+
+Name: res/drawable-hdpi/of_achievement_notification_locked.png
+SHA1-Digest: M+zFasf/WAI9/R+0NOD/ZkK+NvY=
+
+Name: assets/webui/images/frame_large.png
+SHA1-Digest: yvBaqzpB26iQA1km8SwwnaGxtR8=
+
+Name: res/drawable-xhdpi/ofgamebarparentalcontrolsicon.png
+SHA1-Digest: Rxy1gOHh5ja4jH1HLxze1+21/7A=
+
+Name: assets/audio/sounds/bonus_fire.mp3
+SHA1-Digest: uXhY+GKSX7w+iBWnx1JAg3pP/pg=
+
+Name: assets/ui/menu/main_back.png
+SHA1-Digest: VlRatuFUnHEWeAJGpyDIzHep/AI=
+
+Name: assets/audio/sounds/boss_death.mp3
+SHA1-Digest: TCyn2ie0gpT79TJeJFL6W35tGrc=
+
+Name: assets/webui/manifest.plist
+SHA1-Digest: NZtrMZGIFYuUMPEwdIZEASmzTSU=
+
+Name: assets/npc/helicorter_body.png
+SHA1-Digest: d0XfLBr58EFcGKxVSoARrCrdtjo=
+
+Name: res/layout/get_reward.xml
+SHA1-Digest: PZwfXerpF7puKoSSZRXfsDDgQAI=
+
+Name: assets/webui/images/icon.leaf.white.mdpi.png
+SHA1-Digest: pOKNVNA4lU6EkQ/X058eRw9Rsks=
+
+Name: res/drawable-hdpi/ofgamebarsmalldisclosure.png
+SHA1-Digest: pwoQ1oCmoaNoNzGftKpMKRzw3Y0=
+
+Name: assets/monster/boss_4.png
+SHA1-Digest: 2+PUtR38+SdhArTpB573+gkWeEs=
+
+Name: assets/bullet/bullet_skin_50.plist
+SHA1-Digest: OAmJ86TnrOP6P+aJyvpcoNiD3uQ=
+
+Name: res/drawable/of_native_loader_leaf.png
+SHA1-Digest: y/pdyIFzZVdRDmh2GpaZowIlPMM=
+
+Name: res/drawable/ofgamebarsmalldisclosure.png
+SHA1-Digest: LwUMR8szg3UqhvcWiaxe9iEwZLM=
+
+Name: assets/webui/gamefeed/android/config_is_tweaked
+SHA1-Digest: Y8JK+q/q27T9XnGrX/o0CknGbpg=
+
+Name: assets/webui/javascripts/date-format.js
+SHA1-Digest: ZLX2iTjefNrI+o6/xhH3QFqcWeI=
+
+Name: assets/land/ground_09_05.png
+SHA1-Digest: dFqil6LkaTzXtXbM7v75osB5R08=
+
+Name: res/drawable-hdpi/ofgamebarcelldividerportrait.png
+SHA1-Digest: ahSbOyuljv0Se/pdNm/dsc+zy5Q=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: bw8g6P6pOPsMjKUSGrZ10t4uKhg=
+
+Name: res/drawable-hdpi/of_icon_dashboard_settings.png
+SHA1-Digest: mbk+NK59JM38DEXkTOXnr+qihcE=
+
+Name: assets/webui/images/icon_x.mdpi.png
+SHA1-Digest: YzrrDOo3l4FbZaDDpEjE95TKqgs=
+
+Name: assets/ui/select_character/equipment/points_green_back.png
+SHA1-Digest: 5QLSZ+1h5Rkg+8Kl12SjU2QHvsI=
+
+Name: res/drawable/ofgamebarcelldividerlandscape.png
+SHA1-Digest: F01X4XoKhu0LwyJ/u5Lhus4LdZs=
+
+Name: assets/levels/icon23.png
+SHA1-Digest: nvc/BBLMzV7xR80ZLH711Ifpxzk=
+
+Name: assets/webui/images/input.text.mdpi.png
+SHA1-Digest: rOzZyKifkUiJuIXOpX54Hh2Fjlk=
+
+Name: assets/webui/images/icon.leaf.gray.hdpi.png
+SHA1-Digest: JAgKUGIPIhCxJass26rfFi4iUys=
+
+Name: assets/audio/sounds/weapon_ak.mp3
+SHA1-Digest: BOIPjcRi2SiJLBEyVCd+Qx68vlc=
+
+Name: res/drawable-xhdpi/ofgamefeedbadgeiconlandscape.png
+SHA1-Digest: 1YyAZNb8DW1mnSLQb4a90JYFISc=
+
+Name: res/drawable/ofadbadge.png
+SHA1-Digest: uI4H0oqCSkjg1kytKbIa2E3XhyQ=
+
+Name: assets/bullet/bullet_flash.plist
+SHA1-Digest: tTOgWKT2S9HA8Py9S++GcgSmJhU=
+
+Name: assets/bullet/bullet_skin_12.plist
+SHA1-Digest: kE4wDywl1GETGLWVwXCqjSK1J4Q=
+
+Name: res/drawable-xhdpi/ofportraitadbordercell.png
+SHA1-Digest: rPnyWWZaN+h1157zE/Mr2HVjUI4=
+
+Name: assets/webui/images/icon.leaf.green.hdpi.png
+SHA1-Digest: lfOqHgIOxBscJHPzOj0qR0hvnMY=
+
+Name: assets/webui/images/cell_table_hit.hdpi.png
+SHA1-Digest: L21Htowvxz8U/VVPwNe5UTPH+7Q=
+
+Name: assets/audio/sounds/mutant_scream_attack.mp3
+SHA1-Digest: 6LWu5kySWOvuf3zzdKBojNGZics=
+
+Name: assets/land/ground_03_layer_02.png
+SHA1-Digest: Ih84HdxnynMK7gFOld3+gIdzBlQ=
+
+Name: assets/webui/settings/profile_configuration.json
+SHA1-Digest: pz0/hyUKECzDwf1OrIUk37EYaRQ=
+
+Name: assets/levels/icon09.png
+SHA1-Digest: os1UwmqLbf5g5ti6DJ2xv142mk4=
+
+Name: assets/webui/images/settings/button_radio_on.hdpi.png
+SHA1-Digest: 9OOX87qAAdEB1Yq28m9MaVMv4Ts=
+
+Name: assets/ui/common/green_gradient_left.png
+SHA1-Digest: WD4QWu3cPHmS09h7wnlcRtRnlvU=
+
+Name: assets/levels/icon22.png
+SHA1-Digest: ad5XLkZfpm4erPGYJYBDCznkuIo=
+
+Name: assets/ui/menu/main/button_5.png
+SHA1-Digest: Dhlb9fmSXMMZzpJaANu3wI5J4Ds=
+
+Name: assets/levels/icon06.png
+SHA1-Digest: B3/vrrnu3np+KTZoVHSjjYyNGNI=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: QPjJMfR/D/KDKo74AhfOMCQo4JY=
+
+Name: assets/webui/images/icon.user.female.large.mdpi.png
+SHA1-Digest: iUur/tO986u/Os6dXaTsKw1smXQ=
+
+Name: res/layout-xlarge/of_nested_window.xml
+SHA1-Digest: end7LZTyLgVkT/fDu6oevd9jffc=
+
+Name: assets/land/ground_10_obj_01.png
+SHA1-Digest: c8NnRQoFC3lOnGA+RO26VUikOkU=
+
+Name: assets/maps/map_geometry.png
+SHA1-Digest: uouH7C0GLo8zpKU/O2Kcv25Z+XM=
+
+Name: assets/webui/intro/index.json
+SHA1-Digest: HNQ7Fe1he6YiRdtGh7iDyKSaDz4=
+
+Name: assets/weapon/weapon_icon.plist
+SHA1-Digest: uzx05E5YDydXvwPxQ8XcROh5A2Q=
+
+Name: res/drawable-xhdpi/ofgamebarachievementicon.png
+SHA1-Digest: JxpyVqzSqDXEW+t7bXuXAcGjipI=
+
+Name: assets/bullet/bullet_skin_02.plist
+SHA1-Digest: gZH+WlUtSvE+87I3tKCmFXF/5vE=
+
+Name: assets/ui/black_frame.png
+SHA1-Digest: m75RSZoq2em+prJ5a4u2xVppePU=
+
+Name: assets/ui/select_character/equipment/help_button_down.png
+SHA1-Digest: QDtOqwVxb4dfW8MoJQrAx0EVreg=
+
+Name: assets/decal/decal.png
+SHA1-Digest: mkb5lg+BX9th+Z5B7Iyi2t/yOqk=
+
+Name: assets/bullet/bullet_skin_12.png
+SHA1-Digest: D5lX1o9S/Q7AatRbKm5xAV1sFMU=
+
+Name: assets/ui/common/coin_blue.png
+SHA1-Digest: uQidd0Eo1tGv3Cgbapj5k9MfgIw=
+
+Name: assets/audio/sounds/weapon_arbalet.mp3
+SHA1-Digest: MMKlYK+MkKj/bC92fF4ZhuqaFRY=
+
+Name: assets/audio/sounds/boss3_attack1.mp3
+SHA1-Digest: qqKnP2mvpCTosIwLVQ+QH7+VVqU=
+
+Name: assets/ui/stats/progress_bar_background.png
+SHA1-Digest: OmOIXovjfsq/nEzbQImcGMZNi78=
+
+Name: assets/webui/images/icon_plus_white.hdpi.png
+SHA1-Digest: Ef7VGpiLOdr1+AwJgDX8A3QYcqA=
+
+Name: assets/webui/images/icon.friend.mdpi.png
+SHA1-Digest: hKDwBiCJyejsoFA6NLbOxSv+3xw=
+
+Name: assets/bullet/bullet_skin_34.plist
+SHA1-Digest: /abnZe7nDydzUNVsxLkTkLFOqQI=
+
+Name: assets/player/player_down.plist
+SHA1-Digest: sLAb2qiE5vPI1+VXx69z+prz4oo=
+
+Name: res/drawable/of_achievement_notification_locked.png
+SHA1-Digest: YmXaoZ+LOmBbsYLocOF8VWwFimQ=
+
+Name: assets/ui/menu/main/button_3.png
+SHA1-Digest: zKUTu4gIX8AT8XKWX99Y6G8LK+8=
+
+Name: assets/fonts/arial_black28_back.fnt
+SHA1-Digest: E4AdsilrD8MVigJI64jpYAJT5yM=
+
+Name: assets/monster/boss_2.plist
+SHA1-Digest: kyIKenbJzmZyx8YfCMSDGM2LPlk=
+
+Name: assets/land/ground_06_layer_02.png
+SHA1-Digest: KIDBhgRNi4L1gkHs/44FZ+GRsH8=
+
+Name: assets/bullet/bullet_skin_14.png
+SHA1-Digest: bENVjf8jHj6yXEZjQH6UipfSNc8=
+
+Name: assets/webui/settings/parental_controls_disable.json
+SHA1-Digest: GSilg2876BH30a92fnHDGOjQt8Q=
+
+Name: assets/monster/zombi_4.plist
+SHA1-Digest: N/TpBIEMkxO7lZCP/XQXYgOOz0M=
+
+Name: assets/webui/javascripts/settings/privacy_settings.js
+SHA1-Digest: UXNoaeRl7qd9ZZBdo72z524hQ+Y=
+
+Name: assets/ui/inventory/icon_implants_points.png
+SHA1-Digest: Ish5QDgl5aUROBCq6Y/WDFiPGko=
+
+Name: assets/ui/menu/option_sound.png
+SHA1-Digest: 6sUBb39Epbh3XgRSCkdyDltVrdU=
+
+Name: assets/audio/sounds/weapon_tesla2.mp3
+SHA1-Digest: YSpwaBhFCCAuxjYkZcyx5hLHaLQ=
+
+Name: assets/ui/select_character/equipment/help_green_back.png
+SHA1-Digest: O2ckoqsuDvUlX2Tvn5ZaNi5NAJo=
+
+Name: assets/levels/icon08.png
+SHA1-Digest: Chx/dyoZVdcW31YlY1vK0FgM+pI=
+
+Name: assets/webui/images/icon.play.mdpi.png
+SHA1-Digest: IMyiV56AMM06TOa6W7W2NUP71So=
+
+Name: assets/bullet/bullet_skin_81.plist
+SHA1-Digest: nbGkoKGOTBaEBW8DTGJ+F/lsB9s=
+
+Name: res/drawable/button_backtomenu.9.png
+SHA1-Digest: 6yJNef0tsF7ytIqgiUUrY2T3//A=
+
+Name: assets/bullet/bullet_skin_32.png
+SHA1-Digest: qx2A3sfWS/J+S4XyV1DwKikHQA8=
+
+Name: assets/ui/menu/option_laser_aimer.png
+SHA1-Digest: LFV/YLFjzJrZiHFkl1HYRgSZYBo=
+
+Name: res/drawable/of_feint_points_white.png
+SHA1-Digest: ZltL+at21h0PpHrFO6I2JE0+jU0=
+
+Name: assets/fonts/arial_black25_back.png
+SHA1-Digest: JwxlRVXOhQr7EtudQdpivhEYzXA=
+
+Name: assets/ui/stats/header_green_bar.png
+SHA1-Digest: A8J/HkynFEp7oldVB+HLm47/6PQ=
+
+Name: assets/bullet/bullet_skin_22.png
+SHA1-Digest: lty+MAcfdOy1kxoZ9XE8XbjiB+U=
+
+Name: res/drawable/ofgamefeedviewbackgroundtoplandscape.png
+SHA1-Digest: ncv8QdV6hmIQPty+pXoOsvvVAwM=
+
+Name: assets/weapon/weapon_9.plist
+SHA1-Digest: GFDHfpfa31vNVf8e/o3pgpcDlXE=
+
+Name: assets/levels/icon18.png
+SHA1-Digest: kvMzbMqubJovdiDpqH/BkNxxwwU=
+
+Name: assets/levels/icon21.png
+SHA1-Digest: jpjcogLET6A1tViKRqlakbVUB4s=
+
+Name: assets/ui/select_character/equipment/radio_item_mask.png
+SHA1-Digest: 7ktL0vXJAOYl5VWKhc5u4SRHJps=
+
+Name: assets/land/ground_01_obj_02.png
+SHA1-Digest: +KBxFE9hGIytsC31BUbNBsXLMI8=
+
+Name: assets/webui/images/button.gray.mdpi.png
+SHA1-Digest: 4ouu3PL7VjkKHP16EMmYfW3JcZE=
+
+Name: res/drawable-xhdpi/ofgamebarleaderboardsicon.png
+SHA1-Digest: wJeJWS/66a9mi3JzZRWw+8eBH8o=
+
+Name: assets/ui/menu/menu_pause_inner.png
+SHA1-Digest: gNLBtjSmaxntH6gugl4aYys3el0=
+
+Name: res/drawable-hdpi/ofgamebarleaderboardsicon.png
+SHA1-Digest: r/APBsfzXV50j1GxcZwysIWM3zw=
+
+Name: res/drawable/ofgamefeedviewbackgroundtopportrait.png
+SHA1-Digest: 3YQDprl2MxCgmZD6wZ1eCEdjLk8=
+
+Name: assets/weapon/weapon_5.png
+SHA1-Digest: M4oiFcShgF2Y7y1zooUSK2t7Gbo=
+
+Name: assets/webui/settings/email.json
+SHA1-Digest: +Q67acqkEOZOoJXVoUDZiVgbtYM=
+
+Name: assets/levels/icon11.png
+SHA1-Digest: Hg+LZH/67OEjIGluVoGyc9FhKnw=
+
+Name: assets/webui/images/complete_profile.png
+SHA1-Digest: CmkxpXpf3rKTtF4hbAeEfPGoYyo=
+
+Name: assets/bullet/bullet_skin_30.plist
+SHA1-Digest: auTMOW6uIIfnMDaXbuIBkaqLX88=
+
+Name: assets/webui/images/replay.hdpi.png
+SHA1-Digest: ffT07/1wFRWBxuY192GCw+RVupY=
+
+Name: res/drawable-hdpi/ofportraitadbordercell.png
+SHA1-Digest: aBiv0+RGAzm8yFfNzrKtkDua0mw=
+
+Name: assets/audio/music/music_game3.mp3
+SHA1-Digest: Fz9fkVjaKJ926zT2q0ovEod2ugM=
+
+Name: assets/webui/settings/remove_account.json
+SHA1-Digest: XngJ1M8ey/u7XtIDhuJN7ifB+KQ=
+
+Name: assets/webui/images/icon_arrow_down.mdpi.png
+SHA1-Digest: j2Js2sjl/wx8OdtTLlebSRJ1utI=
+
+Name: res/drawable/ofgamebarachievementicon.png
+SHA1-Digest: TGlVwLIqxzQAOstnjF/oXFExvKk=
+
+Name: res/drawable/of_native_loader_progress_03.png
+SHA1-Digest: 2YrpBnwox/Bbo1h9TAndXLbOe9E=
+
+Name: assets/bullet/bullet_skin_80.plist
+SHA1-Digest: N+WMZOkww/nLVsV8qPSDsKs23ME=
+
+Name: resources.arsc
+SHA1-Digest: 2XRuU6/kwgnEpjiS7UKVYxQDqRM=
+
+Name: assets/webui/images/button_orange_hit.mdpi.png
+SHA1-Digest: EY+S70YHmmN47IZAgePGOL0XlWI=
+
+Name: assets/weapon/weapon_3.plist
+SHA1-Digest: P16EqV4oa3I1mBhxZWQ2YVxj/vI=
+
+Name: res/drawable/button_subscribe.9.png
+SHA1-Digest: eGMhlL6uX+of8kcuMYTTmrhXQKg=
+
+Name: assets/webui/images/icon_friends_small.hdpi.png
+SHA1-Digest: w9+aUAyluhoOgEYWXOd3QNx1q6E=
+
+Name: assets/webui/images/dashboard/icon_profile_report_user.hdpi.png
+SHA1-Digest: KawVD4Gd+FWPr10cfm0PwIk5Hw0=
+
+Name: assets/webui/images/loading.spinner.hdpi.png
+SHA1-Digest: eErzc38iBqEeuF0vxQMjVED2vI8=
+
+Name: assets/ui/choose_level/level_frame.png
+SHA1-Digest: ZICrDIbdnhyU8lmX4sGOS5z7c98=
+
+Name: assets/icons/implant_icon.plist
+SHA1-Digest: G8MrN92MS/q0ODARFb/eQmxyyu0=
+
+Name: assets/webui/settings/name.json
+SHA1-Digest: e5u3ppiP4xp8t1Jb/S0U88LbrCU=
+
+Name: assets/webui/images/icon_wall.mdpi.png
+SHA1-Digest: NjIWZ9EnEFKgvgUB/1aw/MjE8Jc=
+
+Name: assets/webui/dashboard/statusupdate.json
+SHA1-Digest: MPnK1Ak+4D8xh/QJnMLNaH7Pq90=
+
+Name: assets/webui/gamefeed/android/config.json.tweaked
+SHA1-Digest: 9VsxqAvCdRCQt520H+zlAab/HI0=
+
+Name: res/drawable-xhdpi/ofadbadge.png
+SHA1-Digest: Y0NVqyfQ2xOlGGVFBXwATH9/Tu8=
+
+Name: assets/ui/menu/menu_pause_back2.png
+SHA1-Digest: 7wq5ffMTT3puogKkvUowsGb3lWI=
+
+Name: assets/audio/sounds/weapon_gun.mp3
+SHA1-Digest: nM6LanzN5wO8roin1qFCL5mHb1A=
+
+Name: assets/icons/implant_icon.png
+SHA1-Digest: mSibjiUl3GxOd6yGSGcAlW/srlA=
+
+Name: res/drawable-xhdpi/ofgamefeedviewbackgroundtopportrait.png
+SHA1-Digest: 6M9099kyBb3EwBsfK6QJX9E0dI4=
+
+Name: assets/bullet/bullet_skin_15.png
+SHA1-Digest: bI56HxBfLXxEyep2E5PJOulMlqA=
+
+Name: assets/icons/arsenal_icon.png
+SHA1-Digest: o6kVtnyuOO+GKg1XJ8R96Zm7TRY=
+
+Name: res/drawable-xhdpi/ofgamebardeveloperannouncement.png
+SHA1-Digest: eWUseocoD8TuaGcuW1gtaOHQNUg=
+
+Name: res/drawable/of_native_loader_progress_06.png
+SHA1-Digest: 8Lnj5TJ3CVrukIzaPUj7ItOlWqU=
+
+Name: res/drawable-hdpi/ofgamefeedbadgeiconlandscapehit.png
+SHA1-Digest: 9KduIVd/AnaDHZXoQIqrO+Sfws0=
+
+Name: assets/ui/hud/button_spell_back.png
+SHA1-Digest: uRZrwb0k4mVTyJnnRmsc0i2CETI=
+
+Name: assets/webui/images/icon.friends.hdpi.png
+SHA1-Digest: iHT892tFh/daFtcpGh2LF2b2X/o=
+
+Name: assets/webui/javascripts/settings/profile_secure.js
+SHA1-Digest: gglv6XMYwgHD+fVgKwb9/ImU7vk=
+
+Name: assets/player/player_skin8.plist
+SHA1-Digest: gjHBkaZZzm9e6T/lKDNydP7lFdk=
+
+Name: assets/webui/images/icon_check.hdpi.png
+SHA1-Digest: L0u4rh0NhgsK9WIaty7FT1xWgyQ=
+
+Name: assets/webui/index.html
+SHA1-Digest: WxY8jY53kd9mH/t1TFdPJrv01ko=
+
+Name: assets/audio/sounds/menu1.mp3
+SHA1-Digest: OtXlWM0CsJe4MdoJDha/9PtRg2Y=
+
+Name: assets/ui/stats/green_progress_bar2.png
+SHA1-Digest: UvrdwqBUqYQIoRpzWAMLXMFWzuo=
+
+Name: assets/audio/sounds/monster1_dead3.mp3
+SHA1-Digest: bddgpI4LfFUKGz4Mi5dyA2tdd90=
+
+Name: assets/player/player_skin2.png
+SHA1-Digest: uZFj1VfcbSFWs88dW7hH5Ck3nI8=
+
+Name: assets/webui/images/logo.small.hdpi.png
+SHA1-Digest: E0tVnTswJmGfDdIY2MxsBzNldZ8=
+
+Name: res/drawable/ofgamefeedbackgroundbottomlandscape.png
+SHA1-Digest: 9ATTXt72pMxAVDtITP6XajF1QlE=
+
+Name: res/layout/gift_code.xml
+SHA1-Digest: oP+KciZm7kfLoXkRtFvRVs12lAU=
+
+Name: assets/webui/images/input.text.hdpi.png
+SHA1-Digest: dLy8CMNjyonpEy8CcWIFJakhOQA=
+
+Name: res/drawable/ofspinnergray01.png
+SHA1-Digest: IJXYMcQCMZaWz9jtvVDTiKlpxUc=
+
+Name: assets/webui/intro/found_device.json
+SHA1-Digest: eym5rHnptPnwUKMqwxKFes1BifY=
+
+Name: assets/webui/dashboard/user.json
+SHA1-Digest: HSV58jIkN4j5/bUXGgqybEbzpqE=
+
+Name: assets/webui/images/intro.friends.hdpi.png
+SHA1-Digest: Pz16rR/7Y5PSqP9cmiMjsX0BMgM=
+
+Name: assets/webui/images/icon.leaf.green.mdpi.png
+SHA1-Digest: KExfierftA/+KacKbcbbI46nGhI=
+
+Name: assets/audio/sounds/monster1_dead2.mp3
+SHA1-Digest: kege2FOmmkvkeRS44NaH08eyCss=
+
+Name: assets/ui/stats/perk_green_frame2.png
+SHA1-Digest: X+BU/7HVbeXfYihHXR9C71nwh+A=
+
+Name: assets/Arial
+SHA1-Digest: rqywh4p6YyjHIo9ZwvGqmwFPRvI=
+
+Name: res/drawable-xhdpi/ofgamefeedbadgeicon.png
+SHA1-Digest: wzkAiCd3kuVgBjmOZBcQSHVqdxs=
+
+Name: res/drawable/facebook.png
+SHA1-Digest: bHEEg8WHt3h3FwUuf8T58K8ysqQ=
+
+Name: res/drawable/ofspinnergray08.png
+SHA1-Digest: rRrfufptfFd5yrQVH3mfIseXUHY=
+
+Name: assets/webui/images/frame.profile.mdpi.png
+SHA1-Digest: rskCBpMzyLGZcJje9cjJ00TzYFM=
+
+Name: res/layout/subscriber_layout.xml
+SHA1-Digest: jykWPTeZ7JraKPRFX3EdbgP49RA=
+
+Name: assets/webui/javascripts/webui-action.js
+SHA1-Digest: IsPasuT06fID0e1yP83V9FAG9BY=
+
+Name: res/drawable-xhdpi/ofgamebaroffline.png
+SHA1-Digest: Su61+rEiC7C9pulylzM6ToAPR+M=
+
+Name: res/drawable/ofgamebarprofileframesmall.png
+SHA1-Digest: vgiAOW8tTI4isw3/QRQRhvx3QJc=
+
+Name: res/drawable/of_native_loader.png
+SHA1-Digest: ZTE9PhWCpmHcT1IiznCIG29qYyU=
+
+Name: assets/webui/images/logo.hdpi.png
+SHA1-Digest: aO5sG/DnZ4i15TQ+7pjar0oh9Z4=
+
+Name: assets/maps/objects.png
+SHA1-Digest: MmUw1iQUmu8MntjTmmDPEx6u94A=
+
+Name: assets/webui/images/icon_facebook_large.hdpi.png
+SHA1-Digest: 3bKlRNjF7HVEFXDeOZm6zU3sbJg=
+
+Name: assets/audio/sounds/plazmawall_hit3.mp3
+SHA1-Digest: BYi4DNxAHBEmT00pXTuW5B38mVg=
+
+Name: assets/bullet/bullet_skin_33.png
+SHA1-Digest: 7uXI9uUttiB9s54G0IMlT0GKi+I=
+
+Name: assets/fonts/arial_black22.png
+SHA1-Digest: hdoEctrkKgnUka88d4TJ1clJaW0=
+
+Name: assets/ui/common/yellow_button_down.png
+SHA1-Digest: CMVRr6vFZl8si1s32KlAnUeaIsc=
+
+Name: res/drawable-hdpi/ofgamefeedbackgroundbottom.png
+SHA1-Digest: 5cTM5BRtsvqUYG3ef98j6p5FkcA=
+
+Name: assets/webui/images/dashboard/icon_profile_report_user.mdpi.png
+SHA1-Digest: jySTB/nPwwozdI2z845VPZWvAqk=
+
+Name: assets/ui/select_character/equipment/bonus_num_frame.png
+SHA1-Digest: mtaFb8Wy8hh7+5tYzMMmTY5vfUU=
+
+Name: res/drawable/ofgamebardeveloperannouncement.png
+SHA1-Digest: 9KopSQ48eJO2lykSr36GTB9CHKk=
+
+Name: assets/maps/map_geometry.plist
+SHA1-Digest: f7JJlW3UA/SrhFeybM7FDHn9siI=
+
+Name: assets/fonts/arial_black18.png
+SHA1-Digest: FxjTZvTXD1tpTxcGAxGtSZsK2is=
+
+Name: res/drawable/logo_alawar_old.png
+SHA1-Digest: LxRTnchCZDXEMdfAIceztleY+hs=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: 0oNeVhq2eFUNNuUckRaMK4dIBJs=
+
+Name: res/drawable/ofspinnergray.xml
+SHA1-Digest: UmiSVzWYsc504l4p3ljXkmjmaJs=
+
+Name: assets/webui/gamefeed/ios/test.mdpi.png
+SHA1-Digest: r04kgIt3/++BhQbAgJ3H+3rOXxk=
+
+Name: assets/webui/images/intro.friends.mdpi.png
+SHA1-Digest: qEaCFHMYP74j+cM+pBh/8+d11+0=
+
+Name: assets/levels/icon12.png
+SHA1-Digest: PiSd6d/b+6NIJP7XvZX32UMfKQU=
+
+Name: assets/webui/stylesheets/settings/profile_configuration.css
+SHA1-Digest: hCrwhFyzLS1pPPg95wMVlZw97zc=
+
+Name: assets/ui/menu/main/button_4.png
+SHA1-Digest: Yh9ezXnZi2HA14MJIVdsI7zWeCA=
+
+Name: assets/weapon/weapon_6.plist
+SHA1-Digest: p0gzQJ6iPgvHNGlure1JE63VTA4=
+
+Name: assets/fonts/arial_black28.fnt
+SHA1-Digest: 3cQp16v934JOz/28PWEJtztV3qc=
+
+Name: res/drawable-hdpi/ofgamebarservererroricon.png
+SHA1-Digest: MxMDP0uiq+1IaTTGokSCQlEaUyQ=
+
+Name: res/drawable/ofgamefeedbadgeicon.png
+SHA1-Digest: aXr8eJsNAghzxZHmLKE6P42iLZY=
+
+Name: assets/land/ground_04_obj_02.png
+SHA1-Digest: +IsGVpvuQIIG043JtkbnWAzWFfE=
+
+Name: assets/bullet/bullet_skin_08.plist
+SHA1-Digest: OcgZgcita4eOUkoQxFtJQSl/+ds=
+
+Name: assets/land/ground_02.png
+SHA1-Digest: iewig5tiMfw5omtd6bQyxH30p2c=
+
